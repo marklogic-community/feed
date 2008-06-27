@@ -7,7 +7,7 @@ let $count := xs:integer(xdmp:get-request-field("c","20"))
 let $count-start := try {xs:integer(xdmp:get-request-field("cs","1"))} catch ($e) {1}
 let $s := xdmp:get-request-field("s","")
 let $sort := xdmp:get-request-field("sort", "rel") (: rel | date :)
-let $debug := xdmp:get-request-field("debug", "") (: true :)
+let $debug := xdmp:get-request-field("debug", "true") (: true :)
 
 (: 
 ::parse the search term - looking for:
@@ -20,6 +20,9 @@ let $word := ()
 let $word-neg := ()
 let $phrase := ()
 let $phrase-neg := ()
+
+(: the fields to search :)
+let $fields := ("feed-title", "feed-detail")
 
 (: find phrases surrounded by quotes - replace the space :)
 let $tokens :=
@@ -57,44 +60,59 @@ let $t1 :=
         else if ($t != "")
         then xdmp:set($word, ($word, $t))
         else ()
+
 (: 
 :: build the queries 
 :: wildcard - automatically add a trailing wildcard
 :: case sensitivity - lower case terms are automatically insensitive, any upper case term make is sensitive
 :)    
 let $wq :=
-    cts:word-query(
-        (
-            for $w in $word
-            return
-            if (fn:ends-with($w,"*")) then $w else fn:concat($w,"*"),
-            $phrase
-        )
-        ,
-       ("punctuation-insensitive", "wildcarded")  
+    (
+        for $w in $word return
+        cts:field-word-query(
+        	$fields,
+            (if (fn:ends-with($w,"*")) then $w else fn:concat($w,"*"))
+         )
+         ,
+        for $p in $phrase return
+        cts:field-word-query(
+        	$fields,
+            $p
+         )
      )
              
 
-let $wqn :=
-    cts:not-query(
-        cts:word-query(
-            (
-                for $wn in $word-neg
-                return
-                fn:substring-after($wn,"-"),
-                ("punctuation-insensitive"),
-                for $pn in $phrase-neg
-                return
-                fn:substring-after($pn,"-")
-            )
-        )
-   )
 
+let $wqn :=
+    (
+        for $wn in $word-neg return
+        cts:not-query(
+            cts:field-word-query(
+            	$fields,
+                fn:substring-after($wn,"-")
+             )
+         )
+         ,
+        for $pn in $phrase-neg return
+        cts:not-query(
+            cts:field-word-query(
+            	$fields,
+                fn:substring-after($pn,"-")
+             )
+         )
+     )    
+
+(: build the cts:query :)
+let $q :=
+    if ($wq or $wqn)
+    then cts:and-query(($wq, $wqn))
+    else ()
+    
+    
+    
 (: run the search :)
-let $q := ($wq, $wqn)
-let $query-full := cts:element-query((xs:QName("feed:title"),xs:QName("feed:detail")),cts:and-query($q))
 let $debug-search-start := xdmp:query-meters()/qm:elapsed-time
-let $sr := cts:search(fn:collection(feed:item()), $query-full, ("unfiltered") )
+let $sr := cts:search(fn:collection(feed:item()), $q, ("unfiltered") )
 let $sres-count := fn:count($sr)
 let $sres :=  
     (: the search call :) 
@@ -157,7 +175,7 @@ return
         	    <link rel="stylesheet" href="../style/feed.css" type="text/css"></link>
         	</head>
         	<body  LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
-        	{if ($debug) then $debug-result else ()}
+        	
             <table width="100%">                   
             {    
              <tr>

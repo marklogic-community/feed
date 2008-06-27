@@ -53,13 +53,15 @@ sample-app
 
 	the admin application has at least one example for each of the api calls. it also has an example
 	that shows how to update feed subscriptions once they have been created. The calling of the 
-	subscription update query is teh responsibility of the API programmer rather than be embedded in the API itself. All of
+	subscription update query is the responsibility of the API programmer rather than be embedded in the API itself. All of
 	the code can be found in feed/admin/lib. The example that updates the subscriptions is
 	feed/admin/lib/subscription-check.xqy. this process can be automated through the use of wget and a cron job.
 	
 	there are several sub-directories in sample-app aside from lib. lib contains the XQuery modules
 	that map to the admin functions. style contains a stylesheet for web rendering. xhtml contains
 	.xqy modules that generate XHTML pages.
+	
+	the sample app search requires the field configuration described below
 	
 
 PERFORMANCE TUNING
@@ -108,7 +110,7 @@ feed items, the following configurations are suggested
    local element name: subscription
    local attribute name: status
    
-   Word Query 
-   Includes
-   local name: title         namespace: http://marklogic.com/xdmp/feed
-   local name: detail        namespace: http://marklogic.com/xdmp/feed 
+   Field
+   Name				Includes		Index Settings
+   feed-detail  	detail  	 	+stemmed (decompounding) 	+word   +fast phrase 	+trailing wildcard
+   feed-title 		title 			+stemmed (decompounding) 	+word   +fast phrase 	+trailing wildcard

@@ -1122,42 +1122,45 @@ define function feed-type($f as node()) as xs:string {
     else "unknown"
 }
 
+(: gotchas:
+:: multiple <title> elements: get the first element we find 
+:) 
 define function feed-title($f as node()) as xs:string {
 	(: rss 2.0 :)
 	if ($f/rss)
 		then if ($f/rss/channel/title/text())
-		     then $f/rss/channel/title/text()
+		     then $f/rss/channel/title[1]/text()
 		     else ""					
 	(: rss 1.0 or earlier :)
 	else if ($f/rdf:RDF)
 	    then if ($f/rdf:RDF/rdf:channel/rdf:title/text())
-	    then $f/rdf:RDF/rdf:channel/rdf:title/text()
+	    then $f/rdf:RDF/rdf:channel/rdf:title[1]/text()
 		else if ($f/rdf:RDF/purl:channel/purl:title/text())
-		then $f/rdf:RDF/purl:channel/purl:title/text()
+		then $f/rdf:RDF/purl:channel/purl:title[1]/text()
 		else if ($f/rdf:RDF/rdfns:channel/rdfns:title/text())
-		then $f/rdf:RDF/rdfns:channel/rdfns:title/text()
+		then $f/rdf:RDF/rdfns:channel/rdfns:title[1]/text()
 		else ""
 	(: atom 1.0 :)
 	else if ($f/atom:feed)
-		then $f/atom:feed/atom:title/text()
+		then $f/atom:feed/atom:title[1]/text()
     (: atom 0.3 :)
 	else if ($f/atompurl:feed)
-		then $f/atompurl:feed/atompurl:title/text()
+		then $f/atompurl:feed/atompurl:title[1]/text()
 	else ""
 }
 
 define function feed-link($f as node(), $pos as xs:integer) as xs:string {
     (: rss 2.0 :)
     if ($f/rss)
-    then if ($f/rss/channel/link[$pos]/text())
-         then $f/rss/channel/link/text()
+    then if ($f/rss/channel/link/text())
+         then $f/rss/channel/link[$pos]/text()
          else ""					
     (: rss 1.0 or earlier:)
     else if ($f/rdf:RDF)
-    then if ($f/rdf:RDF/purl:channel/purl:link[$pos]/text())
-         then $f/rdf:RDF/purl:channel/purl:link/text()
-         else if ($f/rdf:RDF/rdfns:channel/rdfns:link[$pos]/text())
-         then $f/rdf:RDF/rdfns:channel/rdfns:link/text()
+    then if ($f/rdf:RDF/purl:channel/purl:link/text())
+         then $f/rdf:RDF/purl:channel/purl:link[$pos]/text()
+         else if ($f/rdf:RDF/rdfns:channel/rdfns:link/text())
+         then $f/rdf:RDF/rdfns:channel/rdfns:link[$pos]/text()
          else ""   
     (: atom 1.0:)
     else if ($f/atom:feed)
