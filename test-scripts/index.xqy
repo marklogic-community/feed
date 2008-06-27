@@ -92,7 +92,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
         </div>
 		<div>
 			<span>Feed Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">request</a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">request</a> </span>
 			<span> rss 2.0, local file</span>
 		</div>
 		
@@ -103,7 +103,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed  Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">request</a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">request</a> </span>
 			<span> atom 1.0, local file</span>
 		</div>
 		<div>
@@ -114,7 +114,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 
 	    <div>
 			<span>Feed  Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">request</a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">request</a> </span>
 			<span> rss 1.0, local file</span>
 		</div>
 	
@@ -125,7 +125,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 	    <div>
 			<span>Feed Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">request</a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">request</a> </span>
 			<span> rss 0.9, local file</span>
 		</div>
 	
@@ -136,12 +136,12 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed  Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/future%20play.xml">request- bad filename </a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/future%20play.xml">request- bad filename </a> </span>
 			<span> atom 1.0, local file, space in filename</span>
 		</div>
 		<div>
 			<span>Feed  Request </span>
-			<span> <a href="request.xqy?url=http://localhost:8010/feed/test/data/NOFILE">request - 404</a> </span>
+			<span> <a href="request.xqy?url=http://localhost:8010/feed/test-scripts/data/NOFILE">request - 404</a> </span>
 			<span> atom 1.0, local file, 404</span>
 		</div>
 		<div>
@@ -224,7 +224,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
         </div>
 		<div>
 			<span>Feed Title </span>
-			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">feed title</a> </span>
+			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">feed title</a> </span>
 			<span> rss 2.0, local</span>
 		</div>
 		<div>
@@ -234,7 +234,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Title </span>
-			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">feed title</a> </span>
+			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">feed title</a> </span>
 			<span> atom 1.0, local</span>
 		</div>
 		<div>
@@ -244,7 +244,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
         <div>
 			<span>Feed Title </span>
-			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">feed title</a> </span>
+			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">feed title</a> </span>
 			<span>rss 1.0, local</span>
 		</div>
         <div>
@@ -254,7 +254,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
         <div>
 			<span>Feed Title </span>
-			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">feed title</a> </span>
+			<span><a href="feed-title.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">feed title</a> </span>
 			<span>rss 0.9x, local</span>
 		</div>
         <div>
@@ -268,7 +268,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>FEED LINK</div>
 		<div>
 			<span>Feed Link </span>
-			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">feed link</a> </span>
+			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">feed link</a> </span>
 			<span>rss 2.0, local</span>
 		</div>
 		<div>
@@ -278,7 +278,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>	
 		<div>
 			<span>Feed Link </span>
-			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">feed link</a> </span>
+			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">feed link</a> </span>
 			<span>atom 1.0, local</span>
 		</div>
 		<div>
@@ -288,7 +288,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
 		<div>
 			<span>Feed Link </span>
-			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">feed link</a> </span>
+			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">feed link</a> </span>
 			<span>rss 1.0, local</span>
 		</div>
 		<div>
@@ -298,7 +298,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Link </span>
-			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">feed link</a> </span>
+			<span><a href="feed-link.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">feed link</a> </span>
 			<span>rss 0.9, local</span>
 		</div>
 		<div>
@@ -312,7 +312,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>FEED PUB DATE</div>
 		<div>
 			<span>Feed Pub Date </span>
-			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">pubdate</a> </span>
+			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">pubdate</a> </span>
 			<span>rss 2.0, local, no date</span>
 		</div>
 		<div>
@@ -323,7 +323,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 
 		<div>
 			<span>Feed Pub Date </span>
-			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test/data/techmeme.xml">pubdate</a> </span>
+			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test-scripts/data/techmeme.xml">pubdate</a> </span>
 			<span>rss 2.0, local, has date</span>
 		</div>
 		<div>
@@ -333,7 +333,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Pub Date </span>
-			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">pubdate</a> </span>
+			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">pubdate</a> </span>
 			<span>atom 2.0, local</span>
 		</div>
 		<div>
@@ -343,7 +343,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Pub Date </span>
-			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">pubdate</a> </span>
+			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">pubdate</a> </span>
 			<span>rss 1.0, local</span>
 		</div>
 		<div>
@@ -353,7 +353,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Pub Date </span>
-			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">pubdate</a> </span>
+			<span><a href="feed-pubdate.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">pubdate</a> </span>
 			<span>rss 0.9, local, no date</span>
 		</div>
 
@@ -362,12 +362,12 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>FEED DESCRIPTION</div>
 		<div>
 			<span>Feed Description </span>
-			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">description</a> </span>
+			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">description</a> </span>
 			<span>rss 2.0, local</span>
 		</div>
 		<div>
 			<span>Feed Description </span>
-			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test/data/techmeme.xml">description</a> </span>
+			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test-scripts/data/techmeme.xml">description</a> </span>
 			<span>rss 2.0, local</span>
 		</div>
 		<div>
@@ -377,7 +377,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
 		<div>
 			<span>Feed Description </span>
-			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">description</a> </span>
+			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">description</a> </span>
 			<span>atom 2.0, local</span>
 		</div>
 		<div>
@@ -388,7 +388,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Description </span>
-			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">description</a> </span>
+			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">description</a> </span>
 			<span>rss 1.0, local</span>
 		</div>
 		<div>
@@ -398,7 +398,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Feed Description </span>
-			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">description</a> </span>
+			<span><a href="feed-description.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">description</a> </span>
 			<span>rss 0.9, local, no date</span>
 		</div>
 								
@@ -435,7 +435,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>ITEM COUNT</div>
 		<div>
 			<span>Item Count </span>
-			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">item count</a> </span>
+			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">item count</a> </span>
 			<span> rss 2.0, local</span>
 		</div>
 		<div>
@@ -445,7 +445,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
         <div>
 			<span>Item Count </span>
-			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test/data/redeye.xml">item count</a> </span>
+			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml">item count</a> </span>
 			<span> atom 1.0, local</span>
 		</div>
         <div>
@@ -455,12 +455,12 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
 		<div>
 			<span>Item Count </span>
-			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml">item count</a> </span>
+			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml">item count</a> </span>
 			<span> rss 1.0, local</span>
 		</div>
 		<div>
 			<span>Item Count </span>
-			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml">item count</a> </span>
+			<span><a href="feed-item-count.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml">item count</a> </span>
 			<span> rss 0.9, local</span>
 		</div>
 		<div>
@@ -484,7 +484,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
         </div>
 		<div>
 			<span>Feed Item </span>
-			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&num=1">get engadget feed item 1</a> </span>
+			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&num=1">get engadget feed item 1</a> </span>
 			<span> rss 2.0, local</span>
 		</div>
 		
@@ -496,7 +496,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		
 	    <div>
 			<span>Feed Item </span>
-			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test/data/redeye.xml&num=1">get redeye feed item 1</a> </span>
+			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml&num=1">get redeye feed item 1</a> </span>
 			<span> atom 1.0, local</span>
 		</div>
 		
@@ -508,12 +508,12 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		
 		<div>
 			<span>Feed Item </span>
-			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml&num=1">get slashdot feed item 1</a> </span>
+			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml&num=1">get slashdot feed item 1</a> </span>
 			<span> rss 1.0, local</span>
 		</div>
 		<div>
 			<span>Feed Item </span>
-			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml&num=1">get slashdot feed item 1</a> </span>
+			<span><a href="feed-item.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml&num=1">get slashdot feed item 1</a> </span>
 			<span> rss 0.9, local</span>
 		</div>
 		<div>
@@ -533,7 +533,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>ITEM TITLE</div>
 		<div>
 			<span>Item Title </span>
-			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&num=1"> feed item 1 title</a> </span>
+			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&num=1"> feed item 1 title</a> </span>
 			<span> rss 2.0, local, quoted string</span>
 		</div>
 		
@@ -545,7 +545,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 
 	    <div>
 			<span>Item Title </span>
-			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test/data/redeye.xml&num=1"> feed item 1 title</a> </span>
+			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml&num=1"> feed item 1 title</a> </span>
 			<span> atom 1.0, local, raw text</span>
 		</div>
 	    <div>
@@ -555,7 +555,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 	    <div>
 			<span>Item Title </span>
-			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml&num=1"> feed item 1 title</a> </span>
+			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml&num=1"> feed item 1 title</a> </span>
 			<span> rss 1.0, local, raw text</span>
 		</div>
 	    <div>
@@ -565,7 +565,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 	    <div>
 			<span>Item Title </span>
-			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml&num=1"> feed item 1 title</a> </span>
+			<span><a href="item-title.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml&num=1"> feed item 1 title</a> </span>
 			<span> rss 0.9, local, raw text</span>
 		</div>		
 		
@@ -576,19 +576,19 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		<div>ITEM LINK</div>
 		<div>
 			<span>Item Link </span>
-			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&num=1"> feed item 1 link</a> </span>
+			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&num=1"> feed item 1 link</a> </span>
 			<span> rss 2.0, local, guid is true</span>
 		</div>		
 
 		<div>
 			<span>Item Link </span>
-			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test/data/nyt.xml&num=1"> feed item 1 link</a> </span>
+			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test-scripts/data/nyt.xml&num=1"> feed item 1 link</a> </span>
 			<span> rss 2.0, local, guid is false</span>
 		</div>
 		
 		<div>
 			<span>Item Link </span>
-			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test/data/redeye.xml&num=1"> feed item 1 link</a> </span>
+			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml&num=1"> feed item 1 link</a> </span>
 			<span> atom 1.0, local</span>
 		</div>
 		<div>
@@ -598,7 +598,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Item Link </span>
-			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml&num=1"> feed item 1 link</a> </span>
+			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml&num=1"> feed item 1 link</a> </span>
 			<span> rss 1.0, local</span>
 		</div>
 		<div>
@@ -608,7 +608,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 	    <div>
 			<span>Item Link </span>
-			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml&num=1"> feed item 1 title</a> </span>
+			<span><a href="item-link.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml&num=1"> feed item 1 title</a> </span>
 			<span> rss 0.9, local</span>
 		</div>			
 		
@@ -622,13 +622,13 @@ default element namespace="http://www.w3.org/1999/xhtml"
         </div>
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&num=1">feed item 1 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&num=1">feed item 1 description</a> </span>
 			<span> rss 2.0, local, contains HTML</span>
 		</div>
 		
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/nyt.xml&num=1">feed item 1 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/nyt.xml&num=1">feed item 1 description</a> </span>
 			<span> rss 2.0, local, contains text</span>
 		</div>
 		
@@ -640,7 +640,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/redeye.xml&num=1">feed item 1 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/redeye.xml&num=1">feed item 1 description</a> </span>
 			<span> atom 1.0, local, contains HTML as content element</span>
 		</div>
 		<div>
@@ -650,7 +650,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/slashdot.xml&num=1">feed item 1 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot.xml&num=1">feed item 1 description</a> </span>
 			<span> rss 1.0, local, contains HTML</span>
 		</div>
 		<div>
@@ -660,17 +660,17 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/slashdot_rdfns.xml&num=1">feed item 1 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/slashdot_rdfns.xml&num=1">feed item 1 description</a> </span>
 			<span> rss 0.9, local, contains HTML</span>
 		</div>
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/rww_item4_error.xml&num=4">feed item 4 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/rww_item4_error.xml&num=4">feed item 4 description</a> </span>
 			<span> rss 2.0, local, description error item 4, XDMP-UNEOF </span>
 		</div>
 		<div>
 			<span>Item Description </span>
-			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test/data/bloglines.xml&num=5">feed item 5 description</a> </span>
+			<span><a href="item-description.xqy?url=http://localhost:8010/feed/test-scripts/data/bloglines.xml&num=5">feed item 5 description</a> </span>
 			<span> rss 2.0, local, description error item 5, XDMP-STARTTAGCHAR </span>
 		</div>		
 		<!-- SUBSCRIBE -->
@@ -687,12 +687,12 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Subscribe to Feed</span>
-			<span><a href="sub.xqy?url=http://localhost:8010/feed/test/data/engadget.xml">subscribe</a> </span>
+			<span><a href="sub.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml">subscribe</a> </span>
 			<span> rss 2.0, local</span>
 		</div>
 		<div>
 			<span>Subscribe to Feed</span>
-			<span><a href="sub-opt.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&domain=eng">subscribe</a> </span>
+			<span><a href="sub-opt.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&domain=eng">subscribe</a> </span>
 			<span> rss 2.0, local, domain</span>
 		</div>
 		<div>
@@ -808,7 +808,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>		
 		<div>
 			<span>Subscribe to Feed</span>
-			<span><a href="sub-opt.xqy?url=http://localhost:8010/feed/test/data/engadget.xml&freq=10">subscribe</a> </span>
+			<span><a href="sub-opt.xqy?url=http://localhost:8010/feed/test-scripts/data/engadget.xml&freq=10">subscribe</a> </span>
 			<span> rss 2.0, local, 10 second frequency</span>
 		</div>
 		<div>
@@ -818,7 +818,7 @@ default element namespace="http://www.w3.org/1999/xhtml"
 		</div>
 		<div>
 			<span>Subscribe to Feed</span>
-			<span><a href="sub.xqy?url=http://localhost:8010/feed/test/data/kottke.xml">subscribe</a> </span>
+			<span><a href="sub.xqy?url=http://localhost:8010/feed/test-scripts/data/kottke.xml">subscribe</a> </span>
 			<span> rss 2.0, local, incomplete tags in title </span>
 		</div>
 		<div>
@@ -837,44 +837,44 @@ default element namespace="http://www.w3.org/1999/xhtml"
 	    <br/>
 		<div>BULK SUBSCRIPTION</div>
         <div>
-            <input type="text" id="opml" value="feed/test/data/"></input>
+            <input type="text" id="opml" value="feed/test-scripts/data/"></input>
             <input type="button" value="subscribe" onclick="window.location.href=('sub-opml.xqy?file=' + escape(document.getElementById('opml').value));"></input>
         </div>
 		<div>	
 			<span>100</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_cnet100.opml&store=all">sub cnet 100</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_cnet100.opml&store=all">sub cnet 100</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>	
 			<span>300+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_google-reader.opml&store=all">sub goog</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_google-reader.opml&store=all">sub goog</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>   
 		<div>
 			<span>550+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_scoble.opml&store=all">sub scoble</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_scoble.opml&store=all">sub scoble</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>100+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_volume.opml&store=all">sub volume</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_volume.opml&store=all">sub volume</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>100+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_women.opml&store=all">sub women bloggers</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_women.opml&store=all">sub women bloggers</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>20+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_podcast.opml&store=all">sub podcasts</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_podcast.opml&store=all">sub podcasts</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>30+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_nptech.opml&store=all">sub non-profit tech</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_nptech.opml&store=all">sub non-profit tech</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>60+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_digg.opml&store=all">sub digg feeds</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_digg.opml&store=all">sub digg feeds</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<div>
 			<span>90+</span>
-			<span><a href="sub-opml.xqy?file=feed/test/data/opml_winer.opml&store=all">sub winer</a>&nbsp;&nbsp;&nbsp;</span>
+			<span><a href="sub-opml.xqy?file=feed/test-scripts/data/opml_winer.opml&store=all">sub winer</a>&nbsp;&nbsp;&nbsp;</span>
 		</div>
 		<br/>
 		<div>SUBSCRIPTION LOOP</div>

@@ -21,7 +21,7 @@ let $ids :=
         <tr width='100%'>
         <td valign='top' class="data-left" style='white-space:nowrap;'><a href="{text{fn:collection(feed:description())/feed:description[@subid=$i/@id]/feed:link/text()}}">{$title/text()}</a></td>
         <td class="data"  valign='top' style='white-space:nowrap;'>{$type}</td>
-        <td class="data"  valign='top'>{text{$i/@status}}&nbsp;<a href="../../lib/subscription-request.xqy?subid={text{$i/@id}}" style="font-size:smaller;">req</a></td>
+        <td class="data"  valign='top'>{text{$i/@status}}&nbsp;<a href="../../lib/actions/subscription-request.xqy?subid={text{$i/@id}}" style="font-size:smaller;">req</a></td>
         <td class="data"  valign='top'>{$i/feed:versioning/text()}</td>
         <td class="data"  valign='top'>{$i/feed:item-store/text()}</td>
         <td class="data"  valign='top'>{$i/feed:domain/text()}</td>
