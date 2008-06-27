@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2full.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+        <title>Engadget</title>
+        <link>http://www.engadget.com</link>
+        <description>Engadget</description>
+        <image>
+            <url>http://www.engadget.com/media/feedlogo.png</url>
+            <title>Engadget</title>
+            <link>http://www.engadget.com</link>
+        </image>
+
+        <language>en-us</language>
+        <copyright>Copyright 2007 Weblogs, Inc. The contents of this feed are available for
+            non-commercial use only.</copyright>
+        <generator>Blogsmith http://www.blogsmith.com/</generator>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self"
+            href="http://feeds.feedburner.com/Engadget" type="application/rss+xml"/>
+        <feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a
+            newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly>
+        <item>
+            <title><![CDATA[AT&amp;T launches iPhone store finder for the planners]]></title>
+            <link>http://www.engadget.com/2007/06/26/atandt-launches-iphone-store-finder-for-the-planners/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/atandt-launches-iphone-store-finder-for-the-planners/</guid>
+            <comments>http://www.engadget.com/2007/06/26/atandt-launches-iphone-store-finder-for-the-planners/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><a href="http://www.wireless.att.com/find-a-store"><img vspace="16" hspace="4" border="1" align="right" alt="" src="http://www.engadgetmobile.com/media/2007/06/6-26-07-att_store.jpg" /></a>We know the pencil pushers, er, Excel gurus out there are already <a href="http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/">crunching numbers</a>, mapping out routes, calculating the opportunity risk in <a href="http://www.engadgetmobile.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/">ditching work</a> entirely on Friday, and figuring if you'd rather wait for the <a href="http://www.engadgetmobile.com/2007/06/26/80gb-iphone/">next iteration</a>, so here's one more asset to help you wrap your mind around an attack plan. AT&amp;T's "Find a Store" feature now boasts a selection that enables users to find retail outlets nearby that will definitively stock <a href="http://www.engadgetmobile.com/tag/iphone">iPhones</a>, meaning that your strategy of misguiding your local "friends" to an empty store is likely to backfire. Additionally, an anonymous tipster has noted that current Cingular / AT&amp;T customers who aren't yet eligible for a new contract can <em>still</em> purchase an iPhone, but it sounds like an extension to their current contract will be tacked if this does prove true. Enough chatter -- now, get back to your scheming.<br /><br />[Thanks, Anonymous, image courtesy of <a href="http://seattlepi.nwsource.com/dayart/20040218/226ATT_redmond.jpg">Seattle Post-Intelligencer</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.wireless.att.com/find-a-store>Read</a> | <a href="http://www.engadget.com/2007/06/26/atandt-launches-iphone-store-finder-for-the-planners/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927213/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/atandt-launches-iphone-store-finder-for-the-planners/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>camp</category>
+            <category>camp out</category>
+            <category>camper</category>
+            <category>camping</category>
+            <category>CampOut</category>
+            <category>iphone</category>
+            <category>launch</category>
+            <category>locator</category>
+            <category>retail</category>
+            <category>store</category>
+            <category>store finder</category>
+            <category>StoreFinder</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 17:39:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netgear, Ubiquisys develop femtocell residential gateway]]></title>
+            <link>http://www.engadget.com/2007/06/26/netgear-ubiquisys-develop-femtocell-residential-gateway/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/netgear-ubiquisys-develop-femtocell-residential-gateway/</guid>
+            <comments>http://www.engadget.com/2007/06/26/netgear-ubiquisys-develop-femtocell-residential-gateway/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/household/" rel="tag">Household</a>, <a href="http://www.engadget.com/category/wireless/" rel="tag">Wireless</a>, <a href="http://www.engadget.com/category/networking/" rel="tag">Networking</a></p><a href="http://www.earthtimes.org/articles/show/news_press_release,128830.shtml"><img vspace="16" hspace="4" border="0" align="right" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-26-07-netgear_ubi.jpg" /></a>It wouldn't be too surprising to see a networking firm and a developer of intelligent 3G <a href="http://www.engadget.com/search/?q=femtocell">femtocell</a> access points work in harmony to crank out a dazzling all-in-one contraption, and it looks like <a href="http://www.engadget.com/tag/Netgear/">Netgear</a> and Ubiquisys have done just that. Aiming to simultaneously enable mobile operators to provide <a href="http://www.engadget.com/2007/03/27/samsung-ubicell-base-station-to-extend-in-home-cdma-coverage/">enhanced cellular coverage</a> in the home and allow consumers to access and control a range of home networking services via standard 3G handsets, the two have joined forces to stuff Ubiquisys' ZoneGate into future Netgear WAPs. The currently unnamed solution will reportedly pack an integrated DSL modem, WiFi, VoIP, and 3G femtocell technology into a single box, and while it's not scheduled to go commercial until early next year at best, operator testing should go live by Q4 of 2007.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.earthtimes.org/articles/show/news_press_release,128830.shtml>Read</a> | <a href="http://www.engadget.com/2007/06/26/netgear-ubiquisys-develop-femtocell-residential-gateway/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927131/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/netgear-ubiquisys-develop-femtocell-residential-gateway/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>3g</category>
+            <category>Access Point Base Station</category>
+            <category>AccessPointBaseStation</category>
+            <category>automation</category>
+            <category>coverage</category>
+            <category>dsl</category>
+            <category>femtocell</category>
+            <category>home automation</category>
+            <category>home gateway</category>
+            <category>HomeAutomation</category>
+            <category>HomeGateway</category>
+            <category>netgear</category>
+            <category>residential gateway</category>
+            <category>ResidentialGateway</category>
+            <category>Ubiquisys</category>
+            <category>voip</category>
+            <category>wifi</category>
+            <category>zonegate</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 17:23:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toshiba introduces Qosmio F45, Satellite A215, X205]]></title>
+            <link>http://www.engadget.com/2007/06/26/toshiba-introduces-qosmio-f45-satellite-a215-x205/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/toshiba-introduces-qosmio-f45-satellite-a215-x205/</guid>
+            <comments>http://www.engadget.com/2007/06/26/toshiba-introduces-qosmio-f45-satellite-a215-x205/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><a href="http://www.toshibadirect.com/td/b2c/laptops.to?coid=-26368"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/tosh_new2.jpg" alt="" /></a><br /></div>
+Toshiba was concerned that laptop buyers at pretty much every stage of the spectrum might not have enough choices, so it's done what any self-respecting member of the PC community would: released a bunch of new computers. Currently doing victory laps at Toshiba Direct are the <a href="http://www.engadget.com/2007/06/19/toshiba-brings-hd-dvd-to-mainstream-satellite-and-qosmio-laptops/">Qosmio</a> F45, gamer-targeted Satellite X205, and the Satellite A215 -- the cheapskate of the crew. Some notable specs:<br />
+<ul>
+    <li>Qosmio F45-AV412 - 15.4-inch XGA TruBrite display, 1.8GHz Core 2 Duo, HD DVD drive, HDMI out, 802.11a/b/g/n, Intel Mobile GMA X3100, fingerprint reader, built-in webcam<br /></li>
+    <li>Satellite X205-S9359 / S9349 - 17-inch XGA TruBrite display (up to 1680 x 1050), Core 2 Duo at 1.8Ghz or 2.0Ghz, NVIDIA GeForce 8600M, 802.11a/b/g/n, Bluetooth 2.0 + EDR, Harmon-Kardon speakers w/ subwoofer<br /></li>
+    <li>Satellite A215-S4767 / S4757 - 15.4-inch XGA TruBrite display, AMD Turion 64 X2 CPU, DVD-R, Mobility Radeon X1200, 802.11b/g</li>
+</ul>
+All in all, truly three of the most middle of the road crowd-pleasers we've ever seen. Check out some hands-on pics in the gallery below.<br /><br /><div class="postgallery"><p><strong>Gallery: <a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/">Toshiba introduces Qosmio F45, Satellite A215, X205</a></strong></p><a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/289323/"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/toshiba-satellite-qosmio-hands-on-16_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/289324/"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/toshiba-satellite-qosmio-hands-on-19_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/289325/"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/toshiba-satellite-qosmio-hands-on-27_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/289326/"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/toshiba-satellite-qosmio-hands-on-21_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/toshiba-introduces-qosmio-f45-satellite-a215-x205/289327/"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/toshiba-satellite-qosmio-hands-on-22_thumbnail.jpg" alt="" title="" /></a></div><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.toshibadirect.com/td/b2c/laptops.to?coid=-26368>Read</a> | <a href="http://www.engadget.com/2007/06/26/toshiba-introduces-qosmio-f45-satellite-a215-x205/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927056/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/toshiba-introduces-qosmio-f45-satellite-a215-x205/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>a215</category>
+            <category>F45</category>
+            <category>Qosmio</category>
+            <category>satellite</category>
+            <category>toshiba</category>
+            <category>x205</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 17:02:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JEDEC finally unveils official DDR3 standards]]></title>
+            <link>http://www.engadget.com/2007/06/26/jedec-finally-unveils-official-ddr3-standards/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/jedec-finally-unveils-official-ddr3-standards/</guid>
+            <comments>http://www.engadget.com/2007/06/26/jedec-finally-unveils-official-ddr3-standards/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/storage/" rel="tag">Storage</a></p><a href="http://www.jedec.org/Home/press/press_release/DDR3_Press_Release-6-26-07.doc"><img vspace="16" hspace="4" border="0" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-26-07-jedec.jpg"  alt="" /></a>Rest assured, this isn't the <a href="http://www.engadget.com/2006/09/29/core-2-duo-imacs-unofficially-rock-802-11n-capabilities/">first</a> (nor the <a href="http://www.engadget.com/2004/12/08/rolling-the-dice-on-belkins-pre-n-802-11n-wireless-gear/">last</a>) time you'll see products launch before the <a href="http://www.engadget.com/2007/06/25/wi-fi-alliance-802-11n-draft-2-0-testing-begins-certified-pro/">official specs</a> get ratified, but JEDEC is doing the honors today by introducing the <a href="http://www.engadget.com/tag/DDR3/">DDR3</a> (Double Data Rate 3) memory device standard. Key improvements that were noted include a 1.5-volt power supply, increased operating temperature range, memory device reset, burst chop, dynamic on-die termination, output driver calibration, and write leveling among others. The standard is reportedly intended to operate over a "performance range from 800 to 1600 MT/s (million transfers per second)," and while we certainly appreciate the details finally coming forward, the bevy of product <a href="http://www.engadget.com/2007/05/02/intels-ddr3-friendly-bearlake-chipset-launching-in-a-week/">launches</a> from <a href="http://www.engadget.com/2007/05/22/kingston-planning-to-reveal-ddr3-hyperx-ram-ssd-at-computex/">months past</a> sure dampened the thunder. [Warning: Word document read link]<br /><br />[Via <a href="http://www.theinquirer.net/default.aspx?article=40596">Inquirer</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.jedec.org/Home/press/press_release/DDR3_Press_Release-6-26-07.doc>Read</a> | <a href="http://www.engadget.com/2007/06/26/jedec-finally-unveils-official-ddr3-standards/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927156/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/jedec-finally-unveils-official-ddr3-standards/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>ddr3</category>
+            <category>dram</category>
+            <category>jedec</category>
+            <category>ram</category>
+            <category>ratified</category>
+            <category>SDRAM</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 16:38:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell XPS M1330 review roundup]]></title>
+            <link>http://www.engadget.com/2007/06/26/dell-xps-m1330-review-roudup/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/dell-xps-m1330-review-roudup/</guid>
+            <comments>http://www.engadget.com/2007/06/26/dell-xps-m1330-review-roudup/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="left">
+<div align="center"><a href="http://www.notebookreview.com/default.asp?newsID=3787"><img vspace="4" hspace="4" border="1" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dell-xps-m1330-review.jpg" alt="" /></a><br /></div>
+Dell's <a href="http://www.engadget.com/search/?q=dell+xps+m1330">XPS M1330</a> laptop has only just officially been <a href="http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/">announced</a> (after much <a href="http://www.engadget.com/2007/06/22/dells-m1330-up-for-retail-july-10/">rumor</a> and <a href="http://www.engadget.com/2007/06/04/dell-xps-m1330-performance-ultraportable-revealed/">leakage</a>) but the reviews are already starting to trickle in, most of which seem to be quite favorable to the unit. Among those getting their hands on the laptop was CNET, who remarked that Dell has "finally put design first," adding that the laptop delivered solid performance, with its LED-backlit display also helping to improve battery life, not to mention shave a bit of thickness off the lid. On the downside, they found the touchpad to be a tad small, and they were disappointed by the lack of options at the moment, including Blu-ray and SSD drives. For its part, ZDNet also seems to have been quite taken with the laptop's design, along with its well-performing discrete graphics and optional <span class="summary_data"> EV-DO Rev A. They were less impressed with the added weight from the nine-cell battery, however, which tipped the scales to </span>4.7 pounds (as opposed to 3.9 pounds with the four-cell battery). Also putting in some time with the laptop was NoteBook Review, which likewise sees the M1330 as a huge step froward in the design department for Dell, adding that their overall impressions were "overwhelmingly positive," although they're reserving their final judgment for a more in-depth review they have promised.<br /><br /><a href="http://reviews.cnet.com/laptops/dell-xps-m1330/4505-3121_7-32465545.html">Read</a> - CNET (7.9 out of 10)<br /><a href="http://www.pcmag.com/article2/0,1895,2150810,00.asp">Read</a> - PC Magazine (4.5 out of 5, Editors' Choice)<br /><a href="http://www.notebookreview.com/default.asp?newsID=3787">Read</a> - NotebookReview (no rating)<br /></div><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/26/dell-xps-m1330-review-roudup/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927136/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/dell-xps-m1330-review-roudup/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>dell</category>
+            <category>laptop</category>
+            <category>xps m1330</category>
+            <category>XpsM1330</category>
+            <dc:creator><![CDATA[Donald Melanson]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 16:23:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does the iPhone stack up in total cost?]]></title>
+            <link>http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/</guid>
+            <comments>http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/features/" rel="tag">Features</a></p><img vspace="16" hspace="4" border="1" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/iphone-mystery-price.jpg" alt="" /><span style="float: left; margin-right: 4px; margin-bottom: 4px;"><script>digg_url = 'http://digg.com/apple/How_does_the_iPhone_stack_up_in_total_cost';</script><script src="http://digg.com/api/diggthis.js"></script></span>It's <a href="http://www.engadget.com/2007/06/25/the-iphones-have-landed-iplan-in-tow/">no secret or surprise</a> that Apple pushed AT&amp;T into whipping up some <a href="http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/">new plans for the iPhone</a> -- specialness aside, one look at AT&amp;T and users can get lost in its myriad plans, 44 in all (including prepaid, data, etc.). Not exactly the streamlined customer Apple experience cherishes, so the iPhone just comes with just a few service options (and not a lot to configure) -- but is there really the "Apple premium" associated with buying an iPhone and using the iPhone plan with AT&amp;T? Only one way to find out: let's look at the numbers.<p><a href="http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/" rel="bookmark">Continue reading <em>How does the iPhone stack up in total cost?</em></a></p><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927047/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/how-does-the-iphone-stack-up-in-total-cost/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>comparison</category>
+            <category>iphone</category>
+            <category>price</category>
+            <dc:creator><![CDATA[Ryan Block]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 15:43:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple, Microsoft to push Exchange Direct Push to iPhone?]]></title>
+            <link>http://www.engadget.com/2007/06/26/apple-and-microsoft-to-push-exchange-direct-push-to-iphone/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/apple-and-microsoft-to-push-exchange-direct-push-to-iphone/</guid>
+            <comments>http://www.engadget.com/2007/06/26/apple-and-microsoft-to-push-exchange-direct-push-to-iphone/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><div align="center"><a href="http://blogs.zdnet.com/microsoft/?p=534"><img vspace="4" hspace="4" border="1" src="http://www.engadgetmobile.com/media/2007/06/iphonepushmail.jpg" alt="" /></a><br />
+<div align="left">Rumor has it that Apple has licensed <a href="http://www.engadgetmobile.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/">Exchange Active Sync</a> after all, so let the <a href="http://wwww.engadgetmobile.com/2006/02/12/carriers-equipment-vendors-line-up-behind-microsoft-direct-push/">Direct Pushing</a> begin. Of all the gripes we've heard since this handset was announced, this one was by far the most prevalent, and indeed even a showstopper for some. It seems that Microsoft will announce the licensing of EAS tomorrow, though we aren't sure if this support will be included out of the box, or as an update in the near future. So now all the iPhone faithful will be armed with one more tool to defend themselves against the non-believers -- and here's hoping that the <a href="http://www.engadgetmobile.com/2007/06/08/will-the-iphone-be-undone-by-its-keyboard/">keyboard</a> won't fail them as they begin pushing those missives out. <br /><br />[Thanks, <a href="http://www.winbeta.org">Arneh</a>]</div>
+</div><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://blogs.zdnet.com/microsoft/?p=534>Read</a> | <a href="http://www.engadget.com/2007/06/26/apple-and-microsoft-to-push-exchange-direct-push-to-iphone/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927172/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/apple-and-microsoft-to-push-exchange-direct-push-to-iphone/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>Direct Push</category>
+            <category>DirectPush</category>
+            <category>exchange</category>
+            <category>iphone</category>
+            <dc:creator><![CDATA[Sean Cooper]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 15:30:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Judge favors Microsoft over Google in search polemic]]></title>
+            <link>http://www.engadget.com/2007/06/26/judge-favors-microsoft-over-google-in-search-polemic/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/judge-favors-microsoft-over-google-in-search-polemic/</guid>
+            <comments>http://www.engadget.com/2007/06/26/judge-favors-microsoft-over-google-in-search-polemic/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/desktops/" rel="tag">Desktops</a>, <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><a href="http://news.yahoo.com/s/infoworld/20070626/tc_infoworld/89659"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-26-07-google_vs_microsoft.jpg"  alt="" /></a><br /></div>
+While it'd be easy for Judge Colleen Kollar-Kotelly's deferment to be an end-all solution to the <a href="http://www.engadget.com/2007/06/22/google-to-microsoft-more-changes-to-vista-please/">recent</a> Google vs. Microsoft <a href="http://www.engadget.com/2007/06/11/google-sez-vista-search-discourages-hurts-consumers/">spat</a>, we're inclined to believe that Google hasn't had its last word just yet. As it stands, the judge in charge has reportedly said that "she will likely defer to an agreement on desktop search forged between Microsoft and the plaintiffs in the US government's antitrust lawsuit against the software vendor instead of responding to a complaint from rival Google," and further explained that she didn't consider Google to "be a party in this case." Unfortunately, that's about all we've heard at the moment-- but stay tuned, this one's bound to go a few <a href="http://www.engadget.com/2007/06/19/vistas-search-to-be-altered-in-first-service-pack/">more rounds</a> before the dust settles.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://news.yahoo.com/s/infoworld/20070626/tc_infoworld/89659>Read</a> | <a href="http://www.engadget.com/2007/06/26/judge-favors-microsoft-over-google-in-search-polemic/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927096/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/judge-favors-microsoft-over-google-in-search-polemic/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>battle</category>
+            <category>complaint</category>
+            <category>court</category>
+            <category>fight</category>
+            <category>google</category>
+            <category>judge</category>
+            <category>lawsuit</category>
+            <category>legal</category>
+            <category>microsoft</category>
+            <category>search</category>
+            <category>sue</category>
+            <category>suit</category>
+            <category>vista</category>
+            <category>vista search</category>
+            <category>VistaSearch</category>
+            <category>windows</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 15:08:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake iPhones: a retrospective]]></title>
+            <link>http://www.engadget.com/2007/06/26/fake-iphones-a-retrospective/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/fake-iphones-a-retrospective/</guid>
+            <comments>http://www.engadget.com/2007/06/26/fake-iphones-a-retrospective/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><div align="center"><a href="http://www.engadgetmobile.com/2007/06/26/fake-iphones-a-retrospective/"><img vspace="4" hspace="4" border="1" src="http://www.engadgetmobile.com/media/2007/06/cect-p168.jpg" alt="" /></a><br /></div>
+<span style="float: right; margin-left: 4px; margin-bottom: 4px;"><script>digg_url = 'http://digg.com/gadgets/Fake_iPhones_a_retrospective_2';</script><script src="http://digg.com/api/diggthis.js"></script></span> It ain't even out yet, and the <a href="http://www.engadget.com/2007/01/09/the-apple-iphone/">iPhone</a> already stands to become one of the most ripped consumer devices the world has ever seen. From the "I-MOBILE i-phone" to the CECT IP9300 and everything in between, Engadget Mobile's taken a sentimental trip down fake iPhone lane this week as we all brace ourselves for the real thing to finally hit. Come share a few emotional moments with us as we reminisce!<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.engadgetmobile.com/2007/06/26/fake-iphones-a-retrospective/>Read</a> | <a href="http://www.engadget.com/2007/06/26/fake-iphones-a-retrospective/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926148/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/fake-iphones-a-retrospective/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>clone</category>
+            <category>fake</category>
+            <category>iphone</category>
+            <category>keepin it real fake</category>
+            <category>KeepinItRealFake</category>
+            <category>kirf</category>
+            <dc:creator><![CDATA[Chris Ziegler]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 15:05:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM unveils one-petaflop Blue Gene/P supercomputer]]></title>
+            <link>http://www.engadget.com/2007/06/26/ibm-unveils-one-petaflop-blue-gene-p-supercomputer/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/ibm-unveils-one-petaflop-blue-gene-p-supercomputer/</guid>
+            <comments>http://www.engadget.com/2007/06/26/ibm-unveils-one-petaflop-blue-gene-p-supercomputer/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/desktops/" rel="tag">Desktops</a></p><img vspace="16" hspace="4" border="1" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-26-07-bluegenep.jpg"  alt="" />It was but two years ago that we all sat in awe of IBM's beautiful <a href="http://www.engadget.com/2005/10/28/ibms-blue-gene-l-worlds-fastest-supercomputer-at-280-6/">280.6-teraflop masterpiece</a>, and it's finally safe to call that workhorse a thing of the past. Today, Big Blue announced the second-generation of its famed <a href="http://www.engadget.com/tag/supercomputer/">supercomputer</a> (dubbed Blue Gene/P), which reportedly comes close to "tripling the performance of its predecessor." In an attempt to showcase its might, IBM suggested that 27 million clinical trials could be computed "in just one afternoon using a sliver of its full power." Additionally, the engineers went the extra mile by crafting a highly scalable system that comes in "at least seven times more energy efficient than any other supercomputer," but we're sure those 294,912 processors (each touting four PowerPC 450 CPUs) can churn through some energy when utilizing the whole petaflop. And just think, <a href="http://www.engadget.com/2007/01/23/sun-switches-solaris-to-intel-chips-all-the-cool-kids-are-doi/">Sun</a> probably thought the 500 or so teraflop production from its forthcoming Ranger would be the (momentary) top dog.<br /><br /><a href="http://www.verivox.de/News/ArticleDetails.asp?aid=54915&amp;pm=1">Read</a> - IBM's Blue Gene/P, via <a href="http://news.com.com/2100-1010_3-6193211.html?part=rss&amp;tag=2547-1_3-0-20&amp;subj=news">CNET</a><br /><a href="http://www.itworld.com/Comp/1437/070626sunsuper/">Read</a> - Sun's Ranger, via <a href="http://www.wired.com/science/discoveries/news/2007/06/sun_supercomputer">Wired</a><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/26/ibm-unveils-one-petaflop-blue-gene-p-supercomputer/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927060/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/ibm-unveils-one-petaflop-blue-gene-p-supercomputer/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>blue gene</category>
+            <category>Blue Gene/P</category>
+            <category>BlueGene</category>
+            <category>BlueGene/p</category>
+            <category>ibm</category>
+            <category>petaflop</category>
+            <category>ranger</category>
+            <category>smp</category>
+            <category>sun</category>
+            <category>supercomputer</category>
+            <category>supercomputers</category>
+            <category>tacc</category>
+            <category>texas</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 14:37:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Read / write ZFS beta for Leopard reportedly sent to developers]]></title>
+            <link>http://www.engadget.com/2007/06/26/read-write-zfs-beta-for-leopard-reportedly-sent-to-developers/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/read-write-zfs-beta-for-leopard-reportedly-sent-to-developers/</guid>
+            <comments>http://www.engadget.com/2007/06/26/read-write-zfs-beta-for-leopard-reportedly-sent-to-developers/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/desktops/" rel="tag">Desktops</a>, <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a>, <a href="http://www.engadget.com/category/storage/" rel="tag">Storage</a></p><a href="http://www.macrumors.com/2007/06/26/zfs-read-write-developer-beta/"><img border="1" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/jonathan-schwartz-zfs.jpg" alt="" /></a>It looks like the <a href="http://www.engadget.com/2007/06/07/sun-says-apple-is-switching-to-zfs-in-leopard/">on again</a> <a href="http://www.engadget.com/2007/06/12/apple-no-zfs-for-leopard/">off again</a> reports of support for the newfangled ZFS file system in Leopard are on again, at least according to the latest word from Mac Rumors, which is citing unspecified "published reports" on the matter. What's more, this apparently isn't the stripped-down, read only incarnation of ZFS we heard about <a href="http://www.engadget.com/2007/06/13/leopard-does-does-not-use-zfs-part-iii-it-does-kinda/">earlier this month</a>, but a full-fledged read/write version, the beta of which has reportedly already been sent to developers. ZFS, for those not up on their file systems, was developed by Sun and promises a range of advantages over lesser file systems, including storage pooling, block-journaling, and other things that a rare few get really excited about.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.macrumors.com/2007/06/26/zfs-read-write-developer-beta/>Read</a> | <a href="http://www.engadget.com/2007/06/26/read-write-zfs-beta-for-leopard-reportedly-sent-to-developers/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927055/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/read-write-zfs-beta-for-leopard-reportedly-sent-to-developers/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>leopard</category>
+            <category>mac os x</category>
+            <category>MacOsX</category>
+            <category>sun</category>
+            <category>zfs</category>
+            <dc:creator><![CDATA[Donald Melanson]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 14:07:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alienware m9750: now with dual 512MB NVIDIA GPUs]]></title>
+            <link>http://www.engadget.com/2007/06/26/alienware-m9750-now-with-dual-512mb-nvidia-gpus/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/alienware-m9750-now-with-dual-512mb-nvidia-gpus/</guid>
+            <comments>http://www.engadget.com/2007/06/26/alienware-m9750-now-with-dual-512mb-nvidia-gpus/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/hdtv/" rel="tag">HDTV</a>, <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><a href="http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&amp;newsId=20070626005855&amp;newsLang=en"><img vspace="4" hspace="4" border="1" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-26-07-m9750.jpg"  alt="" /></a><br /></div>
+We can just imagine the smiles creeping over the faces of FPS freaks everywhere as they dream about owning a laptop with twin 512MB <a href="http://www.engadget.com/tag/NVIDIA/">NVIDIA</a> GPUs, and thanks to <a href="http://www.engadget.com/tag/Alienware/">Alienware</a>'s refreshed <a href="http://www.engadget.com/2007/01/09/alienware-launches-most-powerful-area-51-m9750-laptop/">m9750</a>, you can now replace those visions with an actual order. The newly revamped 17-inch machine still offers up a WXGA+ or WUXGA display, up to 400GB of internal HDD space in a RAID 0 array, <a href="http://www.engadget.com/tag/Bluray/">Blu-ray</a> support, and a plethora of connectivity options, but it now includes Intel's 2.33GHz Core 2 Duo and a delightful pair of 512MB NVIDIA GeForce Go 7950 GTX graphics cards for all the battery-drainin', high-rez gaming you can handle. The freshened up system is due to ship late next month, and while you can get your own for $2,099, the upgraded graphics rig alone will set you back another $600.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&amp;newsId=20070626005855&amp;newsLang=en>Read</a> | <a href="http://www.engadget.com/2007/06/26/alienware-m9750-now-with-dual-512mb-nvidia-gpus/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927039/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/alienware-m9750-now-with-dual-512mb-nvidia-gpus/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>7950</category>
+            <category>7950 gtx</category>
+            <category>7950Gtx</category>
+            <category>alienware</category>
+            <category>blu-ray</category>
+            <category>core 2 duo</category>
+            <category>Core2Duo</category>
+            <category>gaming laptop</category>
+            <category>GamingLaptop</category>
+            <category>geforce</category>
+            <category>m9750</category>
+            <category>nvidia</category>
+            <category>purevideo</category>
+            <category>sli</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 13:37:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone ain't even an iPod without service]]></title>
+            <link>http://www.engadget.com/2007/06/26/iphone-aint-even-an-ipod-without-service/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/iphone-aint-even-an-ipod-without-service/</guid>
+            <comments>http://www.engadget.com/2007/06/26/iphone-aint-even-an-ipod-without-service/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/handhelds/" rel="tag">Handhelds</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a></p><div align="center"><a href="http://www.apple.com/iphone/easysetup/rateplans.html"><img vspace="4" hspace="4" border="1" src="http://www.engadgetmobile.com/media/2007/06/iphone-no-ipod-without-service.jpg" alt="" /></a><br /></div>
+It's unclear what technical limitation prevents Apple from allowing the <a href="http://www.engadget.com/2007/01/09/the-apple-iphone/">iPhone</a> to function as an iPod without an active AT&amp;T service plan tied to it, because we really (<em>really</em>) want to believe the companies wouldn't arbitrarily disable a feature to keep the cash flow rolling in.<br /><br />[Via <a href="http://www.tuaw.com/2007/06/26/the-small-print-stinks-no-ipod-features-without-service-plan/">TUAW</a>, thanks Alex P.]<br /><br /><strong><br /> Update:</strong> An anonymous tipster is reporting that the iPhone may only need to be activated once for the iPod (and other features) to work; continuous service isn't necessary after that -- unless you want to use it as a phone and data device, of course.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.apple.com/iphone/easysetup/rateplans.html>Read</a> | <a href="http://www.engadget.com/2007/06/26/iphone-aint-even-an-ipod-without-service/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/927022/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/iphone-aint-even-an-ipod-without-service/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>breaking news</category>
+            <category>BreakingNews</category>
+            <category>cellphone</category>
+            <category>iphone</category>
+            <category>ipod</category>
+            <category>music</category>
+            <category>phone</category>
+            <dc:creator><![CDATA[Chris Ziegler]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 13:07:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell rolls out new 19, 24-inch LCD monitors]]></title>
+            <link>http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/</guid>
+            <comments>http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/displays/" rel="tag">Displays</a></p><div align="left">
+<div align="center"><a href="http://home.businesswire.com/portal/site/home/index.jsp?ndmViewId=news_view&amp;ndmConfigId=1000001&amp;newsId=20070626005520&amp;newsLang=en"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dellultrasharp2407wfp_2.jpg" alt="" /></a></div>
+Dell's gotten official with a a pair of new monitors today, including the previously-seen 24-inch <a href="http://www.engadget.com/2007/06/18/dell-oomphs-the-color-with-24-inch-2407wfp-hc-lcd/">2407WFP-HC LCD</a> (pictured above) and the slightly more budget-minded 19-inch SE198WFP (seen after the break). The 24-incher, as we knew before, boasts Dell's trademark TrueColor technology for 92 percent color gamut coverage of the  NTSC color space (in other words, it'll look real nice). Otherwise the specs are about what you'd expect, including the de facto 1920 x 1200 resolution, 6ms response time, 1,000:1 contrast ratio, and both VGA and DVI ports (with HDCP support). While you won't see any of those TrueColor benefits with the 19-inch model, you'll still get some decent enough specs, including a 1440 x 900 resolution, 5 ms response time, and 1,000:1 contrast ratio. It's biggest advantage, however, is its price, which runs just $189, as opposed to the $679 the 2407WFP-HC's set to demand when it rolls out next month.<br /></div><p><a href="http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/" rel="bookmark">Continue reading <em>Dell rolls out new 19, 24-inch LCD monitors</em></a></p><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://home.businesswire.com/portal/site/home/index.jsp?ndmViewId=news_view&amp;ndmConfigId=1000001&amp;newsId=20070626005520&amp;newsLang=en>Read</a> | <a href="http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926936/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/dell-intros-new-19-24-inch-lcd-monitors/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>2407-wfp-hc</category>
+            <category>dell</category>
+            <category>lcd</category>
+            <category>monitor</category>
+            <category>SE198WFP</category>
+            <dc:creator><![CDATA[Donald Melanson]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 12:34:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone syncs with Outlook and Entourage -- kind of]]></title>
+            <link>http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/</guid>
+            <comments>http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><div align="center"><a href="http://www.apple.com/iphone/usingiphone/activation.html"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/iphone-sync-calendars.jpg" /></a><br /></div>
+It was definitely quickly glossed over in today's <a href="http://www.engadget.com/2007/06/26/80gb-iphone/">iPhone activation and sync walkthrough</a>, but Apple pretty clearly stated that Mac users with Entourage can sync their calendars with the iPhone through iTunes, and PC users can sync their Outlook calendars the same way. That's totally heartening for any corporate calendar users wondering how they were going to get their datebooks on their new phone, but there was no mention whatsoever of contact syncing via Outlook / Entourage for Active Directory, just Apple Address Book and Yahoo Address Book (which could potentially leave PC users in the lurch). So, your thoughts?<br /><br />
+<div align="center"><p><a href="http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/#poll1590">View Poll</a></p></div><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.apple.com/iphone/usingiphone/activation.html>Read</a> | <a href="http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926949/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/iphone-syncs-with-outlook-and-entourage-kind-of/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>entourage</category>
+            <category>ical</category>
+            <category>iphone</category>
+            <category>microsoft</category>
+            <category>outlook</category>
+            <category>sync</category>
+            <dc:creator><![CDATA[Ryan Block]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 12:04:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft touts Windows Home Server as cure for "digital amnesia"]]></title>
+            <link>http://www.engadget.com/2007/06/26/microsoft-touts-windows-home-server-as-cure-for-digital-amnesia/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/microsoft-touts-windows-home-server-as-cure-for-digital-amnesia/</guid>
+            <comments>http://www.engadget.com/2007/06/26/microsoft-touts-windows-home-server-as-cure-for-digital-amnesia/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/homeentertainment/" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/networking/" rel="tag">Networking</a></p><div align="center"><a href="http://www.stopdigitalamnesia.com/"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/digital-amnesia-doctor.jpg" /><br /></a>
+<div align="left">We've seen plenty of medical conditions <a href="http://www.engadget.com/2007/06/06/wiiitis-on-the-rise-with-wii-players-reports-doctor/">named after</a> <a href="http://www.engadget.com/2005/12/19/the-blackberry-balm-hand-massage-and-you/">various</a> <a href="http://www.engadget.com/2005/11/14/gotta-case-o-the-old-ipod-thumb-do-ya/">products</a> before, but it's not often we see a company go so far as to invent an ailment to help hype their latest wares. The practice seems to be getting slightly less uncommon though, with Microsoft now following Sprint's forays into "connectile dysfunction" with their own "digital amnesia" -- which, apparently, we are all suffering from. Of course, when you invent the disease, you also get to invent the cure, which in this case just happens to be Microsoft's own <a href="http://www.engadget.com/search/?q=%22windows+home+server%22">Windows Home Server</a>. Unfortunately, you can't actually get it just yet (unless you want to play around with a <a href="http://www.engadget.com/2007/06/12/windows-home-server-rc1-available-for-download/">release candidate</a>), so you'll just have to suffer with your imaginary ailment for a little while longer.<br /><br />[Thanks, Reza]<br /></div>
+</div><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.stopdigitalamnesia.com/>Read</a> | <a href="http://www.engadget.com/2007/06/26/microsoft-touts-windows-home-server-as-cure-for-digital-amnesia/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926885/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/microsoft-touts-windows-home-server-as-cure-for-digital-amnesia/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>digital amnesia</category>
+            <category>DigitalAmnesia</category>
+            <category>microsoft</category>
+            <category>windows home server</category>
+            <category>WindowsHomeServer</category>
+            <dc:creator><![CDATA[Donald Melanson]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 11:56:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell introduces Online Backup, more 3G for laptops]]></title>
+            <link>http://www.engadget.com/2007/06/26/dell-introduces-online-backup-more-3g-for-laptops/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/dell-introduces-online-backup-more-3g-for-laptops/</guid>
+            <comments>http://www.engadget.com/2007/06/26/dell-introduces-online-backup-more-3g-for-laptops/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/desktops/" rel="tag">Desktops</a>, <a href="http://www.engadget.com/category/displays/" rel="tag">Displays</a>, <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><a href="http://home.businesswire.com/portal/site/home/index.jsp?ndmViewId=news_view&amp;ndmConfigId=1000001&amp;newsId=20070626005520&amp;newsLang=en"><img vspace="16" hspace="4" border="0" align="right" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dell_logo.jpg" /></a> Dell didn't only drop the official announcement concerning its new <a href="http://www.engadget.com/search/?q=Inspiron">Inspirons</a> (both in the desktop and laptop variety), as well as the much-discussed, world's-seriously-thinnest-13-inch-laptop <a href="http://www.engadget.com/search/?q=XPS%20M1330">XPS m1330</a> -- it also managed to uncork the news that all its new widescreen laptops would be EV-DO and HSDPA ready (provided by Sprint, AT&amp;T, or Verizon), and that the company is now offering an obviously named Dell Online Backup service to the tune of 3GB for Inspiron owners and 10GB for XPS users. We don't know much more than that at the moment, but we definitely like what we've heard thus far. Dell news keeps coming, stand by.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://home.businesswire.com/portal/site/home/index.jsp?ndmViewId=news_view&amp;ndmConfigId=1000001&amp;newsId=20070626005520&amp;newsLang=en>Read</a> | <a href="http://www.engadget.com/2007/06/26/dell-introduces-online-backup-more-3g-for-laptops/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926896/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/dell-introduces-online-backup-more-3g-for-laptops/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>backup</category>
+            <category>dell</category>
+            <category>inspiron</category>
+            <category>online backup</category>
+            <category>OnlineBackup</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 11:47:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sprint announces Muziq from LG]]></title>
+            <link>http://www.engadget.com/2007/06/26/sprint-announces-muziq-from-lg/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/sprint-announces-muziq-from-lg/</guid>
+            <comments>http://www.engadget.com/2007/06/26/sprint-announces-muziq-from-lg/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a></p><div align="center"><a href="http://www2.sprint.com/mr/news_dtl.do?id=17220"><img vspace="4" hspace="4" border="0" alt=""  src="http://www.engadgetmobile.com/media/2007/06/lg-muziq.jpg" /></a><br /></div>
+Shoring up its music-friendly line alongside the <a href="http://www.engadgetmobile.com/2007/03/26/sprint-announces-samsung-upstage-99-cent-songs-over-the-air/">UpStage from Samsung</a>, Sprint has announced its "Muziq," the <a href="http://www.engadgetmobile.com/2007/06/19/sprint-prepping-to-launch-lgs-fusic-ii/">Fusic's spiritual successor</a> from LG. While it'll face some serious musicphone competition from across the CDMA / GSM divide <a href="http://www.engadgetmobile.com/search/?q=iphone">later this week</a>, the Muziq holds its own with some interesting features including an integrated FM transmitter that can send tuneage to any FM radio within ten feet. It also offers up stereo Bluetooth, a microSD slot supporting up to 4GB of expansion (a 64MB card is included in box), 1.3 megapixel camera, and sideloading of DRM-free music via USB. Look for it to hit on July 15 for $99 on contract.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www2.sprint.com/mr/news_dtl.do?id=17220>Read</a> | <a href="http://www.engadget.com/2007/06/26/sprint-announces-muziq-from-lg/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926901/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/sprint-announces-muziq-from-lg/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>breaking news</category>
+            <category>BreakingNews</category>
+            <category>cellphone</category>
+            <category>clamshell</category>
+            <category>flip</category>
+            <category>fusic</category>
+            <category>fusic ii</category>
+            <category>FusicIi</category>
+            <category>lg</category>
+            <category>music</category>
+            <category>muziq</category>
+            <category>phone</category>
+            <category>sprint</category>
+            <category>sprint nextel</category>
+            <category>sprint-nextel</category>
+            <category>SprintNextel</category>
+            <dc:creator><![CDATA[Chris Ziegler]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 11:21:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pyramat set to release Lap Blaster laptop speaker system]]></title>
+            <link>http://www.engadget.com/2007/06/26/pyramats-lap-blaster-laptop-speaker-system-cranks-out-the-jams/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/pyramats-lap-blaster-laptop-speaker-system-cranks-out-the-jams/</guid>
+            <comments>http://www.engadget.com/2007/06/26/pyramats-lap-blaster-laptop-speaker-system-cranks-out-the-jams/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gaming/" rel="tag">Gaming</a>, <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/laptop_soundbooster.jpg" alt="" /><br /></div>
+You might recognize the name Pyramat for its line of rump-shaking <a href="http://www.engadget.com/2004/04/16/the-pyramat-pm300/">gaming</a> <a href="http://www.engadget.com/2005/12/21/pyramat-pm220-speaker-embedded-gaming-chair/">chairs</a>, but the West Coast company is about to branch out to the gamer on the go with the new Lap Blaster USB speaker system. The flat speaker pad can hold most laptops up to 17 inches in size, and also features an iPod dock and wrist rest. We're a little skeptical of Pyramat's claims that the two LED-illuminated 4-watt speakers can provide a "personal home theater experience," especially since it looks like they'll be behind the screen when the lid's open, but we'll hear how much $129 buys you when the Lap Blaster drops in late August or so.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.uberreview.com/2007/06/lap-blaster-laptop-sound-booster.htm>Read</a> | <a href="http://www.engadget.com/2007/06/26/pyramats-lap-blaster-laptop-speaker-system-cranks-out-the-jams/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926407/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/pyramats-lap-blaster-laptop-speaker-system-cranks-out-the-jams/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>lap blaster</category>
+            <category>LapBlaster</category>
+            <category>laptop sound booster</category>
+            <category>LaptopSoundBooster</category>
+            <category>pyramat</category>
+            <category>speakers</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 10:55:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[80GB iPhone?]]></title>
+            <link>http://www.engadget.com/2007/06/26/80gb-iphone/</link>
+            <guid isPermaLink="true">http://www.engadget.com/2007/06/26/80gb-iphone/</guid>
+            <comments>http://www.engadget.com/2007/06/26/80gb-iphone/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a>, <a href="http://www.engadget.com/category/portablevideo/" rel="tag">Portable Video</a></p><div align="center"><a href="http://www.apple.com/iphone/usingiphone/activation.html"><img vspace="4" hspace="4" border="1" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/80gb-iphone_glow.jpg" alt="" /></a></div>
+<span style="float: right; margin-left: 4px; margin-bottom: 16px;"> <script> var digg_url = 'http://digg.com/apple/WTF_80GB_iPhone'; </script> <script src="http://digg.com/api/diggthis.js"></script></span> Just spotted this in the iPhone's AT&amp;T activation video. A 74.40GB capacity huh? Either they've got a hard disk drive iPhone in the works or the marketing team fudged the videos using an 80GB iPod. Check it for yourselves 6min and 17seconds into the video.<br /><br />[Thanks, Josh VH. and everybody who sent this in]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.apple.com/iphone/usingiphone/activation.html>Read</a> | <a href="http://www.engadget.com/2007/06/26/80gb-iphone/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926842/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/80gb-iphone/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>iphone</category>
+            <category>rumor</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 10:27:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hitachi's worker tracking tags]]></title>
+            <link>http://www.engadget.com/2007/06/26/hitachis-worker-tracking-tags/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/hitachis-worker-tracking-tags/</guid>
+            <comments>http://www.engadget.com/2007/06/26/hitachis-worker-tracking-tags/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/wearables/" rel="tag">Wearables</a></p><div align="center"><a href="http://techon.nikkeibp.co.jp/english/NEWS_EN/20070625/134708/"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/hit_tag.jpg" /></a><br /></div>
+If you're an employee of a <a href="http://www.engadget.com/search/?q=wal-mart">large company</a>, you probably worry that your higher-ups are watching your every move, keeping track of how long you take for lunch, and going through your personal emails. Well, Hitachi has taken it to the totally 1984-esque next level with an electronic "name tag" which employees wear around their neck, used to track their personal movements, as well as proximity to, and interaction with co-workers. The tags also include radiation sensors (?), sound sensors and a radio communication device -- just in case you felt you weren't being watched enough. The collected data shows strengths and weaknesses amongst groups of workers in an organization, forming a topographical map which <a href="http://www.engadget.com/search/?q=big+brother">Big Brother</a> will use to decide who gets made into Soylent Green.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://techon.nikkeibp.co.jp/english/NEWS_EN/20070625/134708/>Read</a> | <a href="http://www.engadget.com/2007/06/26/hitachis-worker-tracking-tags/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926354/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/hitachis-worker-tracking-tags/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>electronic name tags</category>
+            <category>ElectronicNameTags</category>
+            <category>hitachi</category>
+            <category>office workers</category>
+            <category>OfficeWorkers</category>
+            <category>tags</category>
+            <category>topographic map</category>
+            <category>TopographicMap</category>
+            <category>tracking</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 10:06:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone rate plans revealed, at-home activation announced]]></title>
+            <link>http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/</guid>
+            <comments>http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><div align="center"><img vspace="4" hspace="4" border="1" alt="" src="http://www.engadgetmobile.com/media/2007/06/iphoneplans.jpg" /><br /></div>
+Even though they could probably charge $500 a month for service and still sign up a grip of Apple fanboys, AT&amp;T has announced that it will be <a href="http://www.engadget.com/2007/06/25/the-iphones-have-landed-iplan-in-tow/">offering the iPhone</a> for much more reasonable rates, starting at just $60 for 450 minutes and "unlimited" data; that's right, the data plan is wrapped up nice and tight with voice service in your obligatory two-year contract. Scoring 900 or 1,350 minutes will set you back $80 and $100 per month, respectively, although no matter what plan you choose, you're getting 200 text messages, unlimited mobile-to-mobile calls, and a ton of night and weekend minutes (5,000 for the starter plan, unlimited for the other two). If you're <strike>unfortunate </strike>lucky enough to be stocking up on iPhones for the whole family, shared bundles of 700, 1,400, and 2,100 minutes (all with 200 SMS messages and unlimited night and weekend calls) can be had for $80, $100, or $120 plus 30 bucks per line. Finally, to keep existing customers from going crazy waiting for their contracts to expire, AT&amp;T is also offering its current subscribers a $20 option to tack on the iPhone data plan -- which goes up to $30 or $40 if you need to jack up your SMS limit to 1,500 or unlimited messages.<br /><br />In more good news -- well, depending on how you look at it -- Apple has announced that customers will be able to activate their new phones via an iTunes sync, saving them from spending even an extra minute in an AT&amp;T store they will have surely have grown to despise. On the down side, if you do have problems with your activation -- remember those initial <a href="http://www.engadget.com/search/?q=itunes+vista">iTunes / Vista issues</a>? -- it'll be just that much more difficult to troubleshoot as you and two million other frustrated users flood AT&amp;T's customer service line simultaneously. Good times, folks, good times.<br /><br /><strong>Update</strong>: That's some, ah, good journalism there Lou. Apparently there are actually <em>six </em>packages each available for both of the individual and family plans, as reader Christopher K. noticed by simply clicking on the "More Minutes" button at the bottom of those plans' respective tabs <a href="http://www.apple.com/iphone/easysetup/rateplans.html">here</a>. Heavy users will be also be able to choose from 2,000, 4,000, or 6,000 minute bundles for $120, $170, and $220, respectively, with families getting 3,000, 4,000, or 6,000 minutes for $160, $210, and $310, also respectively.<br /><br /><a href="http://www.apple.com/pr/library/2007/06/26plans.html">Read </a>- iPhone rate plans<br /><a href="http://www.apple.com/pr/library/2007/06/26activate.html">Read </a>- iTunes activation<br /><br />[Thanks to everyone who sent this in]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926778/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/iphone-rate-plans-revealed-at-home-activation-announced/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>activation</category>
+            <category>apple</category>
+            <category>breaking news</category>
+            <category>BreakingNews</category>
+            <category>iphone</category>
+            <category>itunes</category>
+            <category>launch</category>
+            <category>rate plans</category>
+            <category>RatePlans</category>
+            <category>sync</category>
+            <dc:creator><![CDATA[Evan Blass]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 09:26:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Robot Locator keeps you safe, doesn't locate robots]]></title>
+            <link>http://www.engadget.com/2007/06/26/japanese-robot-locator-keeps-you-safe-doesnt-locate-robots/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/japanese-robot-locator-keeps-you-safe-doesnt-locate-robots/</guid>
+            <comments>http://www.engadget.com/2007/06/26/japanese-robot-locator-keeps-you-safe-doesnt-locate-robots/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gadgets/" rel="tag">Misc. Gadgets</a>, <a href="http://www.engadget.com/category/wearables/" rel="tag">Wearables</a></p><div align="center"><a href="http://google.com/translate?u=http%3A%2F%2Frobot.watch.impress.co.jp%2Fcda%2Fnews%2F2007%2F06%2F26%2F532.html&amp;langpair=ja%7Cen&amp;hl=en&amp;ie=UTF8"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/robot_locator-sm.jpg" /></a><br /></div>
+Naming your new security service "Robot Locator" is a sure-fire way to get hearts aflutter here at Engadget HQ, but the new service Network Security Japan is rolling out in Osaka is a crushing disappointment, even if it is kind of neat. Instead of locating and subduing the nearest out-of-control <a href="http://www.engadget.com/tag/robot">deathbot</a>, the system features a network of relays installed in vending machines linked to a central security office. Pressing the emergency button on your "robot locator" sends your GPS coordinates to the nearest relay and sounds the alarm at the dispatch, which can then send a security guard to assist you. Relay-equipped vending machines also feature an emergency button, for those who aren't carrying a locator. Now let's just hope they change the name by the time we need <em>actual</em> robot locators.<br /><br />[Via <a href="http://www.plasticbamboo.com/2007/06/25/nsj-gps-robot-locator/">Plastic Bamboo</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://google.com/translate?u=http%3A%2F%2Frobot.watch.impress.co.jp%2Fcda%2Fnews%2F2007%2F06%2F26%2F532.html&amp;langpair=ja%7Cen&amp;hl=en&amp;ie=UTF8>Read</a> | <a href="http://www.engadget.com/2007/06/26/japanese-robot-locator-keeps-you-safe-doesnt-locate-robots/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926380/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/japanese-robot-locator-keeps-you-safe-doesnt-locate-robots/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>network security japan</category>
+            <category>NetworkSecurityJapan</category>
+            <category>robot locator</category>
+            <category>RobotLocator</category>
+            <category>security</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 08:25:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AmberWatch Mobile GPS tracking service announced]]></title>
+            <link>http://www.engadget.com/2007/06/26/amberwatch-mobile-gps-tracking-service-announced/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/amberwatch-mobile-gps-tracking-service-announced/</guid>
+            <comments>http://www.engadget.com/2007/06/26/amberwatch-mobile-gps-tracking-service-announced/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/gps/" rel="tag">GPS</a></p><a href="http://www.amberwatchfoundation.org/media_resources/release_2007062001.asp"><img vspace="4" hspace="4" border="0" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/amberwatch-foundation.png"  alt="" /></a>The AmberWatch Foudation used QUALCOMM's recent BREW 2007 conference to take the wraps off its latest initiative, with QUALCOMM CEO Paul Jacobs himself helping to talk up the new AmberWatch Mobile GPS tracking service and urge others in the industry to jump on board. Among other things, the new service will allow individuals to send alerts to family and friends when they're in need of assistance (which'll include their GPS location), allow chosen friends or family members to check on an individual's location from their PC or cellphone, and give parents the ability to set up scheduled checkups with their kids. Look for the software to roll out this September, with about half of the proceeds from sales going to support the AmberWatch Foundation.<br /><br />[Via <a href="http://gpstrackingsystems.biz/amberwatch-mobile-gps-tracking-service/49/">GPS Tracking Systems</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.amberwatchfoundation.org/media_resources/release_2007062001.asp>Read</a> | <a href="http://www.engadget.com/2007/06/26/amberwatch-mobile-gps-tracking-service-announced/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926210/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/amberwatch-mobile-gps-tracking-service-announced/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>amberwatch</category>
+            <category>amberwatch mobile</category>
+            <category>AmberwatchMobile</category>
+            <dc:creator><![CDATA[Donald Melanson]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 07:55:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lubix's UBHS-PH2 sports world's first MEMS display]]></title>
+            <link>http://www.engadget.com/2007/06/26/lubixs-ubhs-ph2-sports-worlds-first-mems-display/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/lubixs-ubhs-ph2-sports-worlds-first-mems-display/</guid>
+            <comments>http://www.engadget.com/2007/06/26/lubixs-ubhs-ph2-sports-worlds-first-mems-display/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/displays/" rel="tag">Displays</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a></p><div align="center"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/lubix_ubhs-ph2_mems_qualcomm.jpg" /><br /></div>
+Oh goodie, a world's first. This time it's courtesy of <a href="http://www.engadget.com/tag/lubix">Lubix's</a> UBHS-PH2 Bluetooth headset sporting Qualcomm's Micro-Electro-Mechanical Systems (<a href="http://www.engadget.com/tag/mems">MEMS</a>) display. The reflective display sports Interferometric Modulation (IMOD) technology to avoid battery-draining backlighting. Otherwise, we're just looking at the nub end of a stereo Bluetooth 2.0+EDR headset presumably offering the same A2DP, AVRCP, HSP, and HFP profiles available in their rest of their lineup -- which isn't a bad thing.<br /><br /><a href="http://aving.net/kr/news/default.asp?mode=read&amp;c_num=51093&amp;C_Code=01&amp;SP_Num=0">Read</a> -- Lubix UBHS-PH2 <br /><a href="http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&amp;STORY=/www/story/05-21-2007/0004592318&amp;EDATE=">Read</a> -- Qualcomm MEMS display<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/26/lubixs-ubhs-ph2-sports-worlds-first-mems-display/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926678/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/lubixs-ubhs-ph2-sports-worlds-first-mems-display/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>bluetooth</category>
+            <category>bluetooth headset</category>
+            <category>BluetoothHeadset</category>
+            <category>first</category>
+            <category>imod</category>
+            <category>lubix</category>
+            <category>mems</category>
+            <category>qualcomm</category>
+            <category>ubhs-ph2</category>
+            <category>world's first</category>
+            <category>World'sFirst</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 07:11:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Spy Box" records journey through the postal system]]></title>
+            <link>http://www.engadget.com/2007/06/26/spy-box-records-journey-through-the-postal-system/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/spy-box-records-journey-through-the-postal-system/</guid>
+            <comments>http://www.engadget.com/2007/06/26/spy-box-records-journey-through-the-postal-system/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/digitalcameras/" rel="tag">Digital Cameras</a>, <a href="http://www.engadget.com/category/gadgets/" rel="tag">Misc. Gadgets</a></p><div align="center"><a href="http://www.timknowles.co.uk/Work/PostalWorks/SpyBox/tabid/296/Default.aspx"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/spybox@72.jpg" /></a><br /></div>
+We've always wondered what happens to a package when we drop it off at the post office -- and having received our share of oddly damaged parcels has only heightened the mystery. British artist Tim Knowles was similarly curious, and his latest piece, "Spy Box," is a clever attempt to document the journey the box took from his studio to a nearby gallery. Knowles rigged a camera inside the box to take a photo out of a small hole every ten seconds, and stitched the resulting 6,994 photos together to make a short movie of the box's 19-hour journey. The end result isn't too thrilling -- the box is in a room! The box is in the dark! The box is in another room! -- but it's still pretty interesting. Peep a short clip at the read link.<br /><br />[Via <a href="http://www.switched.com/2007/06/25/hidden-cam-makes-art/">Switched</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.timknowles.co.uk/Work/PostalWorks/SpyBox/tabid/296/Default.aspx>Read</a> | <a href="http://www.engadget.com/2007/06/26/spy-box-records-journey-through-the-postal-system/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926391/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/spy-box-records-journey-through-the-postal-system/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>camera</category>
+            <category>hidden camera</category>
+            <category>HiddenCamera</category>
+            <category>package tracking</category>
+            <category>PackageTracking</category>
+            <category>postal service</category>
+            <category>PostalService</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 06:31:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell Dimension Desktops, RIP: 1992 - 2007]]></title>
+            <link>http://www.engadget.com/2007/06/26/dell-dimension-desktops-rip-1992-2007/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/dell-dimension-desktops-rip-1992-2007/</guid>
+            <comments>http://www.engadget.com/2007/06/26/dell-dimension-desktops-rip-1992-2007/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/desktops/" rel="tag">Desktops</a></p><div align="center"><a href="http://today.reuters.com/news/articlenews.aspx?type=technologyNews&amp;amp;storyid=2007-06-26T055825Z_01_N25235155_RTRUKOC_0_US-DELL-COMPUTERS.xml"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dell_dimension_gone.jpg" alt="" /></a><br /></div>
+What's missing from the Dell consumer desktop lineup pictured above? Right, the <a href="http://www.engadget.com/tag/dimension">Dimension</a> brand. Gone like the wind and Dell's once dominant position in the home desktop game. As of today, Dell's <a href="http://www.engadget.com/tag/inspiron">Inspiron</a> branding, once reserved exclusively for their laptops, becomes the moniker of choice for Dell's budget-conscious consumers. A little sad really, little Dimension would have turned 15 on Friday. <br /><br /><a href="http://today.reuters.com/news/articlenews.aspx?type=technologyNews&amp;storyid=2007-06-26T055825Z_01_N25235155_RTRUKOC_0_US-DELL-COMPUTERS.xml">Read</a> -- Press release <br /><a href="http://findarticles.com/p/articles/mi_m0NEW/is_1992_June_29/ai_12287184">Read</a> -- Dell's original Dimension announcement (June 29, 1992)<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://today.reuters.com/news/articlenews.aspx?type=technologyNews&amp;storyid=2007-06-26T055825Z_01_N25235155_RTRUKOC_0_US-DELL-COMPUTERS.xml>Read</a> | <a href="http://www.engadget.com/2007/06/26/dell-dimension-desktops-rip-1992-2007/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926655/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/dell-dimension-desktops-rip-1992-2007/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>breaking news</category>
+            <category>BreakingNews</category>
+            <category>dell</category>
+            <category>dimension</category>
+            <category>rip</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 05:02:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SolidAlliance's USB 2.0 Engine HUB drives up your geek cred]]></title>
+            <link>http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/</guid>
+            <comments>http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gadgets/" rel="tag">Misc. Gadgets</a></p><div style="text-align: center;"><a href="http://www.akihabaranews.com/en/news-14216-Akihabara+News+Exclusive%21+The+New+SolidAlliance+USB+Engine+Hub+%21.html"><img vspace="4" hspace="4" border="0" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/solidalliance_usb_engine_440.jpg"  alt="" /></a><br /></div>
+Oh dork lord incarnate, meet the <a href="http://www.engadget.com/tag/solidalliance">SolidAlliance</a> 3-port USB Engine Hub. Modeled after a motorcycle engine, SolidA's latest features a kick starter, gear shift, and enough faux-engine revving effects to drive everyone around you nuts. <strike>No word on price yet</strike>, but it's available starting tomorrow in Japan. Now check the video action after the break.<br /><br /><strong>Update</strong>: Priced at &yen;5,250 or about $43, vroom vroom daddy, vroom vroom.<p><a href="http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/" rel="bookmark">Continue reading <em>SolidAlliance's USB 2.0 Engine HUB drives up your geek cred</em></a></p><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.akihabaranews.com/en/news-14216-Akihabara+News+Exclusive%21+The+New+SolidAlliance+USB+Engine+Hub+%21.html>Read</a> | <a href="http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926651/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/solidalliances-usb-2-0-engine-hub-drives-your-geek-cred/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>engine hub</category>
+            <category>EngineHub</category>
+            <category>solidalliance</category>
+            <category>usb</category>
+            <category>usb hub</category>
+            <category>usb power</category>
+            <category>usb powered</category>
+            <category>UsbHub</category>
+            <category>UsbPower</category>
+            <category>UsbPowered</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 04:17:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corian Z. Island: taking kitchens to the year 3000]]></title>
+            <link>http://www.engadget.com/2007/06/26/corian-z-island-taking-kitchens-to-the-year-3000/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/corian-z-island-taking-kitchens-to-the-year-3000/</guid>
+            <comments>http://www.engadget.com/2007/06/26/corian-z-island-taking-kitchens-to-the-year-3000/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gadgets/" rel="tag">Misc. Gadgets</a>, <a href="http://www.engadget.com/category/household/" rel="tag">Household</a></p><div align="center"><a href="http://www.corian.com/corian/b/mdw2006/press/zisland/index.htm"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/z_island.jpg" /></a><br /></div>
+<a href="http://www.engadget.com/search/?q=corian">Corian</a> is known for producing all types of wacky materials for your countertop, but the company has dashed straight into the 23rd century with its new "Z" kitchen island (and assorted accessories). The Zaha Hadid designed centerpiece boasts LED touch panels embedded in the table's surface, a mounted Mac for multimedia functions, and three very bizarre looking aroma "devices" which protrude from the island, and can be tweaked to produce various scents. The unit also controls a wall of abstract lighting fixtures, allowing you to alter their color and intensity. Basically, it's the perfect thing to own if James T. Kirk stops by wants you to heat up his coffee and make the room smell like rose petals.<br /><br />[Via <a href="http://chipchick.com/2007/06/dupont_corian_z_kitchen_island_looks_like_something_out_of_star_trek.html">chipchick</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.corian.com/corian/b/mdw2006/press/zisland/index.htm>Read</a> | <a href="http://www.engadget.com/2007/06/26/corian-z-island-taking-kitchens-to-the-year-3000/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926397/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/corian-z-island-taking-kitchens-to-the-year-3000/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>corian</category>
+            <category>corian z</category>
+            <category>CorianZ</category>
+            <category>islands</category>
+            <category>kitchens</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 03:30:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[USB dartboard trains future champs]]></title>
+            <link>http://www.engadget.com/2007/06/26/usb-dartboard-trains-future-champs/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/usb-dartboard-trains-future-champs/</guid>
+            <comments>http://www.engadget.com/2007/06/26/usb-dartboard-trains-future-champs/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gaming/" rel="tag">Gaming</a>, <a href="http://www.engadget.com/category/peripherals/" rel="tag">Peripherals</a></p><div align="center"><a href="http://google.com/translate?u=http%3A%2F%2Fbcnranking.jp%2Fproducts%2F01-00014544.html&amp;langpair=ja%7Cen&amp;hl=en&amp;ie=UTF8"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/pcdarts.jpg" /></a><br /></div>
+Those looking to get in a game of darts without having to make their way to the local bar will want to check out PC Darts -- a USB powered dartboard and software package. In addition to keeping score for up to four players and providing computerized opponents, the software features statistical analysis tools and practice settings for aspiring world champions, while more casual gamers can just click on "party mode," and heave-ho away. Glory isn't cheap at &yen;<font class="bodytext"><font size="2">31,290 ($252), but getting on ESPN 2 at midnight takes sacrifice, people.<br /><br />[Via <a href="http://www.everythingusb.com/usb_darts_12844.html">Everything USB</a>]<br /> </font></font><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://google.com/translate?u=http%3A%2F%2Fbcnranking.jp%2Fproducts%2F01-00014544.html&amp;langpair=ja%7Cen&amp;hl=en&amp;ie=UTF8>Read</a> | <a href="http://www.engadget.com/2007/06/26/usb-dartboard-trains-future-champs/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926346/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/usb-dartboard-trains-future-champs/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>darts</category>
+            <category>pc darts</category>
+            <category>pcdarts</category>
+            <category>usb</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 02:46:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First iPhone camper smelled at Apple's 5th Ave store]]></title>
+            <link>http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/</guid>
+            <comments>http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a>, <a href="http://www.engadget.com/category/portablevideo/" rel="tag">Portable Video</a></p><div align="center"><a href="http://www.appleinsider.com/articles/07/06/25/insanity_first_iphone_line_forms_in_manhattan_four_days_early.html"><img vspace="4" hspace="4" border="1" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/first-iphone-waiters-440.jpg" alt="" /></a><br /></div>
+There he is, first in the queue at Apple's flagship 5th Ave store. Now what could he be waiting for... besides a sponge?<br /><br /><strong>Update</strong>: <a href="http://davidjr.com/iphone/"><span style="font-style: italic;">Davidjr.com</span></a> went one-on-, er two with the first few people in line. Check the nonsense after the break.<p><a href="http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/" rel="bookmark">Continue reading <em>First iPhone camper smelled at Apple's 5th Ave store</em></a></p><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.appleinsider.com/articles/07/06/25/insanity_first_iphone_line_forms_in_manhattan_four_days_early.html>Read</a> | <a href="http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926602/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/first-iphone-camper-smelled-at-apples-5th-ave-store/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>apple</category>
+            <category>apple store</category>
+            <category>AppleStore</category>
+            <category>camper</category>
+            <category>camping</category>
+            <category>iphone</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 02:12:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell's XPS m1330 and Inspiron laptops now on-line]]></title>
+            <link>http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/</guid>
+            <comments>http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><a href="http://www.dell.com/content/products/category.aspx/notebooks?c=us&amp;cs=19&amp;l=en&amp;s=dhs"><img vspace="4" hspace="4" border="0" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dell_inspiron_xps_m1330_no_price.jpg" /></a></div>
+After an initial appearance on Canada's site, Dell's new XPS <a href="Inspiron">m1330</a> and <a href="http://www.engadget.com/2007/06/13/pics-and-specs-of-dells-new-inspirons/">Inspiron</a> laptops have broken free from the rumor mill. Available on-line now, the new 17-, 15-, and 14-inch Inspirons start at $769 while the XPS m1330 hottie will set you back at least <strike>$1,684</strike> $1,299. Specs are in line with what we've already heard: LED-backlighting, slot-loading and Blu-ray optical, SSDs, big juicy 1,920 x 1,200 resolutions, GeForce Go 8600M GT graphics, 2x hard disk configurations and enough colors to make you doubt your manhood.<br /><br /><strong>Update</strong>: Dell just updated the website (again) to reflect a starting price of $1,299 for the XPS m1330. That's more like it.<br /><br />[Thanks, everybody who sent this in]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.dell.com/content/products/category.aspx/notebooks?c=us&amp;cs=19&amp;l=en&amp;s=dhs>Read</a> | <a href="http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926587/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/dells-xps-m1330-and-inspiron-laptops-now-on-line/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>1420</category>
+            <category>1520</category>
+            <category>1521</category>
+            <category>1720</category>
+            <category>1721</category>
+            <category>breaking news</category>
+            <category>BreakingNews</category>
+            <category>dell</category>
+            <category>inspiron</category>
+            <category>m1330</category>
+            <category>xps m1330</category>
+            <category>XpsM1330</category>
+            <dc:creator><![CDATA[Thomas Ricker]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 01:42:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tivoli announces NetWorks WiFi radios]]></title>
+            <link>http://www.engadget.com/2007/06/26/tivoli-announces-networks-wifi-radios/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/26/tivoli-announces-networks-wifi-radios/</guid>
+            <comments>http://www.engadget.com/2007/06/26/tivoli-announces-networks-wifi-radios/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/homeentertainment/" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/portableaudio/" rel="tag">Portable Audio</a></p><div align="center"><a href="http://crave.cnet.com/8301-1_105-9733607-1.html?part=rss&amp;tag=feed&amp;subj=Crave"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/tiv_1.jpg" /></a><br /></div>
+<a href="http://www.engadget.com/search/?q=Tivoli">Tivoli</a>, well known for its small and classy wood-framed AM/FM radio systems, is branching out into the world of internet radio with two new models called the NetWorksGo and NetWorks Table Radio. As the names suggest, one is a portable (and by portable we mean about the size of a car battery), while the other is, obviously, meant for desktop use. The new models will stream MP3, WMA and Real Audio using WiFi or an Ethernet connection, and stations will come from a <em>pre-selected</em> list provided by the company, although according to reports, users need only "send Tivoli an e-mail" to have a station added to the device. No word yet on pricing, but they should be available later this year.<br /><br />[Via <a href="http://www.slipperybrick.com/2007/06/networksgo-table-radio-tiovli/">slipperybrick</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://crave.cnet.com/8301-1_105-9733607-1.html?part=rss&amp;tag=feed&amp;subj=Crave>Read</a> | <a href="http://www.engadget.com/2007/06/26/tivoli-announces-networks-wifi-radios/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926332/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/26/tivoli-announces-networks-wifi-radios/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>internet radio</category>
+            <category>InternetRadio</category>
+            <category>networks table radio</category>
+            <category>networksgo</category>
+            <category>NetworksTableRadio</category>
+            <category>streaming</category>
+            <category>tivoli</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Tue, 26 Jun 2007 01:21:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wii pool cue attachement hustles you out of $13]]></title>
+            <link>http://www.engadget.com/2007/06/25/wii-pool-cue-attachement-hustles-you-out-of-13/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/wii-pool-cue-attachement-hustles-you-out-of-13/</guid>
+            <comments>http://www.engadget.com/2007/06/25/wii-pool-cue-attachement-hustles-you-out-of-13/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gaming/" rel="tag">Gaming</a>, <a href="http://www.engadget.com/category/peripherals/" rel="tag">Peripherals</a></p><div align="center"><img vspace="4" hspace="4" border="0" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/billiards062507.jpg" /><br /></div>
+Adding to the growing list of <a href="http://www.engadget.com/2007/02/06/the-wii-boxing-glove-lowered-expectations-sold-separately/">chintzy</a> <a href="http://www.engadget.com/2007/01/05/wii-sports-pack-offers-trio-of-wiimote-extensions/">plastic</a> <a href="http://engadget.com/tag/wiimote">Wiimote</a> <a href="http://www.engadget.com/2007/02/09/wii-weights-could-spark-legions-of-wii-athletes/">accessories</a>, this pool cue add-on seems like it could also be pretty useful for dramatically browsing the News Channel. The kit features an outer shell for the Wiimote and a three-piece shaft -- no word on what the tip is made of, but you can be certain that chalking it up won't help you sink that last shot.<br /><br />[Via <a href="http://www.nintendowiifanboy.com/2007/06/25/wii-finglonger-invented/">Wii Fanboy</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.goldenshop.com.hk/AI-trad/wii/billiards.htm>Read</a> | <a href="http://www.engadget.com/2007/06/25/wii-pool-cue-attachement-hustles-you-out-of-13/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926360/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/wii-pool-cue-attachement-hustles-you-out-of-13/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>pool cue</category>
+            <category>PoolCue</category>
+            <category>wii</category>
+            <category>wii remote</category>
+            <category>wiimote</category>
+            <category>wiimote accessory</category>
+            <category>WiimoteAccessory</category>
+            <category>WiiRemote</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 23:45:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dell Canada prices the XPS m1330 at CDN$1499]]></title>
+            <link>http://www.engadget.com/2007/06/25/dell-canada-prices-the-xps-m1330-at-cdn-1499/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/dell-canada-prices-the-xps-m1330-at-cdn-1499/</guid>
+            <comments>http://www.engadget.com/2007/06/25/dell-canada-prices-the-xps-m1330-at-cdn-1499/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/laptops/" rel="tag">Laptops</a></p><div align="center"><a href="http://forum.notebookreview.com/showthread.php?t=127805&amp;page=43"><img vspace="4" hspace="4" border="1" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/xps-1330-price--sm.jpg" /></a><br /></div>
+The hottest Dell laptop we've <a href="http://www.engadget.com/2007/06/05/more-pics-of-the-dell-xps-m1330/">seen</a> in a while just got an equally hot price -- a reader at the NotebookReview forums posted a scanned-in Dell Canada ad that lists the 4-pound <a href="http://www.engadget.com/2007/06/04/dell-xps-m1330-performance-ultraportable-revealed/">XPS m1330 </a>at CDN$1499 (that's about $1399 USD). It doesn't look like you'll be getting an LED backlight for that price, but you will score a T7100 Core 2 Duo, Vista Home Premium, 2GB of RAM, a 120GB disk, and a dual-layer DVD&plusmn;RW drive, in your choice of three colors: Candy Red, Tuxedo Black, or Pearl White. No word on when these might start shipping, but it's obvious we're getting close.<br /><br /><strong>Update</strong>: The m1330 just <a href="http://configure.dell.com/dellstore/config.aspx?c=ca&amp;CS=cadhs1&amp;l=en&amp;OC=N13302V_F_1E">popped online</a> for Canadian retail.<br /><br /><strong>Update 2</strong>: US site now updated. Giddy up!<br /><br />[Thanks, Charlie]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://forum.notebookreview.com/showthread.php?t=127805&amp;page=43>Read</a> | <a href="http://www.engadget.com/2007/06/25/dell-canada-prices-the-xps-m1330-at-cdn-1499/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926434/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/dell-canada-prices-the-xps-m1330-at-cdn-1499/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>dell</category>
+            <category>xps</category>
+            <category>xps 1330</category>
+            <category>xps m1330</category>
+            <category>Xps1330</category>
+            <category>XpsM1330</category>
+            <dc:creator><![CDATA[Nilay Patel]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 22:55:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voice Pay enables secure vocal transactions]]></title>
+            <link>http://www.engadget.com/2007/06/25/voice-pay-enables-secure-vocal-transactions/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/voice-pay-enables-secure-vocal-transactions/</guid>
+            <comments>http://www.engadget.com/2007/06/25/voice-pay-enables-secure-vocal-transactions/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a></p><div align="center"><a href="http://www.voice-pay.com/index.html"><img vspace="4" hspace="4" border="0" alt=""  src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-25-07-voice_pay.jpg" /></a><br /></div>
+In the continual <a href="http://www.engadget.com/2006/04/27/tokyo-train-station-gets-facial-scan-payment-systems/">quest</a> to make <a href="http://www.engadget.com/2006/01/25/report-wal-mart-cosco-considering-biometric-payment-systems/">depleting</a> your wallet entirely more <a href="http://www.engadget.com/2005/02/12/nokia-announces-nfc-payment-and-ticketing-again/">convenient</a>, Voice Pay's online payment system actually expects you to vocally confirm your next decrease in fundage. Dubbed the "world's first <a href="http://www.engadget.com/2006/02/08/motorola-m-wallet-cellphone-payment-system-coming-to-us/">payment system</a> interlinked with advanced voice biometric technologies," the system records and stores your "vocal fingerprint" so you can phone in a payment or purchase products on-site that support it. Of course, it's entirely likely that you'll be repeating all sorts of random numbers, passwords, and mother's maiden names in public in order to get that bill paid, but we're sure the hardcore yappers won't mind a bit.<br /><br />[Via <a href="http://www.textually.org/textually/archives/2007/06/016369.htm">Textually</a>]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.voice-pay.com/index.html>Read</a> | <a href="http://www.engadget.com/2007/06/25/voice-pay-enables-secure-vocal-transactions/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926362/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/voice-pay-enables-secure-vocal-transactions/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>auditory</category>
+            <category>biometric</category>
+            <category>biometrics</category>
+            <category>contactless</category>
+            <category>pay</category>
+            <category>pay voice</category>
+            <category>payment</category>
+            <category>PayVoice</category>
+            <category>vocal</category>
+            <category>voice</category>
+            <category>voice pay</category>
+            <category>VoicePay</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 22:05:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEC develops 8MP CMOS sensor for cameraphones]]></title>
+            <link>http://www.engadget.com/2007/06/25/nec-develops-8mp-cmos-sensor-for-cameraphones/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/nec-develops-8mp-cmos-sensor-for-cameraphones/</guid>
+            <comments>http://www.engadget.com/2007/06/25/nec-develops-8mp-cmos-sensor-for-cameraphones/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/cellphones/" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/digitalcameras/" rel="tag">Digital Cameras</a></p><a href="http://www.nni.nikkei.co.jp/AC/TNKS/Nni20070625D25JFN04.htm"><img vspace="16" hspace="4" border="1" align="right" alt="" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-25-07-nec_logo.jpg" /></a>While LG's <a href="http://www.engadget.com/2005/02/28/lgs-planning-on-5-6-and-7-megapixel-camphones-in-2005/">ambitious plans</a> didn't exactly pan out in 2005, the idea of upping those megapixels in mainstream cameraphones sure is getting a lot of <a href="http://www.engadget.com/2006/02/10/auto-focus-low-light-functions-coming-to-cameraphones/">attention</a> today. Shortly after Kodak <a href="http://www.engadgetmobile.com/2007/05/21/kodak-phasing-out-low-end-digicams-creating-5mp-sensor-for-ca/">announced its plan</a> to unveil a five-megapixel iteration for future phones, <a href="http://www.engadget.com/tag/NEC/">NEC</a> is hitting back with a development of its own. Apparently, the company is already shipping samples of a "system chip capable of processing cameraphone images at resolutions of up to <a href="http://www.engadget.com/2007/03/27/samsungs-worlds-smallest-8-4-megapixel-cmos-sensor-so-long/">eight-megapixels</a>," which even includes "image stabilization circuitry as an option." Best of all, the CE131 sample device is priced at just &yen;4,000 ($33), and hopefully that cost will diminish even further as mass production goes forward in October. [Warning: Read link requires subscription]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://www.nni.nikkei.co.jp/AC/TNKS/Nni20070625D25JFN04.htm>Read</a> | <a href="http://www.engadget.com/2007/06/25/nec-develops-8mp-cmos-sensor-for-cameraphones/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926309/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/nec-develops-8mp-cmos-sensor-for-cameraphones/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>8mp</category>
+            <category>camera</category>
+            <category>cameraphone</category>
+            <category>ce131</category>
+            <category>cmos</category>
+            <category>image stabilization</category>
+            <category>ImageStabilization</category>
+            <category>nec</category>
+            <category>sensor</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 19:45:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boingo to drop roaming charges on hotspot network]]></title>
+            <link>http://www.engadget.com/2007/06/25/boingo-to-drop-roaming-charges-on-hotspot-network/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/boingo-to-drop-roaming-charges-on-hotspot-network/</guid>
+            <comments>http://www.engadget.com/2007/06/25/boingo-to-drop-roaming-charges-on-hotspot-network/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/wireless/" rel="tag">Wireless</a></p><a href="http://online.wsj.com/article/SB118278878992947220.html?mod=rss_Telecommunications&amp;apl=y"><img vspace="16" hspace="4" border="1" align="right" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/6-25-07-boingo_world.jpg"  alt="" /></a>Ah, <a href="http://www.engadget.com/tag/Boingo/">Boingo</a> just keeps getting sweeter. After showing off its <a href="http://www.engadget.com/2007/02/12/boingo-launches-worldwide-wifi-service-just-for-mobile-phones/">mobile service</a> and <a href="http://www.engadget.com/2007/05/25/boingo-set-to-roam-on-fons-worldwide-wifi-network/">partnering</a> with FON, now the <a href="http://www.engadget.com/tag/WiFi/">WiFi</a> operator is making it even cheaper to hop online via its worldwide hotspot network. The company has announced that it will be hitting us up with a flat-rate service for $39 per month, which will enable users to utilize "more than 100,000 WiFi hotspots" across the globe sans roaming charges. Of course, this won't impact those Boingo users who manage to stay within the confines of the US of A, but globetrotters will certainly appreciate the end of per-minute roaming charges when surfing abroad. [Warning: read link requires subscription]<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://online.wsj.com/article/SB118278878992947220.html?mod=rss_Telecommunications&amp;apl=y>Read</a> | <a href="http://www.engadget.com/2007/06/25/boingo-to-drop-roaming-charges-on-hotspot-network/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926283/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/boingo-to-drop-roaming-charges-on-hotspot-network/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>boingo</category>
+            <category>broadband</category>
+            <category>flat-rate</category>
+            <category>hotspot</category>
+            <category>internet</category>
+            <category>price</category>
+            <category>prices</category>
+            <category>pricing</category>
+            <category>roaming</category>
+            <category>wifi</category>
+            <category>worldwide</category>
+            <dc:creator><![CDATA[Darren Murph]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 18:55:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life imitates art: moon to be equipped with frickin' lasers?]]></title>
+            <link>http://www.engadget.com/2007/06/25/life-imitates-art-moon-to-be-equipped-with-frickin-lasers/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/life-imitates-art-moon-to-be-equipped-with-frickin-lasers/</guid>
+            <comments>http://www.engadget.com/2007/06/25/life-imitates-art-moon-to-be-equipped-with-frickin-lasers/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/gadgets/" rel="tag">Misc. Gadgets</a></p><div style="text-align: center;"><a href="http://space.newscientist.com/article.ns?id=dn12130&amp;feedId=online-news_rss20"><img vspace="4" hspace="4" border="1" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/dr.evil.laser2.jpg" alt="" /></a><br /></div>
+Up until now, if you wanted to test some theories about the Moon, its distance, or deviations from general relativity, you would have to shoot a laser from Earth to a group of old, dusty and imprecise reflectors from the Apollo era, which sit on the surface the big cheese -- but that might all be changing. NASA announced recently that it's funding development of a moon-based laser system, which would answer the laser bursts from Earth with its own, thus cutting down on fluctuations in readings and allowing for a more accurate study of the Moon's distance. Because there's no better way to spend several million dollars than sending a laser up to the moon to clarify a few millimeters of uncertainty.<p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href=http://space.newscientist.com/article.ns?id=dn12130&amp;feedId=online-news_rss20>Read</a> | <a href="http://www.engadget.com/2007/06/25/life-imitates-art-moon-to-be-equipped-with-frickin-lasers/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926249/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/life-imitates-art-moon-to-be-equipped-with-frickin-lasers/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>gravity</category>
+            <category>lasers</category>
+            <category>moon</category>
+            <category>nasa</category>
+            <category>study</category>
+            <dc:creator><![CDATA[Joshua Topolsky]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 18:15:00 EST</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Switched On: Mainstream music hits a mainstream price]]></title>
+            <link>http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/</link>
+            <guid isPermaLink="true"
+                >http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/</guid>
+            <comments>http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/#comments</comments>
+            <description><![CDATA[<p>Filed under: <a href="http://www.engadget.com/category/homeentertainment/" rel="tag">Home Entertainment</a></p><em>Each week Ross Rubin contributes Switched On, a column about technology, multimedia, and digital entertainment:<br /><br /></em>
+<div style="TEXT-ALIGN: center"><em><img alt="" hspace="4" src="http://www.blogsmithmedia.com/www.engadget.com/media/2007/06/rhadiopsodyhd100.jpg" vspace="4" border="0" /></em><br /></div>
+<em><br /></em>JACK FM has been like those massive spaceships from the movie Independence Day, coming from a foreign land (Canada) to hover over American cities before deploying their beam of massive personality destruction. When it landed on WCBS -FM in New York two years ago, fans of the station's previous oldies format were aghast as their favorite station was unceremoniously tossed off the air. Today, though, while its once signature deejay, radio hall of fame inductee Bruce "Cousin Brucie" Morrow, has moved on to more Sirius pursuits, the old songs and familiar jingle of ye ole WCBS-FM can be heard better than ever at 101.1 FM on the New York radio dial -- if you have an HD Radio receiver, that is.<br /><br />Approved by the FCC in October 2002 as the digital heir to terrestrial analog radio, HD Radio has seen slow growth up to this point. In contrast to XM and Sirius, which competed with each other to gain subscribers and subsidized receivers in a model torn from the playbook of cellular carriers, HD Radio has no terrestrial competition and it's free. As with satellite radio, much of HD Radio receiver growth will ultimately come by way of car manufacturers including it in vehicles. Yet today, even though 1,300 stations now broadcast in HD Radio, most HD Radio-capable products up to this point have been high-end aftermarket car stereos or tony table radios available from the likes of Boston Acoustics for hundreds of dollars.<br /><br />However, with a big advertising push coming this spring, more affordable receivers are starting to appear. Sony has signed on to incorporate HD Radio in its products over the next few years. The Accurian Tabletop HD Radio, appropriately available at Radio Shack, sells for $159 before rebate. And now Silicon Prarie startup Radiosophy is offering the boombox-like HD100 receiver for merely $59 after rebate. This makes it the least expensive HD Radio on the market.<p><a href="http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/" rel="bookmark">Continue reading <em>Switched On: Mainstream music hits a mainstream price</em></a></p><p style="clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;">&nbsp;</p><p><a href="http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/" rel="bookmark" title="Permanent link to this entry">Permalink</a> | <a href="http://www.engadget.com/forward/926032/" title="Send this entry to a friend via email">Email this</a> | <a href="http://www.engadget.com/2007/06/25/switched-on-mainstream-music-hits-a-mainstream-price/#comments" title="View reader comments on this entry">Comments</a></p><hr /><p><a title="Sponsored By" href="http://www.officedepot.com/ddSKU.do?level=SK&amp;id=432220&amp;cm_ven=360i&amp;cm_cat=Media&amp;cm_pla=engadget&amp;cm_ite=rsslink" target="_blank">Office Depot Featured Gadget: Xbox 360 Platinum System</a> Packs the power to bring games to life!</p>]]></description>
+            <category>HD Radio</category>
+            <category>HD100</category>
+            <category>HdRadio</category>
+            <category>Jack FM</category>
+            <category>JackFm</category>
+            <category>Radiosophy</category>
+            <category>Ross Rubin</category>
+            <category>RossRubin</category>
+            <category>Switched On</category>
+            <category>SwitchedOn</category>
+            <dc:creator><![CDATA[Ross Rubin]]></dc:creator>
+            <pubDate>Mon, 25 Jun 2007 17:35:00 EST</pubDate>
+        </item>
+    </channel>
+</rss>

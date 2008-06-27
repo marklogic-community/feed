@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+  <head>
+    <title>Digg</title>
+    <dateCreated>Fri, 28 Dec 2007 19:45:20 GMT</dateCreated>
+    <dateModified>Tue, 27 Nov 2007 21:01:41 GMT</dateModified>
+    <ownerName>digg.com</ownerName>
+    <ownerEmail>support@digg.com</ownerEmail>
+  </head>
+  <body>
+     <outline text="All Topics" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/index.xml" htmlUrl="http://digg.com/" />
+    <outline text="All News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indexnews.xml" htmlUrl="http://digg.com/news/" />
+    <outline text="All Videos" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indexvideos.xml" htmlUrl="http://digg.com/videos/" />
+    <outline text="All Images" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indeximages.xml" htmlUrl="http://digg.com/images/" />
+
+    
+    
+    
+  
+    <outline text="All Topics" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/index.xml" htmlUrl="http://digg.com/" />
+    <outline text="All News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indexnews.xml" htmlUrl="http://digg.com/news/" />
+    <outline text="All Videos" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indexvideos.xml" htmlUrl="http://digg.com/videos/" />
+    <outline text="All Images" created="Tue, 27 Nov 2007 21:01:41 GMT" type="rss" xmlURL="http://digg.com/rss/indeximages.xml" htmlUrl="http://digg.com/images/" />
+    <outline text="Technology" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Technology Topics" type="link" xmlURL="http://digg.com/rss/containertechnology.xml" htmlUrl="http://digg.com/view/technology" />
+      <outline text="Apple" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexapple.xml" htmlUrl="http://digg.com/apple" />
+      <outline text="Design" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexdesign.xml" htmlUrl="http://digg.com/design" />
+      <outline text="Gadgets" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexgadgets.xml" htmlUrl="http://digg.com/gadgets" />
+      <outline text="Hardware" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexhardware.xml" htmlUrl="http://digg.com/hardware" />
+      <outline text="Tech Industry News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indextech_news.xml" htmlUrl="http://digg.com/tech_news" />
+      <outline text="Linux/Unix" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexlinux_unix.xml" htmlUrl="http://digg.com/linux_unix" />
+      <outline text="Microsoft" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexmicrosoft.xml" htmlUrl="http://digg.com/microsoft" />
+      <outline text="Mods" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexmods.xml" htmlUrl="http://digg.com/mods" />
+      <outline text="Programming" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexprogramming.xml" htmlUrl="http://digg.com/programming" />
+      <outline text="Security" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexsecurity.xml" htmlUrl="http://digg.com/security" />
+      <outline text="Software" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexsoftware.xml" htmlUrl="http://digg.com/software" />
+    </outline>
+    <outline text="World &amp; Business" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All World &amp; Business Topics" type="link" xmlURL="http://digg.com/rss/containerworld_business.xml" htmlUrl="http://digg.com/view/world_business" />
+      <outline text="Business &amp; Finance" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexbusiness_finance.xml" htmlUrl="http://digg.com/business_finance" />
+      <outline text="World News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexworld_news.xml" htmlUrl="http://digg.com/world_news" />
+      <outline text="Political News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexpolitics.xml" htmlUrl="http://digg.com/politics" />
+      <outline text="Political Opinion" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexpolitical_opinion.xml" htmlUrl="http://digg.com/political_opinion" />
+      <outline text="US Elections 2008" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/index2008_us_elections.xml" htmlUrl="http://digg.com/2008_us_elections" />
+    </outline>
+    <outline text="Science" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Science Topics" type="link" xmlURL="http://digg.com/rss/containerscience.xml" htmlUrl="http://digg.com/view/science" />
+      <outline text="Environment" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexenvironment.xml" htmlUrl="http://digg.com/environment" />
+      <outline text="General Sciences" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexgeneral_sciences.xml" htmlUrl="http://digg.com/general_sciences" />
+      <outline text="Space" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexspace.xml" htmlUrl="http://digg.com/space" />
+    </outline>
+    <outline text="Gaming" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Gaming Topics" type="link" xmlURL="http://digg.com/rss/containergaming.xml" htmlUrl="http://digg.com/view/gaming" />
+      <outline text="Gaming Industry News" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexgaming_news.xml" htmlUrl="http://digg.com/gaming_news" />
+      <outline text="PC Games" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexpc_games.xml" htmlUrl="http://digg.com/pc_games" />
+      <outline text="Playable Web Games" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexplayable_web_games.xml" htmlUrl="http://digg.com/playable_web_games" />
+      <outline text="Nintendo" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexnintendo.xml" htmlUrl="http://digg.com/nintendo" />
+      <outline text="PlayStation" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexplaystation.xml" htmlUrl="http://digg.com/playstation" />
+      <outline text="Xbox" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexxbox.xml" htmlUrl="http://digg.com/xbox" />
+    </outline>
+    <outline text="Lifestyle" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Lifestyle Topics" type="link" xmlURL="http://digg.com/rss/containerlifestyle.xml" htmlUrl="http://digg.com/view/lifestyle" />
+      <outline text="Arts &amp; Culture" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexarts_culture.xml" htmlUrl="http://digg.com/arts_culture" />
+      <outline text="Autos" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexautos.xml" htmlUrl="http://digg.com/autos" />
+      <outline text="Educational" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexeducational.xml" htmlUrl="http://digg.com/educational" />
+      <outline text="Food &amp; Drink" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexfood_drink.xml" htmlUrl="http://digg.com/food_drink" />
+      <outline text="Health" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexhealth.xml" htmlUrl="http://digg.com/health" />
+      <outline text="Travel &amp; Places" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indextravel_places.xml" htmlUrl="http://digg.com/travel_places" />
+    </outline>
+    <outline text="Entertainment" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Entertainment Topics" type="link" xmlURL="http://digg.com/rss/containerentertainment.xml" htmlUrl="http://digg.com/view/entertainment" />
+      <outline text="Celebrity" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexcelebrity.xml" htmlUrl="http://digg.com/celebrity" />
+      <outline text="Movies" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexmovies.xml" htmlUrl="http://digg.com/movies" />
+      <outline text="Music" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexmusic.xml" htmlUrl="http://digg.com/music" />
+      <outline text="Television" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indextelevision.xml" htmlUrl="http://digg.com/television" />
+      <outline text="Comics &amp; Animation" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexcomics_animation.xml" htmlUrl="http://digg.com/comics_animation" />
+    </outline>
+    <outline text="Sports" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Sports Topics" type="link" xmlURL="http://digg.com/rss/containersports.xml" htmlUrl="http://digg.com/view/sports" />
+      <outline text="Baseball" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexbaseball.xml" htmlUrl="http://digg.com/baseball" />
+      <outline text="Basketball" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexbasketball.xml" htmlUrl="http://digg.com/basketball" />
+      <outline text="Extreme" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexextreme_sports.xml" htmlUrl="http://digg.com/extreme_sports" />
+      <outline text="American &amp; Canadian Football" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexfootball.xml" htmlUrl="http://digg.com/football" />
+      <outline text="Golf" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexgolf.xml" htmlUrl="http://digg.com/golf" />
+      <outline text="Hockey" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexhockey.xml" htmlUrl="http://digg.com/hockey" />
+      <outline text="Motorsport" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexmotorsport.xml" htmlUrl="http://digg.com/motorsport" />
+      <outline text="Soccer" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexsoccer.xml" htmlUrl="http://digg.com/soccer" />
+      <outline text="Tennis" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indextennis.xml" htmlUrl="http://digg.com/tennis" />
+      <outline text="Other Sports" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexother_sports.xml" htmlUrl="http://digg.com/other_sports" />
+    </outline>
+    <outline text="Offbeat" created="Tue, 27 Nov 2007 21:01:41 GMT">
+      <outline text="All Offbeat Topics" type="link" xmlURL="http://digg.com/rss/containeroffbeat.xml" htmlUrl="http://digg.com/view/offbeat" />
+      <outline text="Comedy" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexcomedy.xml" htmlUrl="http://digg.com/comedy" />
+      <outline text="Odd Stuff" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexodd_stuff.xml" htmlUrl="http://digg.com/odd_stuff" />
+      <outline text="People" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexpeople.xml" htmlUrl="http://digg.com/people" />
+      <outline text="Pets &amp; Animals" created="Tue, 27 Nov 2007 21:01:41 GMT" type="link" xmlURL="http://digg.com/rss/indexpets_animals.xml" htmlUrl="http://digg.com/pets_animals" />
+    </outline>
+  </body>
+</opml>

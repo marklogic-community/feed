@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2006, OSTG - Open Source Technology Group, Inc.  All Rights Reserved.</dc:rights>
+<dc:date>2007-06-27T00:40:40+00:00</dc:date>
+<dc:publisher>OSTG</dc:publisher>
+
+<dc:creator>pater@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yro.slashdot.org/article.pl?sid=07/06/26/2036211&amp;from=rss" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/article.pl?sid=07/06/26/2112208&amp;from=rss" />
+
+  <rdf:li rdf:resource="http://it.slashdot.org/article.pl?sid=07/06/26/2058250&amp;from=rss" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/article.pl?sid=07/06/26/1944228&amp;from=rss" />
+  <rdf:li rdf:resource="http://science.slashdot.org/article.pl?sid=07/06/26/1917259&amp;from=rss" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/article.pl?sid=07/06/26/1855202&amp;from=rss" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/06/26/1748235&amp;from=rss" />
+  <rdf:li rdf:resource="http://books.slashdot.org/article.pl?sid=07/06/26/0239237&amp;from=rss" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/06/26/1517208&amp;from=rss" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/article.pl?sid=07/06/26/159232&amp;from=rss" />
+  <rdf:li rdf:resource="http://slashdot.org/article.pl?sid=07/06/26/155214&amp;from=rss" />
+
+  <rdf:li rdf:resource="http://games.slashdot.org/article.pl?sid=07/06/26/1413239&amp;from=rss" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/06/26/1330208&amp;from=rss" />
+  <rdf:li rdf:resource="http://apple.slashdot.org/article.pl?sid=07/06/26/1255222&amp;from=rss" />
+  <rdf:li rdf:resource="http://linux.slashdot.org/article.pl?sid=07/06/26/1225220&amp;from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://images.slashdot.org/topics/topicslashdot.png" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+</channel>
+
+<image rdf:about="http://images.slashdot.org/topics/topicslashdot.png">
+<title>Slashdot</title>
+
+<url>http://images.slashdot.org/topics/topicslashdot.png</url>
+<link>http://slashdot.org/</link>
+</image>
+
+<item rdf:about="http://yro.slashdot.org/article.pl?sid=07/06/26/2036211&amp;from=rss">
+<title>University of Washington Will Aid RIAA</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128218980/article.pl</link>
+<description>Several readers let us know that the University of Washington has announced that it will pass on RIAA settlement offer letters to students identified, presumably by IP address, as suspected file sharers. "The notices say offending students have 20 days to settle with the association by paying it about $3,000 to $5,000 or be taken to court without possibility of a settlement." The Vice Provost for Student Life sent an email to all students saying, "The University has been notified by the RIAA that we will be receiving a number of these early settlement letters. After careful consideration, we have decided to forward the letters to the alleged copyright violators."&lt;p&gt;&lt;a href="http://yro.slashdot.org/article.pl?sid=07/06/26/2036211&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=l2q5VM"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=l2q5VM" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128218980" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-27T00:15:00+00:00</dc:date>
+<dc:subject>music</dc:subject>
+<slash:department>in-loco-prosecutor</slash:department>
+<slash:section>yro</slash:section>
+
+<slash:comments>21</slash:comments>
+<slash:hit_parade>21,18,12,10,2,2,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/06/26/2036211&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://politics.slashdot.org/article.pl?sid=07/06/26/2112208&amp;from=rss">
+<title>NY Legislature Rejects "Microsoft Amendment"</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128200880/article.pl</link>
+<description>An anonymous reader writes "Finally, some good news on electronic voting. The New York state legislature rejected an amendment proposed by Microsoft's lobbyists which would have gutted New York's requirements for voting machine vendors to turn over their source code to the state Board of Elections. Assemblywoman Barbara Lifton commented: 'The voting machine vendors have known for two years what our laws said. Now they're saying that those parts of their systems using Microsoft software have to be proprietary? It's just wrong.'"&lt;p&gt;&lt;a href="http://politics.slashdot.org/article.pl?sid=07/06/26/2112208&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=SZCyg9"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=SZCyg9" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128200880" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T21:50:00+00:00</dc:date>
+<dc:subject>slashback</dc:subject>
+<slash:department>joy-in-mudville</slash:department>
+<slash:section>politics</slash:section>
+
+<slash:comments>113</slash:comments>
+<slash:hit_parade>113,108,91,71,21,11,4</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/article.pl?sid=07/06/26/2112208&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://it.slashdot.org/article.pl?sid=07/06/26/2058250&amp;from=rss">
+<title>Google Setting Up a Presence In Kenya</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128200881/article.pl</link>
+<description>Reader wana forwards the news that Google is establishing a base in Sub-Saharan Africa. What advanced infrastructure exists on the African continent is mostly in South Africa, and a blogger from there speculates on what Google might have been thinking in choosing Kenya over SA.&lt;p&gt;&lt;a href="http://it.slashdot.org/article.pl?sid=07/06/26/2058250&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=B3pdoY"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=B3pdoY" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128200881" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T21:25:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>out-of-the-comfort-zone</slash:department>
+<slash:section>it</slash:section>
+
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,65,51,39,11,8,5</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/article.pl?sid=07/06/26/2058250&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://yro.slashdot.org/article.pl?sid=07/06/26/1944228&amp;from=rss">
+<title>US Expands Airport Biometric Data Collection</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128200882/article.pl</link>
+<description>athloi sends word of an expansion of the US-VISIT program that now requires two fingerprints from foreign visitors arriving at scores of airports. Beginning later this year the US will be testing a system that collects 10 digital fingerprints, at 10 major points of entry. A US Homeland Security director assured EU officials that the program would operate under strict privacy rules. But he noted that the FBI and CIA will have access to the biometric data, which over time may expand beyond fingerprints.&lt;p&gt;&lt;a href="http://yro.slashdot.org/article.pl?sid=07/06/26/1944228&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=m92AAn"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=m92AAn" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128200882" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T20:43:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>wear-gloves</slash:department>
+<slash:section>yro</slash:section>
+
+<slash:comments>127</slash:comments>
+<slash:hit_parade>127,126,94,74,28,18,9</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/06/26/1944228&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://science.slashdot.org/article.pl?sid=07/06/26/1917259&amp;from=rss">
+<title>Tunguska Impact Crater Found?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128164530/article.pl</link>
+<description>BigBadBus writes in with a claim by an Italian team that they may have found an impact crater resulting from the 1908 Tunguska explosion over Siberia. The BBC story quotes a number of impact experts who doubt the Italians' claim. "A University of Bologna team says a lake near the epicenter of the blast may be occupying a crater hollowed out by a chunk of rock that hit the ground. Lake Cheko &amp;mdash; though shallow &amp;mdash; fits the proportions of a small, bowl-shaped impact crater, say the Italy-based scientists. Their investigation of the lake bottom's geology reveals a funnel-like shape not seen in neighboring lakes. In addition, a geophysics survey of the lake bed has turned up an unusual feature about 10m down which could either be compacted lake sediments or a buried fragment of space rock."&lt;p&gt;&lt;a href="http://science.slashdot.org/article.pl?sid=07/06/26/1917259&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=KwHm4s"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=KwHm4s" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128164530" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T19:58:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>things-that-go-boom-then-splash</slash:department>
+<slash:section>science</slash:section>
+
+<slash:comments>151</slash:comments>
+<slash:hit_parade>151,148,121,100,32,16,6</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/06/26/1917259&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://yro.slashdot.org/article.pl?sid=07/06/26/1855202&amp;from=rss">
+<title>Day of Silence On the Internet</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128157309/article.pl</link>
+<description>A number of readers sent in stories about Net radio going dark for a day. Not all of it, but according to the Globe and Mail at least 45 stations representing thousands of channels. The stations are protesting a ruling establishing royalty rates that will put most of them out of business on July 15. "The ruling... is expected to cost large webcasters such as Yahoo and Real Networks millions of dollars, drive smaller websites like Pandora.com and Live365.com out of business and leave a large chunk of the 72 million Net radio listeners in the dark." SaveNetRadio has a page where US residents can locate their senators and representatives to call them today.&lt;p&gt;&lt;a href="http://yro.slashdot.org/article.pl?sid=07/06/26/1855202&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=ndEhLe"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=ndEhLe" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128157309" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T19:14:00+00:00</dc:date>
+<dc:subject>music</dc:subject>
+<slash:department>silence-speaks-louder-than-tracks</slash:department>
+<slash:section>yro</slash:section>
+
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,215,167,121,37,27,11</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/06/26/1855202&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/06/26/1748235&amp;from=rss">
+<title>Wireless Networks Causing Headaches For Businesses</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128143394/article.pl</link>
+<description>ElvaWSJ writes "Wi-Fi was supposed to reduce complications, not create new ones. But in many offices Wi-Fi has been a headache. Like all radio signals, Wi-Fi is subject to interference. Its low power &amp;mdash; less than even a typical cellphone &amp;mdash; means that walls and cabinets can significantly reduce signal strength. Wi-Fi also creates networks that are more open than wired ones, raising security issues. And Wi-Fi has caused problems for virtual private networks. Some VPNs require a lot of processing power. If a wireless access point &amp;mdash; at home, at the office, or on the road &amp;mdash; isn't robust enough, a user often gets bumped off the connection."&lt;p&gt;&lt;a href="http://hardware.slashdot.org/article.pl?sid=07/06/26/1748235&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=FkAqzC"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=FkAqzC" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128143394" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2007-06-26T18:27:00+00:00</dc:date>
+<dc:subject>wireless</dc:subject>
+<slash:department>help-desks-needing-help</slash:department>
+<slash:section>hardware</slash:section>
+
+<slash:comments>140</slash:comments>
+<slash:hit_parade>140,138,112,71,25,10,4</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/article.pl?sid=07/06/26/1748235&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://books.slashdot.org/article.pl?sid=07/06/26/0239237&amp;from=rss">
+<title>Legend of the Syndicate</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128143395/article.pl</link>
+<description>In the world of Massively Multiplayer Online Games, guilds live and die like generations of fruit flies. In the time it takes you to read this review, another group of friends will probably have decided to go their separate ways. Due to what is commonly referred to as 'drama', and the nature of the currently most popular online game, the modern MMOG guild tends to be a short-lived affair. A book published about a single guild, then, has to be discussing a singular organization. And indeed, The Syndicate has lasted for over a decade. Well known in both Ultima Online and EverQuest, and going strong into the days of World of Warcraft, they've had numerous public successes and some notorious failures. Their tale is a strange, and utterly personal view of the history of Massive games. It's also highly self-aggrandizing and probably contentious, but that's to be expected. Legend of the Syndicate is a publication worth reading by anyone interested in the history of the Massive genre, or the future of social networks online.&lt;p&gt;&lt;a href="http://books.slashdot.org/article.pl?sid=07/06/26/0239237&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=Sfr4wD"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=Sfr4wD" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128143395" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T17:46:00+00:00</dc:date>
+<dc:subject>rpg</dc:subject>
+<slash:department>guild-is-life-guild-is-death</slash:department>
+<slash:section>books</slash:section>
+
+<slash:comments>103</slash:comments>
+<slash:hit_parade>103,103,74,53,13,9,5</slash:hit_parade>
+<feedburner:origLink>http://books.slashdot.org/article.pl?sid=07/06/26/0239237&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/06/26/1517208&amp;from=rss">
+<title>IBM's Blue Gene Runs Continuously At 1 Petaflop</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128124283/article.pl</link>
+<description>An anonymous reader writes "ZDNet is reporting on IBM's claim that the Blue Gene/P will continuously operate at more than 1 petaflop. It is actually capable of 3 quadrillion operations a second, or 3 petaflops. IBM claims that at 1 petaflop, Blue Gene/P is performing more operations than a 1.5-mile-high stack of laptops! 'Like the vast majority of other modern supercomputers, Blue Gene/P is composed of several racks of servers lashed together in clusters for large computing tasks, such as running programs that can graphically simulate worldwide weather patterns. Technologies designed for these computers trickle down into the mainstream while conventional technologies and components are used to cut the costs of building these systems. The chip inside Blue Gene/P consists of four PowerPC 450 cores running at 850MHz each. A 2x2 foot circuit board containing 32 of the Blue Gene/P chips can churn out 435 billion operations a second. Thirty two of these boards can be stuffed into a 6-foot-high rack.'"&lt;p&gt;&lt;a href="http://hardware.slashdot.org/article.pl?sid=07/06/26/1517208&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=HUIILJ"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=HUIILJ" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128124283" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T17:02:00+00:00</dc:date>
+<dc:subject>supercomputing</dc:subject>
+<slash:department>all-i-can-think-is-the-games-you-could-play</slash:department>
+<slash:section>hardware</slash:section>
+
+<slash:comments>190</slash:comments>
+<slash:hit_parade>190,183,153,105,35,23,10</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/article.pl?sid=07/06/26/1517208&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://politics.slashdot.org/article.pl?sid=07/06/26/159232&amp;from=rss">
+<title>Wikipedia Gets State Funding in Germany</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128124284/article.pl</link>
+<description>tmk writes "How can Wikipedia be improved? The German government started a project today to train experts to contribute to Wikipedia. The goal is to write or improve several hundred articles about renewable resources in the Internet encyclopedia. The project is funded by the German Ministry of Nutrition, Agriculture, and Consumer Protection. The German chapter of the Wikimedia Foundation is hiring a Wikipedian to coordinate the efforts. 'The challenge will be to motivate experts who have done good work in other projects to get involved in the community lexicon. As project director Florian Gerlach told heise online, "Such expert reports are usually written, edited, and published in the normal newspapers or even on other websites. But Wikipedia is radically different: articles there continually grow with input from numerous authors, who often remain anonymous. The end product is constantly changing, and third parties can publish their own texts or even change yours." The future authors will therefore receive some training to help them work with Wikipedia.'"&lt;p&gt;&lt;a href="http://politics.slashdot.org/article.pl?sid=07/06/26/159232&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=3r4aDR"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=3r4aDR" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128124284" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T16:22:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>we-could-use-some-state-support-too</slash:department>
+<slash:section>politics</slash:section>
+
+<slash:comments>118</slash:comments>
+<slash:hit_parade>118,111,86,66,15,10,6</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/article.pl?sid=07/06/26/159232&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://slashdot.org/article.pl?sid=07/06/26/155214&amp;from=rss">
+<title>BBC Chooses Microsoft DRM Platform</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128106199/article.pl</link>
+<description>bazorg writes "The BBC has chosen Microsoft's DRM technology to limit the viewing of content downloaded from their website. These downloads would allow viewers to catch up on shows that were broadcast on the previous 7 days; they would be compatible only with Windows Media Player and a new product called 'iPlayer'. This iPlayer is not yet available for platforms other than MS Windows, which caused the Open Source Consortium (OSC) to file a complaint to national and EU authorities. 'The BBC aims to make its content as widely available as possible and has always taken a platform agnostic approach to its internet services. It is not possible to put an exact timeframe on when BBC iPlayer will be available for Mac users. However, we are working to ensure this happens as soon as possible and the BBC Trust will be monitoring progress on a six monthly basis.'"&lt;p&gt;&lt;a href="http://slashdot.org/article.pl?sid=07/06/26/155214&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=eoBXuU"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=eoBXuU" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128106199" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T15:41:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>unpopular-with-the-penguins</slash:department>
+<slash:section>mainpage</slash:section>
+
+<slash:comments>306</slash:comments>
+<slash:hit_parade>306,305,253,175,42,24,17</slash:hit_parade>
+<feedburner:origLink>http://slashdot.org/article.pl?sid=07/06/26/155214&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://games.slashdot.org/article.pl?sid=07/06/26/1413239&amp;from=rss">
+<title>Vista Games Cracked to Run on XP</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128098658/article.pl</link>
+<description>Next Generation is reporting that Vista PC games have been cracked to run under XP. Hacking groups who apparently wanted to play new titles like Shadowrun and Halo 2 with driver support have taken it upon themselves to open up the playing field a bit. "The news is sure to irk Microsoft who may now face an increased delay in some consumers adopting Vista at this early stage. However, it shouldn't come as a surprise. Earlier this month Falling Leaf Systems said in a press release that it believed Microsoft was deceiving consumers by stating that the titles would only work on Vista, and announced its intentions to release compatibility software to disprove the claim. 'Microsoft has, in typical Microsoft fashion, decided to launch their forced migration onslaught in full force with the release of two games that will only run on Windows Vista,' said Falling Leaf Systems CEO Brian Thomason in the press release." Relatedly, Mitch Gitelman of the (now closed) FASA Studios has taken exception to negative reviews of Shadowrun.&lt;p&gt;&lt;a href="http://games.slashdot.org/article.pl?sid=07/06/26/1413239&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=WmVkSc"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=WmVkSc" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128098658" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T15:04:00+00:00</dc:date>
+<dc:subject>pcgames</dc:subject>
+<slash:department>now-they-have-a-market</slash:department>
+<slash:section>games</slash:section>
+
+<slash:comments>319</slash:comments>
+<slash:hit_parade>319,313,254,181,59,37,26</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/article.pl?sid=07/06/26/1413239&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/06/26/1330208&amp;from=rss">
+<title>Apple and AT&amp;amp;T Announce iPhone Service Plans</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128086113/article.pl</link>
+<description>daveschroeder writes "Apple and AT&amp;amp;T today announced service plans for iPhone, 4 days before its release in the US at 6pm local time on Friday, June 29. The plans are $59.99/mo for 450 minutes, $79.99 for 900 minutes, and $99.99 for 1350 minutes, and all include unlimited data, 200 SMS messages, rollover minutes, and unlimited mobile-to-mobile calling. Any other standard AT&amp;amp;T service plan may also be used. A two year service plan is required, with a $175 cancellation fee if terminated early. In addition, activations are done via iTunes, so only the hardware is purchased in the store. Interestingly, activation of a contract via iTunes is required to enable the iPod/syncing functionality of the phone as well. (It will remain to be seen whether there are workarounds for this for those who only want the iPod functionality of iPhone, and whether the iPhone is easily unlockable for those who wish to try it on alternate carriers, and so on.)"&lt;p&gt;&lt;a href="http://hardware.slashdot.org/article.pl?sid=07/06/26/1330208&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=1G7cpB"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=1G7cpB" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128086113" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T14:24:00+00:00</dc:date>
+<dc:subject>media</dc:subject>
+<slash:department>they're-going-to-zing-you</slash:department>
+<slash:section>hardware</slash:section>
+
+<slash:comments>482</slash:comments>
+<slash:hit_parade>482,472,387,283,73,44,23</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/article.pl?sid=07/06/26/1330208&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://apple.slashdot.org/article.pl?sid=07/06/26/1255222&amp;from=rss">
+<title>Microsoft's Virtualization Stance Eying Apple?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128086114/article.pl</link>
+<description>Pisces writes "Over the past several days, Microsoft has flip-flopped on virtualization in Vista, with one ascribing the change in policy to concerns over DRM. A piece at Ars Technica raises another, more likely possibility: fear of Apple. Apple is technically an OEM, and could offer copies of Vista at a discounted price. 'All of this paints a picture in which Apple could use OEM pricing to offer Windows for its Macs at greatly reduced prices and running in a VM. The latter is absolutely crucial; telling users that they need to reboot into their Windows OS isn't nearly as sexy as, say, Coherence in Parallels. If you've never seen Coherence, it's quite amazing. You don't need to run Windows apps in a VM window of Vista. Instead, the apps appear to run in OS X itself, and the environment is (mostly) hidden away. VMWare also has similar technology, dubbed Unity.' Is Microsoft terrified of a world where Windows can be virtualized and forced to take a back seat to Mac OS X or Linux?"&lt;p&gt;&lt;a href="http://apple.slashdot.org/article.pl?sid=07/06/26/1255222&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=7YHzxz"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=7YHzxz" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128086114" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T13:41:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>shifty-glances</slash:department>
+<slash:section>apple</slash:section>
+
+<slash:comments>215</slash:comments>
+<slash:hit_parade>215,214,194,149,34,12,6</slash:hit_parade>
+<feedburner:origLink>http://apple.slashdot.org/article.pl?sid=07/06/26/1255222&amp;from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://linux.slashdot.org/article.pl?sid=07/06/26/1225220&amp;from=rss">
+<title>OpenSuSE to Release Linux Distro for Educators</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/128062277/article.pl</link>
+<description>christian.einfeldt writes "The next version of openSUSE, due out in the fall, will include an add-on CD optimized for educators. According to the Education section of the openSUSE wiki, the openSUSE community sees the add-on as a way to make it easy for school administrators to create both networked systems and stand-alone desktops for teachers and students. To tailor the add-on CD to the needs of educators, the openSUSE community is asking educators and technologists to submit their software successes, applications used, and 'HOW-TOs' for writing applications and using applications. Dubbed the SLEDucator, the package collection is being included as an add-on, as opposed to a new distro or a fork."&lt;p&gt;&lt;a href="http://linux.slashdot.org/article.pl?sid=07/06/26/1225220&amp;from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot?a=RFGiB1"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot?i=RFGiB1" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/~4/128062277" height="1" width="1"/&gt;</description>
+<dc:creator>Zonk</dc:creator>
+<dc:date>2007-06-26T13:00:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>not-the-best-conglomerate-word-ever</slash:department>
+<slash:section>linux</slash:section>
+
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,42,39,37,14,7,4</slash:hit_parade>
+<feedburner:origLink>http://linux.slashdot.org/article.pl?sid=07/06/26/1225220&amp;from=rss</feedburner:origLink></item>
+
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+
+</textinput>
+
+</rdf:RDF>

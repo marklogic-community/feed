@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<head>
+    <title>Bloglines Subscriptions</title>
+    <dateCreated>Thu, 13 Dec 2007 00:59:38 GMT</dateCreated>
+    <ownerName>nptech</ownerName>
+<body>
+  <outline text="Advocacy" >
+       <outline title="Audio Activism" text="Audio Activism" htmlUrl="http://www.audioactivism.org" type="rss" xmlUrl="http://www.audioactivism.org/index.rdf" />
+       <outline title="Green Media Toolshed Blog" text="Green Media Toolshed Blog" htmlUrl="http://greenmediatoolshed.blogs.com/gmt/" type="rss" xmlUrl="http://greenmediatoolshed.blogs.com/gmt/atom.xml" />
+
+       <outline title="Network-Centric Advocacy" text="Network-Centric Advocacy" htmlUrl="http://www.network-centricadvocacy.net/" type="rss" xmlUrl="http://www.network-centricadvocacy.net/index.rdf" />
+    </outline>
+  <outline text="Communications" >
+       <outline title="Common Craft - Social Design for the Web" text="Common Craft - Social Design for the Web" htmlUrl="http://www.commoncraft.com/" type="rss" xmlUrl="http://feeds.feedburner.com/commoncraft?q=index.rdf" />
+       <outline title="Full Circle  Online Interaction  Blog" text="Full Circle  Online Interaction  Blog" htmlUrl="http://www.fullcirc.com/weblog/onfacblog.htm" type="rss" xmlUrl="http://www.fullcirc.com/weblog/feed/atom.xml" />
+    </outline>
+  <outline text="Fundraising" >
+       <outline title="Betsy's Blog" text="Betsy's Blog" htmlUrl="http://betsysblog.blogspot.com/" type="rss" xmlUrl="http://betsysblog.blogspot.com/atom.xml" />
+       <outline title="Gift Hub" text="Gift Hub" htmlUrl="http://www.gifthub.org/" type="rss" xmlUrl="http://www.gifthub.org/atom.xml" />
+       <outline title="SupportingAdvancement" text="SupportingAdvancement" htmlUrl="http://supportingadvancement.blogspot.com/" type="rss" xmlUrl="http://supportingadvancement.blogspot.com/atom.xml" />
+    </outline>
+  <outline text="general - to be sorted/deleted" >
+       <outline title="BloggerCorps - Connecting Bloggers and Activists" text="BloggerCorps - Connecting Bloggers and Activists" htmlUrl="http://www.bloggercorps.org/" type="rss" xmlUrl="http://www.bloggercorps.org/index.rdf" />
+    </outline>
+  <outline text="Internet/Web" >
+    </outline>
+  <outline text="Management/Strategy" >
+       <outline title="About Nonprofit Charitable Orgs" text="About Nonprofit Charitable Orgs" htmlUrl="http://nonprofit.about.com/" type="rss" xmlUrl="http://z.about.com/6/g/nonprofit/b/index.xml" />
+       <outline title="Andy Carvin's Waste of Bandwidth" text="Andy Carvin's Waste of Bandwidth" htmlUrl="http://www.andycarvin.com/" type="rss" xmlUrl="http://edwebproject.org/andy/blog/index.rdf" />
+       <outline title="The BeneBlog" text="The BeneBlog" htmlUrl="http://www.benetech.org/beneblog.txt" type="rss" xmlUrl="http://www.benetech.org/beneblog_atom.xml" />
+       <outline title="Blogs For .Orgs" text="Blogs For .Orgs" htmlUrl="http://www.blogsfororgs.org/" type="rss" xmlUrl="http://markc1.typepad.com/blogs4orgs/atom.xml" />
+       <outline title="Mission-Based Management" text="Mission-Based Management" htmlUrl="http://missionbased.blogspot.com/" type="rss" xmlUrl="http://missionbased.blogspot.com/atom.xml" />
+       <outline title="Nonprofit Online News" text="Nonprofit Online News" htmlUrl="http://news.gilbert.org/" type="rss" xmlUrl="http://news.gilbert.org/xml/rss.xml" />
+       <outline title="Nonprofit Stuff" text="Nonprofit Stuff" htmlUrl="http://nonprofitstuff.blogspot.com/" type="rss" xmlUrl="http://nonprofitstuff.blogspot.com/atom.xml" />
+    </outline>
+  <outline text="Subsector Specific" >
+       <outline title="The Artful Manager" text="The Artful Manager" htmlUrl="http://www.artsjournal.com/artfulmanager/" type="rss" xmlUrl="http://www.artsjournal.com/artfulmanager/feed.xml" />
+       <outline title="Doug Varone &amp; Dancers: &lt;i&gt;Deconstructing English&lt;/i&gt;" text="Doug Varone &amp; Dancers: &lt;i&gt;Deconstructing English&lt;/i&gt;" htmlUrl="http://claricesmithcenter.blogspot.com/" type="rss" xmlUrl="http://claricesmithcenter.blogspot.com/atom.xml" />
+       <outline title="Extension 311 - Tech for Arts Orgs" text="Extension 311 - Tech for Arts Orgs" htmlUrl="http://ext311.blogspot.com/" type="rss" xmlUrl="http://ext311.blogspot.com/atom.xml" />
+       <outline title="Oceana Network" text="Oceana Network" htmlUrl="http://community.oceana.org" type="rss" xmlUrl="http://community.oceana.org/index.xml" />
+       <outline title="On The Commons Blogs" text="On The Commons Blogs" htmlUrl="http://onthecommons.org/rss.xml" type="rss" xmlUrl="http://onthecommons.org/rss.xml" />
+       <outline title="Straight Up" text="Straight Up" htmlUrl="http://www.artsjournal.com/herman/" type="rss" xmlUrl="http://www.artsjournal.com/herman/rss.xml" />
+       <outline title="Urban Onramps" text="Urban Onramps" htmlUrl="http://urbanonramps.blogspot.com/" type="rss" xmlUrl="http://urbanonramps.blogspot.com/rss/urbanonramps.xml" />
+    </outline>
+  <outline text="Technology" >
+       <outline title="Aspiration Tech - Better Tools for a Better World" text="Aspiration Tech - Better Tools for a Better World" htmlUrl="http://www.aspirationtech.org" type="rss" xmlUrl="http://www.aspirationtech.org/rss.xml" />
+       <outline title="Beth's Blog:  How Nonprofits Can Use Social Media" text="Beth's Blog:  How Nonprofits Can Use Social Media" htmlUrl="http://beth.typepad.com/beths_blog/" type="rss" xmlUrl="http://beth.typepad.com/beths_blog/atom.xml" />
+       <outline title="Community Knowledge Works" text="Community Knowledge Works" htmlUrl="http://cknowledgeworks.com/blog/" type="rss" xmlUrl="http://cknowledgeworks.com/blog/rss.aspx" />
+       <outline title="ConsultantCommons.org - Sharing Tools for Nonprofit Technology S" text="ConsultantCommons.org - Sharing Tools for Nonprofit Technology S" htmlUrl="http://www.consultantcommons.org" type="rss" xmlUrl="http://www.consultantcommons.org/node/feed" />
+       <outline title="Deborah Elizabeth Finn" text="Deborah Elizabeth Finn" htmlUrl="http://blog.deborah.elizabeth.finn.com/blog" type="rss" xmlUrl="http://blog.deborah.elizabeth.finn.com/blog/index.xml" />
+       <outline title="Ed Batista" text="Ed Batista" htmlUrl="http://www.edbatista.com/" type="rss" xmlUrl="http://www.edbatista.com/index.rdf" />
+       <outline title="ext337" text="ext337" htmlUrl="http://ext337.org/" type="rss" xmlUrl="http://ext337.org/?rss=1" />
+       <outline title="Extension 437" text="Extension 437" htmlUrl="http://fishwise.typepad.com/cm/" type="rss" xmlUrl="http://fishwise.typepad.com/cm/index.rdf" />
+       <outline title="Jon Stahl's Journal" text="Jon Stahl's Journal" htmlUrl="http://blogs.onenw.org/jon" type="rss" xmlUrl="http://blogs.onenw.org/jon/wp-rss2.php" />
+       <outline title="Today in TechSoup" text="Today in TechSoup" htmlUrl="http://www.techsoup.org/" type="rss" xmlUrl="http://feeds.techsoup.org/TechSoup-Today" />
+       <outline title="Vermont Nonprofit CommunIT" text="Vermont Nonprofit CommunIT" htmlUrl="http://cvnp.typepad.com/blog/" type="rss" xmlUrl="http://cvnp.typepad.com/blog/atom.xml" />
+    </outline>
+</body>
+</opml>

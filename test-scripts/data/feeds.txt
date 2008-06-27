@@ -1,0 +1,10 @@
+http://feeds.feedburner.com/AndrewChensBlog
+http://feeds.feedburner.com/redeyevc
+http://feeds.feedburner.com/engadget								(rss 2.0) (favicon = shortcut icon)
+http://feeds.feedburner.com/TechCrunch
+http://feeds.feedburner.com/typepad/ripster/earlystagevc
+http://feeds.feedburner.com/readwriteweb
+http://feeds.feedburner.com/marklogic								(atom)
+http://feeds.feedburner.com/Bitesizetech
+http://rss.slashdot.org/Slashdot/slashdot  							(rdf - rss 1.0)
+http://www.nytimes.com/services/xml/rss/nyt/Business.xml			(favicon = requires trimming link to domain)

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2full.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+   <channel>
+      <title>Read/WriteWeb</title>
+      <link>http://www.readwriteweb.com/</link>
+      <description>Web Technology news, reviews and analysis</description>
+      <language>en</language>
+      <copyright>Copyright 2007 Richard MacManus</copyright>
+
+      <managingEditor>readwriteweb@gmail.com</managingEditor>
+      <lastBuildDate>Thu, 29 Nov 2007 21:11:22 -0800</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/?v=4.01</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+      
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://www.readwriteweb.com/rss.xml" type="application/rss+xml" /><feedburner:emailServiceId>15887</feedburner:emailServiceId><feedburner:feedburnerHostname>http://www.feedburner.com</feedburner:feedburnerHostname><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site. The content of this feed is copyright Richard MacManus.</feedburner:browserFriendly><item>
+         <title>Google Reader's New Recommendations Exciting, but Insufficient</title>
+
+		<description>&lt;p&gt;&lt;img src="http://www.readwriteweb.com/googrnolabs.jpg" align="left" hspace="5px" vspace="5px"&gt;The &lt;a href="http://google.com/reader"&gt;Google Reader&lt;/a&gt; team &lt;a href="http://googlereader.blogspot.com/2007/11/attack-of-interns-recommendations-and.html"&gt;announced tonight&lt;/a&gt; that the wildly popular online feed reader now recommends additional feeds to users based on our subscription lists, web browsing history and "more." &lt;/p&gt;&lt;p&gt; It's a very big day for one reason - simple recommendation is the low hanging fruit of data mining.  May &lt;a href="http://www.techcrunch.com/2007/11/29/google-reader-gets-recommendations-drag-and-drop/"&gt;knowledge workers rejoice&lt;/a&gt;.  I love information, I love discovering new high-value sources and &lt;em&gt;the signal-to-noise ratio in a good recommendation engine can be a real competitive advantage&lt;/em&gt; over those who don't have access to one.  I want to see the era of data get started and I want to see it get started right.
+
+&lt;/p&gt;&lt;img src="http://www.readwriteweb.com/images/greadrec.jpg" align="right" hspace="5px" vspace="5px"&gt;&lt;h2&gt;I Thought You Were Going to Recommend Me Some Feeds&lt;/h2&gt;&lt;p&gt;
+That said, I'm not feeling the love here.  First, Google Reader seems stuck at 20 recommendations.  It's got 1565 of my RSS subscriptions, thousands of Gmail messages (32k unread ones, in fact), several Google Custom Search Egnines, my GCal life history, search history and more I'm sure - all tied to my Google Account and &lt;strong&gt;all it can give me is 20 new sources?&lt;/strong&gt;  I've asked others and they aren't seeing any more.  20 looks like the limit and that's just silly.  There is a world of recommended feeds that Google could suggest based on what it knows about me and what do I get?  20 feeds?  (And how many of us just got told we should subscribe to Ross Mayfield's blog? It's your lucky day, Ross, I think a lot of us did.)
+&lt;/p&gt;&lt;p&gt;
+How about some other Google Readers whose shared items might be of interest to me?  How about some cool custom search engines I might like, or iGoogle widgets or public Google calendars that might suit my interests?
+
+&lt;/p&gt;&lt;h2&gt;I Thought We Were Openly Social&lt;/h2&gt;&lt;p&gt;
+How about some standards-based profiling, using what's emerging as the leading standard - &lt;a href="http://apml.org"&gt;APML&lt;/a&gt; - so I can be treated with the respect I deserve after all the use of Google services I've engaged in, instead of being expected to wonder at the marvelous black box that gave me 20 recommendations and no access to my own aggregate data that those recommendations were derived from?  How about some of that, Google - that's what &lt;a href="http://newsgator.com"&gt;Newsgator&lt;/a&gt; and &lt;a href="http://bloglines.com"&gt;Bloglines&lt;/a&gt; are both moving towards.  Everyone from  OAuth to OpenID likes to say they smelled a fart about Google considering support for their protocol, but here the product has come to market and where's the communication about our Social reading being Open?  I'm not seeing it.
+
+&lt;/p&gt;
+
+&lt;h2&gt;Are You Sure You'd Recommend Adding More Feeds?&lt;/h2&gt;&lt;p&gt;
+Those competitors, especially the Newsgator desktop feed readers, can also handle my 1500+ feeds without crying like a baby.  Google Reader gets hung up so often that I wouldn't use it at all if it weren't for its having the best mobile interface available.  Time and again tonight, in response to my public complaints through other channels, I'm hearing people tell me that products like Newsgator's and &lt;a href="http://attensa.com"&gt;Attensa&lt;/a&gt;, desktop apps, are the way to go for heavy feed lifting.  I read my most important hundred feeds through &lt;a href="http://netvibes.com"&gt;other&lt;/a&gt; &lt;a href="http://zaptxt.com"&gt;means&lt;/a&gt; - I need something sturdy for reading everything I'm subscribed to.
+
+&lt;/p&gt;&lt;h2&gt;These Are Great Problems to Solve&lt;/h2&gt;&lt;p&gt;
+I want a great recommendation engine, in fact I want one on every platform I bring data to. Two years ago I used &lt;a href="http://furl.net"&gt;Furl.net&lt;/a&gt; for my social bookmarking and it told me, "based on what you've bookmarked, we would recommend you check out the following other Furl users with similar archives..."  It recommended people like &lt;a href="http://libraryclips.blogsome.com/"&gt;John Tropea&lt;/a&gt;, &lt;a href="http://contentious.com/"&gt;Amy Gahran&lt;/a&gt;, &lt;a href="ttp://www.furl.net/members/fichter "&gt;Darlene Fichter&lt;/a&gt; and more.  Those are librarians and other super-nerds that I still subscribe to today. In a sea of 1500+ RSS feeds they bring me pure gold.
+
+&lt;/p&gt;&lt;p&gt;
+Whether you're someone concerned about information overload or, like me, you just want more streams of pure gold coming into your inbox - recommendation engines are going to be big in the fast-approaching future.  They don't account for our need to expand our tastes, but they do have huge potential in making our process of discovering more content and sources that we already like - and what's just a touch different - far more powerful.
+&lt;/p&gt;&lt;p&gt;
+This Google Reader announcement is an awful tease, though, and without data portability, improved quality of service and real Social Openness, we're going to get...&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=9tgkzt"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=9tgkzt" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=9rxoLuB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=9rxoLuB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=M0eecsB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=M0eecsB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=PKTsWLb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=PKTsWLb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=3En4gcb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=3En4gcb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=Bbwi70b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=Bbwi70b" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192794669" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192794669/google_readers_recommendations.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/google_readers_recommendations.php</guid>
+         <category />
+         <pubDate>Thu, 29 Nov 2007 21:11:22 -0800</pubDate>
+<author>Marshall Kirkpatrick</author>
+      <feedburner:origLink>http://www.readwriteweb.com/archives/google_readers_recommendations.php</feedburner:origLink></item>
+
+      
+      <item>
+         <title>The Economics of Blogging for Attention</title>
+		<description>&lt;p&gt;&lt;font style="float: right"&gt;&lt;script type="text/javascript"&gt;
+digg_url = 'http://digg.com/tech_news/The_Economics_of_Blogging_for_Attention';
+digg_bgcolor = '#ffffff';
+digg_skin = 'compact';
+&lt;/script&gt;
+&lt;script src="http://digg.com/tools/diggthis.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/font&gt;&lt;img src="http://farm2.static.flickr.com/1368/775032738_1386ce46ff_m.jpg" align="left" hspace="5" vspace="5" /&gt;Earlier this week Alex Iskold wrote that there is &lt;a href="http://www.readwriteweb.com/archives/blogosphere_long_tail.php"&gt;no money for bloggers in the long tail&lt;/a&gt;, even if there is money from &lt;strong&gt;&lt;em&gt;aggregating&lt;/em&gt;&lt;/strong&gt; the long tail.&lt;/p&gt;
+
+&lt;p&gt;There are many different motivations for blogging and some do not involve money. Some people have a cause they are passionate about - they want to help change the world and a blog is a marvellous way to get attention for that cause. Others don&amp;#8217;t even want to change the world or get noticed, they are just passionate about something and enjoy writing about it - attention is a by-product.&lt;/p&gt;
+&lt;p&gt;These bloggers may have Adsense ads and Amazon affiliate links. Who wants to turn away &amp;#8220;no effort&amp;#8221; money, however small? Just don&amp;#8217;t judge them by their revenue, it is a by-product.&lt;/p&gt;
+&lt;p&gt;The bloggers who don&amp;#8217;t have either a financial motivation or a passion, tend to move to social networks and Twitter-type microblogging models.&lt;/p&gt;
+
+&lt;p&gt;The bloggers who are financially motivated break down into two broad types:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Unchained journalists and early bloggers turned aspiring media mogul&lt;/strong&gt; - think Mike Arrington, Om Malik, Arriana Huffington, Henry Blodget, Jason Calacanis and of course our own Richard MacManus. It is such a great business for those that make it; so many more will be tempted to try. The barriers to entry are much more than they were for the innovators in the early days, but they are still lower than most businesses and new spaces are constantly emerging. So the blogosphere will always be full of blogs with minimal revenues and big ambitions, just like we have lots of start-up technology companies with minimal revenues and big ambitions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Blogging for Attention that translates into other revenue.&lt;/strong&gt; This is simply the open source model applied to writing. Why does a software engineer spend a lot of time writing code that they give away as open source?  There are certainly some who do it for non-financial reasons; they just love writing code or they want to kick an evil empire in the shins. However this assumes a day job or a rich uncle- because the huge open source industry would not sustain on this basis otherwise.&lt;/p&gt;
+
+
+&lt;p&gt;The simple economic rationale is increasing billing rates. Let&amp;#8217;s say I am a free agent developer charging $50 per hour. If I work 8 hours and have 100% utilization, I make $8,000 per month. Now let's assume that I spend 6 months investing my time writing some code to donate to open source. I have invested $48,000 (6 months at $8,000). In reality developers will tend to &amp;#8220;invest&amp;#8221; their moonlight hours at evenings and weekends; and other non-billable time. So this example is just to make the calculations simple.&lt;/p&gt;
+&lt;p&gt;Now imagine that the code gets traction in the open source community (that is a big if, this only works for talented developers who choose a real problem to solve). Can this developer increase their billing rate? Can they charge say $75 per hour? If so, the developer has a Return On Investment within 12 months.&lt;/p&gt;
+&lt;p&gt;In practice, the odds of success are not good, but the upside return is much higher. The odds of success are low because so much good code is given away free that you have to a) build great code not just good code and b) be savvy about getting adoption. Free is no longer a selling feature for software.&lt;/p&gt;
+
+&lt;p&gt;However the return potential is also much higher. This is particularly true for developers in developing countries. Let's say I am a really smart 20 year old developer in Siberia working for a big outsourcing firm by day and hacking away my masterpiece at night. There is a big opportunity to transform my career; the per hour increase maybe 10x from $5 to $50. If I can also create an &amp;#8220;enterprise version&amp;#8221; that I can charge for, the upside is huge.  &lt;/p&gt;
+
+&lt;p&gt;The economics are similar for writers who blog to get attention, in the hope that the attention can be leveraged into other revenue. There are 3 different models:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://farm1.static.flickr.com/18/69634948_f7599ef55e_m.jpg" align="right" hspace="5" vspace="5" /&gt;&lt;strong&gt;1. Corporate blogger.&lt;/strong&gt; This is now so common in the technology and new media worlds that it is just another part of &lt;em&gt;About Us&lt;/em&gt;. Start-ups tend to do this well, established enterprises are mostly still struggling for a formula that works in the community while meeting old management desires for control. Corporate blogging serves a useful purpose that falls between the cracks of Press Releases and White Papers (i.e. we have something interesting to a small part of our market, but not important enough to get picked up by traditional media). This is PR 2.0. The content has to be good; boring old press releases and white papers with jargon-laden corporate-speak won&amp;#8217;t work any more. The Corporate blogger is like the Linux coder at IBM; they get a salary and blogging is just part of the job description. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Deal Flow Filters.&lt;/strong&gt; &lt;a href="http://avc.blogs.com/"&gt;Fred Wilson &lt;/a&gt;is a leader at this and now most VCs feel the need to blog. This serves two purposes. First it helps filter their deal flow; entrepreneurs know what will interest them and they can start an informal dialogue via comments. Second it makes the VC look like a reasonable human being that an entrepreneur will want to meet. This same model can work for others in the deal business. I can imagine an M&amp;amp;A banker blogging about deals they are interesting in sourcing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Consultants in a Knowledge intensive space. &lt;/strong&gt;This is directly analogous to the developer using open source to increase their lead flow and billing rate. The idea is simply to create some useful analysis/insight so that your market sees you are  useful. This brings deal flow and enhances credibility (i.e. improves closure and bill rates). As with software, the nominal barriers are zero, but in practice a) your analysis/insight has to be valuable and b) you have to be savvy about building an audience. Blogging also works as a deal flow filter; experts have only so many hours to sell, so they need highly qualified leads who already know what they do well (and, critically, what they don&amp;#8217;t do).&lt;/p&gt;
+
+&lt;p&gt;This last category is interesting because it has long tail characteristics. There is an almost inexhaustible supply of experts in all kinds of niches working as free agents or in small companies. I call these the Attention $ bloggers (as opposed to the Ad $ blogger). &lt;/p&gt;
+&lt;p&gt;This category also obeys its own power law - these are people who have long understood the economics of giving away content to leverage consulting fees. &lt;a href="http://www.roughtype.com/"&gt;Nicholas Carr&lt;/a&gt; is a good example. His excellent Rough Type blog offers insights in a readable style with humor. The only advertising is for his own books and notice his blogging frequency is timed for a new publication. This is easier than the traditional book signing tour. The book in turn feeds the consulting practice. The Internet did not create the economics of writing for attention, but it did open it up to many more people.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Blogger Networks (a.k.a media firms) make money initially by attracting the Ad $ blogger. Some smarter media firms are now getting better at figuring out how to motivate and manage the Attention $ blogger. &lt;a href="http://money.cnn.com/2007/10/26/magazines/fortune/huffington.fortune/"&gt;Huffington Post&lt;/a&gt; is one example. The management issues are complex though - the Attention $ blogger who pushes too hard to sell a service or a point of view will lose their audience and harm the reputation of the media firm/network.&lt;/p&gt;
+&lt;p&gt;What do you think? Why do you blog? What value do you get from blogging?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Top Pic: &lt;a href="http://www.flickr.com/photos/silas216/775032738/"&gt;silas216&lt;/a&gt;&lt;/em&gt;; Bottom Pic: &lt;a href="http://www.flickr.com/photos/rashbre/69634948/"&gt;rashbre&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=usZKjQ"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=usZKjQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=t2XZeYB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=t2XZeYB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=YxpK56B"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=YxpK56B" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=mz8QRjb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=mz8QRjb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=U9AoRub"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=U9AoRub" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=HEB551b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=HEB551b" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192705875" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192705875/blogging_economics_attention.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/blogging_economics_attention.php</guid>
+         <category>Analysis</category>
+         <pubDate>Thu, 29 Nov 2007 17:48:33 -0800</pubDate>
+<author>Bernard Lunn</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/blogging_economics_attention.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Semantic Technology In Action: An Interview with Dr. Paul Miller</title>
+		<description>&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/millerpic.jpg" align="right" hspace="5px" vspace="5px"&gt;Each night this week while making dinner, I've listened to a different podcast interview with a semantic technology professional.  It's been a fascinating experience and the man I have to think for the education is Dr. Paul Miller, technology evangelist for semantic web platform vendor &lt;a href="http://talis.com"&gt;Talis&lt;/a&gt;.  Miller is producing an informative, enjoyable and prolific &lt;a href="http://blogs.talis.com/nodalities/"&gt;series of hour-long conversations&lt;/a&gt; with some people whose work is simply amazing.  
+
+&lt;/p&gt;&lt;p&gt;
+Semantic web tools are no longer trapped in the lab, after years of research they are becoming products and entering the public market.  There is semantic technology work underway at Skype, Joost and the BBC, just to name a few brand names.  Last month we called &lt;a href="http://twine.com"&gt;Twine&lt;/a&gt; possibly the first &lt;a href="http://www.readwriteweb.com/archives/twine_first_mainstream_semantic_web_app.php"&gt;mainstream semantic web app&lt;/a&gt;.  
+&lt;/p&gt;&lt;p&gt;I think of it like this: Once our software is capable of deriving semantic meaning from web pages it looks at for us - then there's a whole lot of work that will already be done, allowing our human, creative minds to save time and reach new heights.
+&lt;/p&gt;&lt;p&gt;
+
+Semantic technology is a subject of great interest to many of our readers here and elsewhere; we're proud that our post from yesterday highlighting &lt;a href="http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php"&gt;10 semantic companies to watch&lt;/a&gt; (including Miller's Talis) hit the front page of Digg this morning, taking this look into the future to an even larger audience.
+&lt;/p&gt;&lt;p&gt;
+I didn't know Richard MacManus was writing that post last night, but coincidentally I was already working on this interview with Dr. Miller.  I'm very thankful that he took the time to help us dive deeper into the topic.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Marshall Kirkpatrick:&lt;/strong&gt;  What's the elevator pitch on what the semantic web is and what promise it holds?
+
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Dr. Paul Miller:&lt;/strong&gt;  I hope it's quite a tall building we're riding up in this elevator, as the Semantic Web offers a wide range of opportunities moving forward. Talis Platform Advisory Group member Mills Davis of Project 10X is about to release his 'Semantic Wave 2008' report, and that does a great job of illustrating just how broad the potential for semantic technologies could be.
+&lt;/p&gt;&lt;p&gt;
+Reaching right back to that famous &lt;a href="http://www.sciam.com/article.cfm?articleID=00048144-10D2-1C70-84A9809EC588EF21&amp;catID=2"&gt;Scientific American article in 2001&lt;/a&gt;, there's been a tendency to paint a grand vision for The Semantic Web that encompasses a plethora of devices calling upon powerful reasoning and data mining capabilities to deliver a seamless, intelligent and unobtrusive end-to-end service to the end user. That vision is an interesting one, but still some way off.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+Pared back down to its essentials, the Semantic Web is fundamentally about expressing connections between resources in ways that can be interpreted and acted upon by software. Tim Berners-Lee reaches back to some of those fundamentals in his blog post this month on the Giant Global Graph and &lt;a href="http://blogs.talis.com/nodalities/2007/11/who_is_afraid_of_the_ggg.php"&gt;as I remarked at the time&lt;/a&gt; ... 
+&lt;/p&gt;&lt;p&gt;
+"This is the long-held promise of the Semantic Web, but it is valuable to see that promise rearticulated in something akin to the language of the social network. Those involved in the Semantic Web probably 'knew' all of this at some level, but had perhaps become too caught up in the mechanics and the model, too distant from the point. This is why the Semantic Web matters; the graphing of relationships between resources on the open Web. Not ontology wars. Not RDF-is-better-than-microformats. Not demonstrations of concept in the laboratory and behind the firewall. Not the creation of a shadow web. This."
+&lt;/p&gt;&lt;p&gt;
+
+&lt;strong&gt;Marshall:&lt;/strong&gt; What does Talis do?
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Paul:&lt;/strong&gt;  At Talis, we've been dealing with rich structured data for almost forty years. More recently, we've been devoting our attention to the intriguing opportunities created by what my colleague Justin Leavesley recently called the "&lt;a href="http://www.talis.com/platform/resources/assets/harnessing_sophisticated_mass.pdf"&gt;connectivity disruption&lt;/a&gt;". We see broader trends around increased connectivity, falling network and storage costs, and the increasingly rich web of connectedness amongst resources on the open web. All of these come together to create an intriguing point-in-time opportunity, whereby there's a real opportunity to switch the way that we think about building applications on the web and to move toward Tim O'Reilly's notion of the 'Internet Inside'. Instead of continuing to build applications that essentially consider the Web as an external source upon which to draw from time to time, we shift the model and construct a new generation of applications that truly, natively, consume content from across the Web... and it doesn't matter whether than content is open and public, or the sorts of resources that an enterprise would traditionally keep locked up in some database well inside the firewall.
+
+&lt;/p&gt;&lt;p&gt;
+The &lt;a href="http://www.talis.com/platform/"&gt;Talis Platform&lt;/a&gt; (www.talis.com/platform/) lowers the barriers to creating these applications, by hiding some of the underlying Semantic Web complexities and simply offering capabilities to store, query and manage heterogeneous data via a set of consistent, simple, and very Web-like APIs. The Talis Platform itself is available for third party developers to work with, but we also build applications of our own on top of it, using exactly the same APIs as anyone else could. &lt;a href="www.talis.com/engage/"&gt;Talis Engage&lt;/a&gt; is the first of those new commercial applications to see the light of day, but there are plenty more to come.
+&lt;/p&gt;&lt;p&gt;
+
+As well as making extensive use of semantic technologies in our Platform and the applications we build upon it, we're also invested in the wider success of the Semantic Web and those relying upon it. We've been members of W3C for a long time, and contribute to W3C activities such as GRDDL and SWEO. Through our &lt;a href="http://www.talis.com/platform/about/advisory_board.shtml"&gt;Talis Platform Advisory Group&lt;/a&gt; we have assembled a great team of leading lights in the practical deployment of semantic solutions... and we work together to raise awareness and to build a market together, to the future benefit of ourselves and others. Our &lt;a href="http://www.talis.com/platform/resources/podcasts.shtml"&gt;podcast series&lt;/a&gt;, too, is an attempt to lift the lid on some of the great work that is being done with the Semantic Web, and to pull in relevant views from those such as venture capitalists who might seek to fund future Semantic Web startups.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Marshall:&lt;/strong&gt; Our own Alex Iskold is a big proponent of what he calls the "&lt;a  href="http://www.readwriteweb.com/archives/the_top-down_semantic_web.php"&gt;top down semantic web&lt;/a&gt;,"  a strategy centered on outside eyes analyzing the contents of a web page to determine its meaning without depending on the page's author to take steps (like deploying microformats) to communicate a page's meaning themselves.
+
+&lt;/p&gt;&lt;p&gt;  Your recent &lt;a href="http://blogs.talis.com/nodalities/2007/11/yihong_ding_talks_with_talis_a.php"&gt;interview with Yihong Ding&lt;/a&gt; seemed to articulate one interesting "top down" approach.  Iskold says that a top down approach is the only type that will prove feasible on any large scale.  What do you think of this approach?
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Paul:&lt;/strong&gt; I &lt;a href="http://blogs.talis.com/nodalities/2007/09/readwrite_web_paints_a_prettie.php"&gt;commented on Alex' post at the time&lt;/a&gt;, and certainly welcomed the profile-raising that his series of posts provided for these issues. I certainly agree that we're not going to get very far on the open web if the onus is on the creators of content to do all the work to make it semantically rich or meaningful. However, as I suggested at the time, I'm not sure that I recognise the dichotomy that Alex painted, and think that the reality is an odd mix of top-down and bottom-up.
+
+&lt;/p&gt;&lt;p&gt;
+I certainly would agree that there's an awful lot that can be done by your 'outside eyes' (and they're probably the eyes of a machine, rather than a person) to infer pattern, meaning and structure from the 'non-semantic' resources with which today's web is filled. Which takes us neatly back to Tim Berners-Lee and the GGG...  ;-)
+&lt;/p&gt;&lt;p&gt;
+Inside an enterprise, things may be different. There, a degree of rigour and structure certainly can be introduced, and some of the work on ontologies and taxonomies (see, for example, &lt;a href="http://blogs.talis.com/nodalities/2007/11/bill_hutchison_talks_with_tali_1.php"&gt;my podcast with Bill Hutchison&lt;/a&gt; this week) holds a huge amount of potential... if we can provide the right sort of tools to ensure that this addition of structure becomes a sensible and low-hassle aspect of the existing workflow.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Marshall:&lt;/strong&gt; In your &lt;a href="http://blogs.talis.com/nodalities/2007/11/alberto_reggiori_talks_with_ta.php"&gt;interview with European semantic web consultant Alberto Reggiori&lt;/a&gt;, Reggiori says that in seeking to get permission to build out semantic web technology in a company's infrastructure, it is best that it not be a primary point of discussion, but that it be wrapped in a framework of more familiar technologies.  I know that some people have said the same thing about other technologies, like RSS for example - that widespread adoption will require obfuscation of the technology itself ("just don't tell them it's RSS!").  What do you think of this approach with semantic technology?  Reggiori talked about doing work for Skype, Joost and the BBC.  Where else are semantics hiding that would be of interest to our readers and lend further credibility to the field?
+
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Paul:&lt;/strong&gt; I'd definitely agree with Alberto on this one. The Semantic Web shouldn't be seen as an end in itself. Rather, it's a set of attitudes, technologies and philosophies that can be usefully applied to the solving of real-world problems faced by real people. The trick, surely, is to offer solutions to those problems... in the language of their stakeholders... rather than marching into a company and saying "You need the Semantic Web" ? The Semantic Web toolset is part of any solution... it's not all of it.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Marshall:&lt;/strong&gt; How would you describe the state of the semantic web?
+&lt;/p&gt;&lt;p&gt;
+
+&lt;strong&gt;Paul:&lt;/strong&gt; About to get really interesting? There's been Semantic Web research inside universities and the R&amp;D arms of big companies for years. It's only in the past year, really, that we've begun to see an emergence of end-user facing applications in which semantic technologies play a significant part. The Analysts are sitting up and paying attention. The venture capitalists are starting to throw money around. Richard's post on RR/W earlier today highlighted ten examples of companies embracing semantic technologies, and there are plenty more. I think we'll see a lot of growth and a lot of interest into 2008, and it's going to be fascinating to track, and to be part of that.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Marshall:&lt;/strong&gt; If the semantic web is one of the bleeding edges of online technology (web 3.0, some people say) - what are some of the most experimental directions being explored within the semantic web community itself?
+&lt;/p&gt;&lt;p&gt;
+
+&lt;strong&gt;Paul:&lt;/strong&gt; It's probably best not to go down the whole "Is the Semantic Web the same as Web 3.0?" thing here; that's a whole separate article in its own right!  ;-)  Some of Nova Spivack's (CEO of Radar Networks, [makers of Twine] and another member of our Advisory Group) ideas around the 'third generation of the web' are interesting here, though.
+&lt;/p&gt;&lt;p&gt;
+Another colleague of mine, &lt;a href="http://dannyayers.com/"&gt;Danny Ayers&lt;/a&gt;, does a great job of tracking the latest news in the Semantic Web space, and he puts together "&lt;a href="http://blogs.talis.com/nodalities/this_weeks_semantic_web/"&gt;This Week's Semantic Web&lt;/a&gt;" every week on our blog.
+
+&lt;/p&gt;&lt;p&gt;
+Some of the areas that interest me most are those to do with understanding and following links across diverse sets of data out on the open web - hence our interest in licensing, which Richard mentioned in his piece. SWEO's Linking Open Data community effort is one of the interesting exemplars here... they've been approaching a wide range of data-holding organisations (such as Wikipedia), and working with them to expose that data for use and reuse. Where it exists in some less than friendly format, they're also helping to transform it into something like RDF... where it becomes far more useful.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Marshall:&lt;/strong&gt;  I thank Paul Miller for his time, I'm happy to make his acquaintance and I hope you'll check out some of the resources he points to above.  The world ahead of us is an exciting one, and it's approaching quickly.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=reTK5V"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=reTK5V" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=ddZtELB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=ddZtELB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=hupfcFB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=hupfcFB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=NUASdzb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=NUASdzb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=cil3R7b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=cil3R7b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=PTL6gSb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=PTL6gSb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192563971" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192563971/semantic_technology_in_action.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/semantic_technology_in_action.php</guid>
+         <category>Analysis</category>
+         <pubDate>Thu, 29 Nov 2007 11:39:26 -0800</pubDate>
+<author>Marshall Kirkpatrick</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/semantic_technology_in_action.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Ask500People: Polling The Web In Real Time</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/ask500people-logo.jpg" align="left" hspace="5" vspace="5" width="175" height="65" /&gt;Recently launched &lt;a href="http://www.ask500people.com/"&gt;Ask500People&lt;/a&gt; is an interesting new polling experiment that endeavors to ask questions of 500 people around the world and report the results in real-time.  Ask500People is not a polling widget that you can use to run questions on your site (though they have formed partnerships with some high traffic sites to occasionally run polls), but rather it is a way for people to gain access to a large crowd to ask pressing questions.&lt;/p&gt;
+
+&lt;p&gt;The site works by first soliciting questions from users, which are voted on Digg-style.  If a question gets enough votes in 24 hours, it is added to the queue and eventually asked.  When a question is asked, users can vote on site or via a polling widget that anyone can embed on their blog or social networking profile (assuming it supports JavaScript-based widgets), and the results are reported in real-time on a continuously updated Google Maps mashup.  After the question is complete (after 500 people have answered it), the site pauses to catch its breath for a few minutes, then moves on to the next question.  It's very addicting to watch answers unfold from around the globe, and to participate in debates in the comments section of the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/ask500people-question.jpg" width="530" height="385" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyone can vote in polls, but only registered users can submit questions.  The majority of questions seem to be yes/no structured, but multiple choices are possible.&lt;/p&gt;
+
+&lt;p&gt;Right now, the site is only polling 100 people per question, because current traffic levels allow for 100 person queries to be completed in about 15 minutes -- as traffic increases, the site hopes to expand to the full 500.  Results for each question are archived and broken down my country and voter type (those on the site vs. those voting via widget).  Surprisingly, it seems that the majority (over 80%) of people are voting via Ask500People widgets spread around the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type="text/javascript" charset="utf-8"&gt;/* &lt;![CDATA[ */(function(){try{var c=function(){setTimeout(function(){var t=document.createElement("script");t.src="http://widgets.ask500people.com/ask_widget/edge.js?k=tk1dv4kc&amp;s=blue&amp;w=300";t.type="text/javascript";t.charset="utf-8";document.body.appendChild(t);},1);};window.addEventListener("load",c,false);} catch(e){try{window.attachEvent("onload",c);} catch(e){}}})();/* ]]&amp;gt; */&lt;/script&gt;
+&lt;div id="ask500widget" style="display: none;"&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=t63uXO"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=t63uXO" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=6mHMhQB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=6mHMhQB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=RUz7yRB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=RUz7yRB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=7TPvEsb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=7TPvEsb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=1ytlC6b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=1ytlC6b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=487RF2b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=487RF2b" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192493461" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192493461/ask500people_polling_the_web_in_real_time.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/ask500people_polling_the_web_in_real_time.php</guid>
+         <category>Startups</category>
+         <pubDate>Thu, 29 Nov 2007 09:52:17 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/ask500people_polling_the_web_in_real_time.php</feedburner:origLink></item>
+      
+      <item>
+         <title>South Park Takes Up Permanent Residence on the Web</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/southpark.jpg" align="right" hspace="5" vspace="5" width="250" height="188" /&gt;Read/WriteWeb Network blog &lt;a href="http://www.last100.com/2007/11/29/mtv-networks-to-put-every-south-park-episode-online/"&gt;last100 is reporting&lt;/a&gt; that MTV Networks has decided to put every episode of "South Park" online for free sometime next year.  MTV decided to put South Park on the web following the success it saw after steaming the entire back catalog of "The Daily Show" online. As last100 notes:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;The lesson learnt by MTV Networks subsidiary, Comedy Central, when it made the entire archive of "The Daily Show" available for streaming online, is that Internet TV viewing can lead to more traditional television viewing. In other words, The Daily ShowÕs television viewing figures are up not down, even though fans are able get an unlimited fix via the showÕs own website.
+&lt;br /&gt;&lt;br /&gt;
+"One does not diminish the other by any stretch of the imagination. That is kind of our hat trick," MTV Networks Chairman and Chief Executive, Judy McGrath, told attendees gathered at the Reuters Media Summit in New York on Wednesday.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;last100 also says that this move may signal an intention by MTV to eventually put more of its 20-year catalog of content on the web.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=wwBB7A"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=wwBB7A" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=5YggAUB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=5YggAUB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=xTtxoSB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=xTtxoSB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=MZonm3b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=MZonm3b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=5UGb2Jb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=5UGb2Jb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=Jeb8KFb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=Jeb8KFb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192509980" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192509980/south_park_online_free.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/south_park_online_free.php</guid>
+         <category>News</category>
+         <pubDate>Thu, 29 Nov 2007 09:51:07 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/south_park_online_free.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Swap Meet 2.0 Part Deux: More Places to Buy &amp; Sell Handmade Goods</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/pottery-wheel.jpg" align="right" hspace="5" vspace="5" width="160" height="120" /&gt;In June, we published a post entitled &lt;a href="http://www.readwriteweb.com/archives/ebay_etsy_dawanda_lovli.php"&gt;Swap Meet 2.0&lt;/a&gt; that took a look at a handful of sites at which people buy and sell handmade goods on the Internet.  Specifically, we looked at &lt;a href="http://www.ebay.com/"&gt;eBay&lt;/a&gt;, &lt;a href="http://www.etsy.com/"&gt;Etsy&lt;/a&gt;, &lt;a href="http://dawanda.com/"&gt;DaWanda&lt;/a&gt;, and &lt;a href="http://www.lov.li/"&gt;Lov.li&lt;/a&gt;.  This is a small, but growing niche and today we'll take a look at three more startups that provide ecommerce and community services to independent artists and crafts people.&lt;/p&gt;
+
+&lt;p&gt;If you know of any other such services, please feel free to share them in the comments below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/supermarket-logo.jpg" width="190" height="40" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brooklyn-based &lt;a href="http://www.http://supermarkethq.com/"&gt;Supermarket&lt;/a&gt; takes a no nonsense approach to selling handcrafted goods online.  Their site is dead simple, with very large, easy-to-use navigational elements, and organizes products under just three main categories: wear + carry, space + place, and paper + print (each category is defined further with a handful of subcategories). Unlike other startups in this space, Supermarket is exclusive -- only artisans who apply and are accepted to the program can sell their items on the site.  Currently, Supermarket works with about 80 designers.&lt;/p&gt;
+
+&lt;p&gt;On the buyers end, Supermarket is fairly easy to browse -- and considering they work with far fewer designers than other sites, there is much less to look at.  But because the designers are pre-screened, the site offers generally high quality fare.  There is a very simple category hierarchy which makes browsing products a headache-free affair, and artists can add searchable tags to make their goods easier to find.  Each product can be commented on and rated, and payments are handled by PayPal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://gregoireganter.supermarkethq.com"&gt;GrŽgoire Ganter&lt;/a&gt; is a typical Supermarket store front.&lt;/p&gt;
+
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/artflock-logo.jpg" width="137" height="59" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.artflock.com/"&gt;ArtFlock.com&lt;/a&gt; is a UK-based site that lets artists sell, display, and promote their artwork online.  They offer two levels of membership for artists -- the free "FreeFolio" account, which supports up to 200 pieces of art and unlimited event listings (think, gallery show promotion), or the £4.99 per month "ProFolio," which supports unlimited artwork and a number of other features. Both account types allow artists to sell their work.  ArtFlock takes a 10-25% commission on art sales (depending on the level of account) and though they seem to favor art over crafts (i.e., you'll see more paintings and sculptures than clothing and pottery), you will see some of the latter.&lt;/p&gt;
+
+&lt;p&gt;If you're looking to buy art, rather than just look at it, be sure to turn on the "Artwork for sale only" option while browsing.  The site lets you browse prices in US dollars, British pounds, or Euros.  Browsing is generally done via tags (which can be searched), and artwork can be commented on and rated as well.  ArtFlock.com supports most major credit cards in addition to PayPal, but be careful as not all artists ship overseas.  ArtFlock.com uses a lot of slick JavaScript effects on the site, but overall browsing feels a bit clunkier than other sites we've looked at in this space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/artflock-exhibition.jpg" width="530" height="404" /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the coolest ways to browse the site, though, is via the "virtual exhibitions" (pictured above).  I suppose you can think of these sort of as artist-created Amazon-style lists in visual form.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.artflock.com/profile/toniyoungphotography"&gt;Toni Young&lt;/a&gt; is a typical ArtFlock.com store front.&lt;/p&gt;
+
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/mintd-logo.jpg" width="140" height="60" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Australian startup &lt;a href="http://www.mintd.com/"&gt;Mintd&lt;/a&gt; is a community site based around hand crafted, independent goods.  Artisans can begin selling on Mintd for free with an account that supports up to 10 items.  From there, Mintd offers paid options ranging from US$20-100/month and the site also takes between 3% and 5% commission on each sale depending on the level of account.  Some paid accounts include store customization as well (think: custom backgrounds). The site has a large number of categories and product pages are very similarly laid out to those on Etsy.  Payments are handled by PayPal.&lt;/p&gt;
+
+&lt;p&gt;Mintd has some interesting features for helping connect buyers with products, not least of with is the "Interest Rank."  The IR ranks "interestingness" by determining which products are being interacted with in the most positive ways on the web site. These products may then be highlighted or more heavily promoted.  Every store and product listed on Mintd has an Interest Rank.  The site also lets buyers earn money by creating "lookbooks."  Lookbooks are galleries of photos taken by users of the products they've bought on the site in action -- if your photos cause someone else to buy that product, you get a 2.5% commission, payable as store credit (or cash if you earn over $100).  The idea is that supremely style-conscious users may have a "look" others will want to emulate. Customers on Mintd are also encouraged to form groups based around their sense of fashion.  As you may have guessed, the site tends to favor wearable art over other handmade goods -- though there are plenty of choices in the other categories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://theartleemakes.mintd.com/"&gt;The Art Lee Makes&lt;/a&gt; is a typical Mintd store front.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=Tn2P3S"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=Tn2P3S" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=tSLnnKB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=tSLnnKB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=sN5Z7BB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=sN5Z7BB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=ZIrLJQb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=ZIrLJQb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=wdfl93b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=wdfl93b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=gS0l8ub"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=gS0l8ub" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192465539" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192465539/supermarket_artflock_mintd.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/supermarket_artflock_mintd.php</guid>
+         <category>Analysis</category>
+         <pubDate>Thu, 29 Nov 2007 08:34:46 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/supermarket_artflock_mintd.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Voting Experiment: Google Sneezed but Keep Your Pants On</title>
+		<description>&lt;p&gt;&lt;font style="float: right"&gt;&lt;script type="text/javascript"&gt;
+digg_url = 'http://digg.com/tech_news/Google_is_expirimenting_with_Digg_style_voting';
+digg_bgcolor = '#ffffff';
+digg_skin = 'compact';
+&lt;/script&gt;
+&lt;script src="http://digg.com/tools/diggthis.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/font&gt;&lt;img src="http://www.readwriteweb.com/images/googexplogo.jpg" align="left" hspace="5px" vspace="5px"&gt;A substantial portion of the web world is turning today to look at &lt;a href="http://www.google.com/experimental/a840e102.html"&gt;a small experiment underway at Google&lt;/a&gt;, but there's no reason to believe that big changes are right around the corner.  &lt;a href="http://googlified.com/2007google-digg-style-experiment/"&gt;Googlified&lt;/a&gt;, one of several independent Google watchdog blogs, discovered a new voting feature in the Experimental section of Google Labs and promptly jumped to the click-friendly conclusion that something Digg-like was afoot.  
+
+&lt;/p&gt;&lt;p&gt;
+&lt;img src="http://www.readwriteweb.com/images/googdiggnot.jpg" align="right" hspace="5px" vspace="5px"&gt;The search company is experimenting with letting users give thumbs up to certain items on their results pages to move those items up the page, or to select an X icon to hide a result from the page.  Users can also suggest a link to be included in their personal results page for the same search query again.  You have to be logged into a Google account to see the results of your clicking on these icons the next time you search.
+&lt;/p&gt;&lt;p&gt;
+A few things to keep in mind, perhaps talking points to bring down your hyperventilating co-workers:
+
+&lt;ul&gt;&lt;li&gt;There's zero indication that these personal votes will influence everyone's search results and in fact it's quite unlikely. The current algorithm reflects years of ongoing work by some of the smartest scientists in the field.  Google doesn't need your and every hired fraudulent clicker's input into what's a good search result.&lt;/li&gt;
+&lt;li&gt;This looks a whole lot like personal bookmarking, which is good to offer as many methods of as possible as there are many people in the world and thus many ways that work best for different groups of users.  Is bookmarking online a straight path to manipulation of global search rankings?  No.&lt;/li&gt;
+
+&lt;li&gt;Voting has been around longer than Digg, so even if you see voting happening, it's not necessary to call it Digg-like.  Ok?  How about we only call voting systems "like Digg" if a varying number of votes, not all of which are valued equally, are required within a short period of time in order for a much larger number of people to be meaningfully exposed to what was voted on.  And there are comments, which can be voted on as well.  The US Presidential election, for example, is based on voting - but is nothing like Digg.  Agreed?  Kthxbi.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Google Operating System, a particularly smart Google watch-dog blog, concludes &lt;a href="http://googlesystem.blogspot.com/2007/11/google-experiments-with-personalizing.html"&gt;its post today&lt;/a&gt; with links to previous, similar experiments by Google - like &lt;a href="http://googlesystem.blogspot.com/2007/08/sticky-google-search-results.html"&gt;add better search results&lt;/a&gt;, &lt;a href="http://googlesystem.blogspot.com/2006/10/searchmash-new-google-search-site.html"&gt;reorder the results&lt;/a&gt; and &lt;a href="http://www.mattcutts.com/blog/remove-result/"&gt;remove search results&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=oushra"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=oushra" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=6TsP7FB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=6TsP7FB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=dZevS6B"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=dZevS6B" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=QOobIIb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=QOobIIb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=mxrC6nb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=mxrC6nb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=x2sQkUb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=x2sQkUb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192443668" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192443668/voting_experiment_google_sneez.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/voting_experiment_google_sneez.php</guid>
+         <category>Google</category>
+         <pubDate>Thu, 29 Nov 2007 07:44:35 -0800</pubDate>
+<author>Marshall Kirkpatrick</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/voting_experiment_google_sneez.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Mixaloo: The Return of the Mixtape</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/mixaloo-logo.jpg" align="left" hspace="5" vspace="5" width="175" height="56" /&gt;With the rise of MP3s and other forms of downloadable music, the venerable &lt;a href="http://en.wikipedia.org/wiki/Mixtape"&gt;mixtape&lt;/a&gt;, which Wikipedia says gained mass popularity in the 1980s, may be going the way of the dodo.  It is, afterall, rather hard to give someone an iTunes playlist, not to mention a whole lot less romantic (if that's what you're after).  But New York-based &lt;a href="http://mixaloo.com/"&gt;Mixaloo&lt;/a&gt; isn't about to let the mixtape die.&lt;/p&gt;
+
+&lt;p&gt;Mixaloo revives the art form of mixtape creation by packaging mixtapes as flash widgets that you can spread via social networks or blogs.  These "digital mixtapes" are powered by &lt;a href="http://www.clearspring.com/"&gt;Clearspring&lt;/a&gt;, and while they don't play full songs (just samples), they do something arguably better: they can make you money.&lt;/p&gt;
+
+&lt;p&gt;The Mixaloo widget doesn't just show off you smooth musical taste, but also acts as a mini-store front from which your peers can purchase your creations.  We created a Bob Marley-heavy mix (embedded below) that has 14 tracks -- Mixaloo puts that at a $15.22 price point.  Mixaloo offers a 50-50 profit share (or about 20-40 cents per song) with mixtape makers.  Mixaloo also offers a points system.  Users earn points for doing things like selling tracks, and recommending related artists that the app suggests during mixtape creation.  Points can be redeemed for things like Mixaloo merchandise and audio equipment.&lt;/p&gt;
+
+&lt;p&gt;Mixaloo entered public beta just a couple of weeks ago, and though mixtape creation is easy and I was very impressed by the sheer amount of albums and songs it has listed -- more than 3 million of them (including many obscure live tracks that other music services tend to overlook), there were some hiccups.&lt;p&gt;
+
+&lt;p&gt;For example, when trying to get the embed code for my widget, I often got an error saying the widget could not be found -- especially after trying to change the widget's colors or theme.  Further, though I got Mixaloo to accept my uploaded cover artwork, it is nowhere to be found on the widget itself.  And speaking of the widget, every time I have tried to purchase my mix, it asks me to create an account -- I already have an account, but there appears to be no way to log in with it from the widget!&lt;/p&gt;
+
+&lt;p&gt;&lt;object id="W474dd3af7c618443" width="400" height="442" quality="high" data="http://widgets.clearspring.com/o/46b8bd014203097c/474dd3af7c618443" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"&gt;&lt;param name="wmode" value="transparent" /&gt;&lt;param name="movie" value="http://widgets.clearspring.com/o/46b8bd014203097c/474dd3af7c618443" /&gt;&lt;param name="scaleMode" value="showAll" /&gt;&lt;param name="allowNetworking" value="all" /&gt;&lt;param name="allowScriptAccess" value="always" /&gt;&lt;param name="flashvars" value="" /&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;The downside of having so many songs in the library, is that Mixaloo has to offer songs protected by Windows Playsforsure DRM.  Yuck.  It would be great if Mixaloo could offer DRM free tracks from record labels that are open to the idea (like EMI).  With the public's growing distaste for DRM could potentially hamper the growth of the service, but it is a necessary evil if you want to work with most of the major labels.&lt;/p&gt;
+
+&lt;p&gt;It's probably premature to say that Apple is losing any sleep over Mixaloo (and the services aren't really comparable, as iTunes sells to people looking for specific tracks, while Mixaloo hopes to sell people based on the recommendations of their friends).  But &lt;a href="http://www.readwriteweb.com/archives/blogosphere_long_tail.php"&gt;speaking of making money on the long tail&lt;/a&gt;, Mixaloo is a perfect example of a business whose approach to utilizing the long tail is smart.  They're using the distributed nature of social networks and blogs to promote music sales virally to a massive audience on a personal level.&lt;/p&gt;
+
+&lt;p&gt;"We created Mixaloo to merge that experience with the viral nature of blogs and social networking communities, giving users the added incentive of earning cash for popular mixes. This 'social record store' creates a vast network of personal recommendations to increase sales and visibility for artists of all sizes," said Mixaloo CEO Mark Stutzman.  Work out the bugs and Mixaloo could make be a winner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=yfv0jh"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=yfv0jh" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=GwGK7mB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=GwGK7mB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=2fqWCgB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=2fqWCgB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=Vo1iQlb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=Vo1iQlb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=pjVnohb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=pjVnohb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=kI5Fnub"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=kI5Fnub" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192430196" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192430196/mixaloo_the_return_of_the_mixtape.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/mixaloo_the_return_of_the_mixtape.php</guid>
+         <category>Startups</category>
+         <pubDate>Thu, 29 Nov 2007 07:36:48 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/mixaloo_the_return_of_the_mixtape.php</feedburner:origLink></item>
+      
+      <item>
+         <title>10 Semantic Apps to Watch</title>
+		<description>&lt;p&gt;&lt;font style="float: right"&gt;&lt;script type="text/javascript"&gt;
+digg_url = 'http://digg.com/software/10_Semantic_Apps_to_Watch';
+digg_bgcolor = '#ffffff';
+digg_skin = 'compact';
+&lt;/script&gt;
+&lt;script src="http://digg.com/tools/diggthis.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/font&gt;&lt;img src="http://www.readwriteweb.com/images/semantic_apps_small.jpg" align="left" hspace="5" vspace="5" /&gt;One of the highlights of October's Web 2.0 Summit in San Francisco was the &lt;a href="http://www.readwriteweb.com/archives/the_new_era_of_semantic_apps.php"&gt;emergence of 'Semantic Apps'&lt;/a&gt; as a force. Note that we're not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps &lt;em&gt;may&lt;/em&gt; use those technologies, but not necessarily. This was a point made by the founder of one of the Semantic Apps listed below, Danny Hillis of Freebase (who is as much a tech legend as Berners-Lee).&lt;/p&gt;
+
+&lt;p&gt;The purpose of this post is to highlight 10 Semantic Apps. We're not touting this as a 'Top 10', because there is no way to rank these apps at this point - many are still non-public apps, e.g. in private beta. It reflects the nascent status of this sector, even though people like Hillis and Spivack have been working on their apps for years now.&lt;/p&gt;
+&lt;h2&gt;What is a Semantic App?&lt;/h2&gt;
+&lt;p&gt;Firstly let's define &amp;quot;Semantic App&amp;quot;. A key element is that the apps below all try to &lt;strong&gt;determine the meaning&lt;/strong&gt; of text and other data, and then &lt;strong&gt;create connections&lt;/strong&gt; for users. Another of the founders mentioned below, Nova Spivack of Twine, noted at the Summit that &lt;strong&gt;data portability&lt;/strong&gt; and &lt;strong&gt;connectibility&lt;/strong&gt; are keys to these new semantic apps - i.e. using the Web as platform. &lt;/p&gt;
+
+&lt;p&gt;In September Alex Iskold wrote a great primer on this topic, called &lt;a href="http://www.readwriteweb.com/archives/the_top-down_semantic_web.php"&gt;Top-Down: A New Approach to the Semantic Web&lt;/a&gt;. In that post, Alex Iskold explained that there are two main approaches to Semantic Apps:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) Bottom Up&lt;/strong&gt; - involves embedding
+  semantical annotations (meta-data) right into the data. &lt;br /&gt;
+  &lt;strong&gt;2) Top down&lt;/strong&gt; - 
+  relies on analyzing existing information; the ultimate
+  top-down solution would be a fully blown natural language processor, which is able to
+  understand text like people do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/semanticweb-approaches.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Now that we know what Semantic Apps are, let's take a look at some of the current leading (or promising) products...&lt;/p&gt;
+
+&lt;h2&gt;Freebase&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/freebase_logo_nov07.png" align="left" hspace="5" vspace="5" /&gt;&lt;a href="http://www.freebase.com/"&gt;Freebase&lt;/a&gt; aims to &amp;quot;open up the silos of data and the connections between them&amp;quot;, according to founder Danny Hillis at the Web 2.0 Summit. Freebase is a database that has all kinds of data in it and an API. Because it's an open database, anyone can enter new data in Freebase. An example page in the Freebase db looks pretty similar to a Wikipedia page. When you enter new data, the app can make suggestions about content. The topics in Freebase are organized by type, and you can connect pages with links, semantic tagging. So in summary, Freebase is all about shared data and what you can do with it.&lt;/p&gt;
+
+&lt;h2&gt;Powerset&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.powerset.com/"&gt;Powerset&lt;/a&gt; (see &lt;a href="http://www.readwriteweb.com/archives/exclusive_launch_of_powerlabs.php"&gt;our coverage here&lt;/a&gt; and &lt;a href="http://www.readwriteweb.com/archives/powerset_and_hakia_quest_for_semantic_web.php"&gt;here&lt;/a&gt;) is a natural language search engine. The system relies on semantic technologies that have only become available in the last few years. It can make &amp;quot;semantic connections&amp;quot;, which helps make the semantic database. The idea is that meaning and knowledge gets extracted automatically from Powerset. The product isn't yet public, but it has been riding a wave of  publicity over 2007.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/powerset_15june07.gif" /&gt;&lt;/p&gt;
+&lt;h2&gt;Twine&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/twine/twine_logo.jpg" align="right" hspace="5" vspace="5" /&gt;&lt;a href="http://www.twine.com"&gt;Twine&lt;/a&gt; claims to be the first mainstream Semantic Web app, although it is still in private beta. See &lt;a href="http://www.readwriteweb.com/archives/twine_first_mainstream_semantic_web_app.php"&gt;our in-depth review&lt;/a&gt;. Twine automatically learns about you and your interests as you populate it with content - a &amp;quot;Semantic Graph&amp;quot;. When you put in new data, Twine picks out and tags certain content with semantic tags - e.g. the name of a person. An important point is that Twine creates new semantic and rich data. But it's not all user-generated. They've also done machine learning against Wikipedia to 'learn' about new concepts. And they will eventually tie into services like Freebase. At the Web 2.0 Summit, founder Nova Spivack compared Twine to Google, saying it is a &amp;quot;bottom-up, user generated crawl of the Web&amp;quot;.&lt;/p&gt;
+
+&lt;h2&gt;AdaptiveBlue&lt;/h2&gt;
+&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/adaptiveblue_may07.png" align="left" hspace="5" vspace="5" width="238" height="56" /&gt;&lt;a href="http://www.adaptiveblue.com/"&gt;AdaptiveBlue&lt;/a&gt; are makers of the Firefox plugin, &lt;a href="http://www.readwriteweb.com/archives/blueorganizer_semantic_web.php"&gt;BlueOrganizer&lt;/a&gt;. They also &lt;a href="http://www.readwriteweb.com/archives/adaptiveblue_semantic_web_smartlinks.php"&gt;recently launched&lt;/a&gt; a new version of their SmartLinks product, which allows web site publishers to add semantically charged links to their site. SmartLinks are browser 'in-page overlays' (similar to popups) that add additional contextual information to certain types of links, including links to books, movies, music, stocks, and wine.  AdaptiveBlue supports a &lt;a href="http://www.adaptiveblue.com/smartlinks_sites.html"&gt;large list of top web sites&lt;/a&gt;, automatically recognizing and augmenting links to those properties.&lt;/p&gt;
+
+&lt;p&gt;SmartLinks works by understanding specific types of information (in this case links) and wrapping them with additional data. SmartLinks takes unstructured information and turns it into structured information by understanding a basic item on the web and adding semantics to it.&lt;/p&gt;
+ &lt;p&gt;&lt;em&gt;[Disclosure: AdaptiveBlue founder and CEO Alex Iskold is a regular RWW writer]&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Hakia&lt;/h2&gt;
+ &lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/hakia_logo_mar07.jpg" align="right" hspace="5" vspace="5" width="150" height="73"&gt;&lt;a href="http://www.hakia.com/"&gt;Hakia&lt;/a&gt; is one of the more promising &lt;a href="http://www.readwriteweb.com/archives/top_100_alternative_search_engines_feb07.php"&gt; Alt Search Engines&lt;/a&gt;
+
+around, with a focus on natural
+language processing methods to try and deliver 'meaningful' search results. Hakia attempts to
+analyze the concept of a search query, in particular by doing &lt;b&gt;sentence
+analysis&lt;/b&gt;. Most other major search engines, including Google, analyze &lt;b&gt;keywords&lt;/b&gt;.
+The company told us &lt;a href="http://www.readwriteweb.com/archives/hakia_takes_on_google_semantic_search.php"&gt;in a March interview&lt;/a&gt; that the future of search engines will go beyond keyword
+analysis - search engines will talk back to you and in effect become your search
+assistant. One point worth noting here is that, currently, Hakia still has some human
+post-editing going on - so it isn't 100% computer powered at this point.&lt;/p&gt;
+&lt;p&gt;Hakia has two main technologies:&lt;/p&gt;
+
+                              &lt;p&gt;1) QDEX Infrastructure (which stands for Query Detection and Extraction)  - this does the heavy lifting of analyzing search queries at a sentence level.&lt;/p&gt;
+&lt;p&gt;2) SemanticRank Algorithm - this is essentially the science they use, made up of ontological semantics that relate concepts to each other.&lt;/p&gt;
+&lt;h2&gt;Talis&lt;/h2&gt;
+                              &lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/talis_logo.gif" align="left" hspace="5" vspace="5" /&gt;&lt;a href="http://www.talis.com/"&gt;Talis&lt;/a&gt; is a 40-year old UK software company which has created &lt;a href="http://www.talis.com/platform/"&gt;a semantic web application platform&lt;/a&gt;. They are a bit different from the other 9 companies profiled here, as Talis has released a platform and not a single product. The Talis platform is kind of a mix between Web 2.0 and the Semantic Web, in that it enables developers to create apps that allow for sharing, remixing and re-using data. Talis believes that Open Data is a crucial component of the Web, yet there is also a need to license data in order to ensure its openness. Talis has developed its own content license, called the Talis Community License, and recently they &lt;a href="http://blogs.talis.com/nodalities/2007/10/open_data_license_it_or_lose_i.php"&gt;funded&lt;/a&gt; some legal work around the Open Data Commons License.&lt;/p&gt;
+
+                              &lt;p&gt;According to Dr Paul Miller, Technology Evangelist at Talis, the company's platform emphasizes &amp;quot;the importance of context, role, intention and attention in meaningfully tracking behaviour across the web.&amp;quot; To find out more about Talis, check out their regular podcasts - the &lt;a href="http://blogs.talis.com/nodalities/2007/11/kaila_colbin_and_branton_kento.php"&gt;most recent one&lt;/a&gt; features Kaila Colbin (an occassional &lt;a href="http://www.altsearchengines.com"&gt;AltSearchEngines&lt;/a&gt; correspondent) and Branton Kenton-Dau of VortexDNA.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;UPDATE:&lt;/b&gt; Marshall Kirkpatrick published an interview with Dr Miller the day after this post. &lt;a href="http://www.readwriteweb.com/archives/semantic_technology_in_action.php"&gt;Check it out here&lt;/a&gt;.&lt;/p&gt;
+                              &lt;h2&gt;TrueKnowledge&lt;/h2&gt;
+
+                              &lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/true_knowledge_logo_nov07.png" align="right" hspace="5px" vspace="5px" /&gt;Venture funded UK semantic search engine &lt;a href="http://trueknowledge.com"&gt;TrueKnowledge&lt;/a&gt; unveiled &lt;a href="http://www.readwriteweb.com/archives/trueknowledge_demo.php"&gt;a demo of its private beta&lt;/a&gt; earlier this month. It reminded Marshall Kirkpatrick of the still-unlaunched &lt;a href="http://powerset.com"&gt;Powerset&lt;/a&gt;, but it's also reminiscent of the very real &lt;a href="http://ask.com"&gt;Ask.com&lt;/a&gt; &amp;quot;smart answers&amp;quot;. TrueKnowledge combines natural language analysis, an internal knowledge base and external databases to offer immediate answers to various questions.  Instead of just pointing you to web pages where the search engine believes it can find your answer, it will offer you an explicit answer and explain the reasoning patch by which that answer was arrived at.  There's also an interesting looking API at the center of the product.  &amp;quot;Direct answers to humans and machine questions&amp;quot; is the company's tagline.&lt;/p&gt;
+
+                              &lt;p&gt;Founder William Tunstall-Pedoe said he's been working on the software for the past 10 years, really putting time into it since coming into initial funding in early 2005.&lt;/p&gt;
+&lt;h2&gt;TripIt&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/tripit_logo_nov07.jpg" align="left" hspace="5" vspace="5" /&gt;&lt;a href="http://www.tripit.com/"&gt;Tripit&lt;/a&gt; is an app that manages your travel planning. Emre Sokullu &lt;a href="http://www.readwriteweb.com/archives/techcrunch40_community_and_collaboration.php"&gt;reviewed it&lt;/a&gt; when it presented at TechCrunch40 in September. With TripIt, you forward incoming bookings to plans@tripit.com and the system manages the rest.
+  Their patent pending "itinerator" technology is a baby step in the semantic web - it
+  extracts useful infomation from these mails and makes a well structured and
+organized presentation of your travel plan. It pulls out information from Wikipedia for the places that you visit. It uses
+  microformats - the iCal format, which is well integrated into GCalendar and
+other calendar software.&lt;/p&gt;
+
+  &lt;p&gt;The company claimed at TC40 that "instead of dealing with 20 pages of planning, you just print out 3
+  pages and everything is done for you". Their future plans include a recommendation engine which will tell you where to
+  go and who to meet.&lt;/p&gt;
+  &lt;h2&gt;Clear Forest&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.clearforest.com"&gt;&lt;img
+src="http://www.readwriteweb.com/images/clearforest_logo.gif" align="left" vspace="5"
+hspace="5" border="0" width="316" height="50" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a
+href="http://www.clearforest.com"&gt;ClearForest&lt;/a&gt; is one of the companies in the top-down
+camp. &lt;a href="http://www.readwriteweb.com/archives/clearforest.php"&gt;We profiled&lt;/a&gt; the product in December '06 and at that point ClearForest was applying its core natural language
+processing technology to facilitate next generation semantic applications. In April 2007 the company was &lt;a href="http://www.clearforest.com/whatsnew/PRs.asp?year=2007&amp;id=109"&gt;acquired by Reuters&lt;/a&gt;. The company has both a Web Service and a Firefox extension that leverages an API
+to deliver the end-user application. &lt;/p&gt;
+
+&lt;p&gt;The Firefox extension is called &lt;a href="https://addons.mozilla.org/firefox/3999/"&gt;Gnosis&lt;/a&gt; and it enables you to &amp;quot;identify the people, companies, organizations, geographies and products on the page you are viewing.&amp;quot; With one click from the menu, a webpage you view via Gnosis is  filled with various types of annotations. For example it recognizes Companies, Countries, Industry Terms, Organizations, People, Products and Technologies. Each word that Gnosis recognizes, gets colored according to the category.&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/clearforest1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Also, ClearForest's Semantic Web Service offers a SOAP interface for analyzing text, documents and web pages.&lt;/p&gt;
+
+&lt;h2&gt;Spock&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/spock_logo.png" align="right" vspace="5"
+hspace="5" /&gt;&lt;a href="http://www.spock.com/"&gt;Spock&lt;/a&gt; is a people search engine that got a lot of buzz when it launched. Alex Iskold went so far as &lt;a href="http://www.readwriteweb.com/archives/spock_vertical_search_done_right.php"&gt;to call it&lt;/a&gt; &amp;quot;one of the best
+  vertical semantic search engines built so far.&amp;quot; According to Alex there are four things that makes their
+  approach special:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The person-centric perspective of a query&lt;/li&gt;
+  &lt;li&gt;Rich set of attributes that characterize people (geography, birthday, occupation,
+    etc.)&lt;/li&gt;
+  &lt;li&gt;Usage of tags as links or relationships between people&lt;/li&gt;
+
+  &lt;li&gt;Self-correcting mechanism via user feedback loop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a vertical engine, Spock knows important attributes that people have: name, gender, age, occupation and location just to name a few. Perhaps the most interesting aspect of Spock is its usage of tags - all frequent phrases that Spock extracts via its crawler become tags; and also users can add tags. So Spock leverages a combination of automated tags and people power for tagging.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;What have we missed? ;-) Please use the comments to list other Semantic Apps you know of. It's an exciting sector right now, because Semantic Web and Web 2.0 technologies alike are being used to create new semantic applications. One gets the feeling we're only at the beginning of this trend.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=ELKu94"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=ELKu94" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=DTqn1TB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=DTqn1TB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=aJHqndB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=aJHqndB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=6gvmvfb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=6gvmvfb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=SjoOIPb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=SjoOIPb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=qVHYMTb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=qVHYMTb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192277860" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192277860/10_semantic_apps_to_watch.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php</guid>
+         <category>Semantic Web</category>
+         <pubDate>Thu, 29 Nov 2007 00:30:00 -0800</pubDate>
+<author>Richard MacManus</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Yahoo! To Take Web Widgets to the Desktop</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/yahoowidgets-logo.jpg" align="left" hspace="5" vspace="5" width="200" height="30" /&gt;Yahoo! tonight announced the release of the latest version of the &lt;a href="http://widgets.yahoo.com/"&gt;Yahoo! Widgets&lt;/a&gt; platform, version 4.5.  For developers, the platform includes a range of new features, including the ability to use video, &lt;a href="http://widgets.yahoo.com/badges/"&gt;widgets for spreading your widgets&lt;/a&gt;, and better security disclosures.  But the single most important new feature in this release is a re-architected widget core that gives developers full access to the DOM, as well as HTML and Flash.&lt;/p&gt;
+
+&lt;p&gt;What that means is that any developers with web collateral in HTML or Flash can easily transform their web widgets into desktop widgets.  Yahoo! is already working with the leading web widget distribution platforms, including Netvibes, Clearspring, and MuseStorm, to bring their widgets offline.  Netvibes has already committed to bringing the thousands of widgets created for their &lt;a href="http://eco.netvibes.com/"&gt;ecosystem&lt;/a&gt; to the desktop via Yahoo! Widgets.&lt;/p&gt;
+
+&lt;p&gt;MuseStorm will bring some of its high profile widgets to the desktop by the end of the year, and Clearspring will enable some of their widgets on the Yahoo! platform as well. All three will be able to offer desktop distribution as an option to developers via Yahoo!'s new system.&lt;/p&gt;
+
+&lt;p&gt;I spoke with Scott Derringer, who is the Director of Product Management for Yahoo! Widgets, and he told me that because of the engine's full support for HTML and Flash translating existing web assets to a desktop widget is now "tremendously easy."  Derringer told me he thinks that desktop widgets tend to offer deeper interaction than their web counterparts because they are always on, always ready to receive new information, and can operate in the background while a user does other stuff.  Web widgets, on the other hand, need you to be present at a specific page to be operating.&lt;/p&gt;
+
+&lt;p&gt;Yahoo! also soft-launched an updated version of the &lt;a href="http://widgets.yahoo.com/"&gt;widget gallery&lt;/a&gt; about 10 days ago, and I was told that their ultimate goal is to become the clearinghouse for all desktop widgets that run on their engine, including those ported from web platforms.  Right now they list about 4,300 widgets, but that number should grow once web developers start porting their widgets to the desktop.&lt;/p&gt;
+
+&lt;p&gt;Allowing developers to take web widgets offline is good news for both developers and users, and will not only mean more widgets available to desktop users, but also more developers creating widgets for the desktop, since now web developers can create desktop widgets by using scripting languages they are familiar with.  What would be great is if Yahoo! could go the other way in the next update and make Yahoo! desktop widgets work on the web.  Perhaps even on MyYahoo!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=A8iNOQ"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=A8iNOQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=bQz2waB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=bQz2waB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=LOAX2JB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=LOAX2JB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=Efmu6yb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=Efmu6yb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=cvO71Gb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=cvO71Gb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=ZBFMbVb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=ZBFMbVb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192233981" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192233981/yahoo_to_take_web_widgets_to_the_desktop.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/yahoo_to_take_web_widgets_to_the_desktop.php</guid>
+         <category>News</category>
+         <pubDate>Wed, 28 Nov 2007 22:12:20 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/yahoo_to_take_web_widgets_to_the_desktop.php</feedburner:origLink></item>
+      
+      <item>
+         <title>User Centric Identity: A Call To Action</title>
+		<description>&lt;p&gt; I've been thinking a lot about user centric identity over the last few weeks.  One of the &lt;a href="http://www.readwriteweb.com/archives/defrag_five_themes.php" title="Five Themes From the Defrag Conference"&gt;5 Big Themes from the Defrag Conference&lt;/a&gt; was the importance of &lt;i&gt;user centric identity.&lt;/i&gt;  As mentioned in that post, we ended up having one of the leading thinkers in this area, Kaliya Hamlin (a.k.a. Identity Woman) on an episode of &lt;a href="http://readwritetalk.com/2007/11/10/kaliya-hamlin-identity-woman/" title="Read/WriteTalk  &amp;raquo; Blog Archive   &amp;raquo; Kaliya Hamlin - Identity Woman (and Dale Olds)"&gt;Read/WriteTalk&lt;/a&gt;. Early in the interview, I asked Kaliya to give me the elevator pitch on user centric identity.  She responded: &lt;/p&gt;
+
+&lt;blockquote&gt;
+   &lt;p&gt;	&amp;quot;Really, itÕs about giving people the freedom to move around the web with their identity. Just like we move about the world with our bodies. Now IÕd see you in one context and then you show up in another place I go ÒOh! ThatÕs the same person because theyÕre walking around in the same body.Ó So on the web, we just have handles and there has been no standard until very recently where I could move from one context to another context and take that identity that handle with me and would prove that IÕm the same person.  Of course, giving people the freedom to aggregate across the network of sites. Instead of having a username and password thatÕs different at every single place you go.&amp;quot; &lt;/p&gt;
+&lt;/blockquote&gt; 
+
+&lt;p&gt;&lt;img src="http://www.readwriteweb.com/images/OpenIDMap.jpg" width="133" height="103" alt="OpenID" align='right'&gt;With standards like &lt;a href="http://openid.net/" title="OpenID"&gt;OpenId&lt;/a&gt;, it's great to see user centric identity moving from a concept to a reality.  In the rest of this post, we'll explore: &lt;/p&gt;
+
+&lt;ul&gt; 
+   &lt;li&gt; Why user centric identity is important &lt;/li&gt;
+  &lt;li&gt; How it fits into some themes we discuss regularly on RWW &lt;/li&gt;
+   &lt;li&gt; Finally, opportunities for you to get involved &lt;/li&gt;                                  
+ 
+
+&lt;/ul&gt;
+&lt;h2&gt; Why is this important? ... Startup Fatigue &lt;/h2&gt;
+
+&lt;p&gt; I am included in the group of writers at RWW who receive pitches via our email address &lt;a href="mailto:tips@readwriteweb.com"&gt;tips@readwriteweb.com&lt;/a&gt;. I've been amazed at the number of innovative web apps being developed to solve real problems.  It seems like at least once a week I come across something that I'd be interested in trying out.  The problem is that if a site doesn't accept OpenID, it ends up being one more handle and password I need to remember.  Keeping track of all these accounts is exhausting.  Over time, it has  raised the bar for when I'm willing to actually try out a service.  I call this effect &lt;i&gt;sign up fatigue. &lt;/i&gt; Interestingly, many of the people I talk to seem to be experiencing the same thing.  &lt;/p&gt;
+
+&lt;p&gt;	The product my company recently released, &lt;a href="http://www.feedhub.com/"&gt;FeedHub&lt;/a&gt;, allows user to register using OpenID.  Obviously, for those who don't have an OpenID or don't want to use it, they can still provide FeedHub with their email and a password.  Interacting with our users, I've been pleasantly surprised with the number of people who've told me how much they appreciate being able to sign up with Open ID.  I think it's helped us attract a number of users who otherwise might not have been willing to sign up - due to their own startup fatigue - but who now are some of our most loyal customers.  &lt;/p&gt;   
+
+&lt;h2&gt; Important Emerging Issues &lt;/h2&gt;                
+
+&lt;p&gt; In addition to the role Open ID can play as simply a core component of any web application, user centric identity is conceptually a foundation for many of the emerging themes we discuss regularly at ReadWriteWeb, including: &lt;/p&gt;        
+   
+
+&lt;ul&gt;
+   &lt;li&gt;&lt;b&gt;Opening Up the Social Graph:&lt;/b&gt; One of the interesting challenges right now for Open Social is that the authentication is still being handled by the container.  It will be critical to adopt &lt;a href="http://oauth.net/" title="OAuth &amp;mdash; An open protocol to allow secure API authentication in a simple and standard method from desktop and web applications."&gt;OAuth&lt;/a&gt; or some other open standard for the true opportunity to be realized. As I &lt;a href="http://www.readwriteweb.com/archives/opensocial_defrag_kevin_marks.php" title="Google's Kevin Marks Discusses OpenSocial at Defrag"&gt;reported from the Defrag Conference&lt;/a&gt;, Kevin Marks from Google was honest about this not being a sufficient solution.   &lt;/h3&gt;                  
+
+   &lt;li&gt;&lt;img src="http://www.readwriteweb.com/images/berkat10.png" width="90" height="90" alt="Berkat10" hspace='5' vspace='5' align='right'&gt;&lt;b&gt;Vendor Relationship Management (VRM):&lt;/b&gt; Doc Searls has been a thought leader in the user centric identity community for some time.  He is currently working with the &lt;a href="http://cyber.law.harvard.edu/home/" title="Home - Berkman Center for Internet &amp; Society"&gt;Berkman Center at Harvard&lt;/a&gt; on developing the next step called VRM. Bernard Lunn recently summarized VRM on ReadWriteWeb as  &lt;a href="http://www.readwriteweb.com/archives/attention_to_intention_to_vrm.php" title="Attention to Intention to VRM - Opportunities for Entrepreneurs"&gt;"Turning Attention into Intention."&lt;/a&gt;&lt;/li&gt;
+
+   &lt;li&gt;&lt;b&gt;Attention Economy:&lt;/b&gt; Beyond VRM, many of the concepts behind the attention economy require users to be empowered to authenticate across sites.   &lt;/li&gt;   
+&lt;/ul&gt;
+         
+&lt;h2&gt; Getting Involved &lt;/h2&gt;              
+
+&lt;a href="http://www.windley.com/events/iiw2007b/register.shtml"&gt;&lt;img src="http://www.windley.com/events/iiw2007b/images/iiw2007b_badge_small.png"
+border="0" hspace="5" vspace="5" align="left" title="IIW2007 Registration banner" alt="IIW2007 Registration banner" /&gt;&lt;/a&gt;
+&lt;p&gt; If you are interested in learning more about user centric identity, there is an (un)conference at the Computer History Museum next week you should consider attending - &lt;a href="http://www.windley.com/events/iiw2007b/" title="Internet Identity Workshop (IIW) 2007B"&gt;The Internet Identity Workshop&lt;/a&gt;.  I've attended in the past and will be there for at least part of the conference this year.  If you are interested in learning more and participating in the community, please consider signing up and joining the conversation. &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=llC6zO"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=llC6zO" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=MTciaXB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=MTciaXB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=UbFmXjB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=UbFmXjB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=67oKnSb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=67oKnSb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=hoBXMTb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=hoBXMTb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=JkcD2zb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=JkcD2zb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192204673" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192204673/user_centric_identity_call_to_action.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/user_centric_identity_call_to_action.php</guid>
+         <category>Analysis</category>
+         <pubDate>Wed, 28 Nov 2007 20:23:53 -0800</pubDate>
+<author>Sean Ammirati</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/user_centric_identity_call_to_action.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Business Lessons from Kiva</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/kiva-logo.jpg" align="left" hspace="5" vspace="5" width="145" height="80" /&gt;We've written about San Francisco-based &lt;a href="http://kiva.org/"&gt;Kiva.org&lt;/a&gt;, a not-for-profit organization that arranges interest-free microloans to entrepreneurs in developing nations, a couple of times before (&lt;a href="http://www.readwriteweb.com/archives/kiva_philanthropy20.php"&gt;here&lt;/a&gt; and &lt;a href="http://www.readwriteweb.com/archives/kiva_11_million_in_loans_to_developing_nations.php"&gt;here&lt;/a&gt;).  Kiva has been a massive success story in the non-profit web space.  It has now funded over 18,000 loans from over 123,000 lenders totaling about $12.4 million.  To put that in perspective, recall that just a few weeks ago, in September of this year, Kiva crossed the $11 million mark on 17,000 loans from 110,000 lenders.&lt;/p&gt;
+
+&lt;p&gt;That sort of growth and success is phenomenal, and for profit businesses could learn a thing or two from how Kiva conducts its business to achieve such staggering results.  Entrepreneur and author Guy Kawasaki summed up six lessons business owners can learn from Kiva in &lt;a href="http://blog.guykawasaki.com/2007/11/five-lessons-fr.html"&gt;a great post&lt;/a&gt; on his blog today.&lt;/p&gt;
+
+&lt;p&gt;Below are his six lessons, but I've left out the great additional commentary that he provides on his site, so be sure to check out his original post for that:&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Create meaningful partnerships.&lt;/b&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;b&gt;Catalyze and support evangelism.&lt;/b&gt;&lt;/b&gt;
+&lt;li&gt;&lt;b&gt;Find a business model.&lt;/b&gt;&lt;/li&gt; 
+
+&lt;li&gt;&lt;b&gt;"Bank" on unproven people.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Focus on free marketing.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Ignore the naysayers.&lt;/b&gt;&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;p&gt;These are some great lessons that any entrepreneur should pay attention to.  And as Kawasaki suggests, why not visit &lt;a href="http://kiva.org/"&gt;Kiva.org&lt;/a&gt; and help fund a loan to someone who really needs it?&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=wvyEhj"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=wvyEhj" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=83v1tiB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=83v1tiB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=DfFOAtB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=DfFOAtB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=DNTFXGb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=DNTFXGb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=8GllShb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=8GllShb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=6qfDO7b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=6qfDO7b" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192067029" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192067029/business_lessons_from_kiva.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/business_lessons_from_kiva.php</guid>
+         <category>Web Business</category>
+         <pubDate>Wed, 28 Nov 2007 14:01:52 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/business_lessons_from_kiva.php</feedburner:origLink></item>
+      
+      <item>
+         <title>NASDAQ Internet Index - No Microsoft, News Corp?</title>
+		<description>&lt;p&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/nasdaq-logo.jpg" align="left" hspace="5" vspace="5" width="190" height="45" /&gt;Yesterday we noted the launch of a new &lt;a href="http://www.readwriteweb.com/archives/nasdaq_internet_index.php"&gt;Nasdaq stock market index&lt;/a&gt; tracking only Internet companies, called the NASDAQ Internet Index. The index (^QNET) will track a diverse range of companies covering "Internet access providers, Internet search engines, web hosting, website design, and Internet retail commerce."&lt;/p&gt;
+
+&lt;p&gt;The list is now available (&lt;a href="http://tradermike.net/2007/11/components_of_the_nasdaq_internet_index_qnet/"&gt;thanks TraderMike&lt;/a&gt;). The leading companies include Google, Yahoo, eBay, Amazon, IAC/InterActiveCorp. It also includes international companies, like Baidu and Sohu from China.&lt;/p&gt;
+&lt;p&gt;As Josh noted earlier today though, curiously absent are sites like Microsoft and News Corp. - who control some of the most popular properties on the Internet (MSN/Live and MySpace/FIM respectively). These companies many not be only Internet companies, but their impact on the web is undeniably enormous. Are there any other public Internet companies missing who you think should be there? [full list after the jump]&lt;/p&gt;
+
+&lt;p&gt;Courtesy of &lt;a href="http://www.apogee-web-consulting.com/blogger/2007/11/nasdaq-internet-index-components-by.html"&gt;Richard Ball&lt;/a&gt;, here is the full list sorted by ticker symbol:
+
+&lt;p&gt;&lt;a href="http://finance.yahoo.com/q?s=AKAM"&gt;AKAM&lt;/a&gt; Akamai Technologies, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=AMZN"&gt;AMZN&lt;/a&gt; Amazon.com, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ARBA"&gt;ARBA&lt;/a&gt; Ariba, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ARTG"&gt;ARTG&lt;/a&gt; Art Technology Group, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ASIA"&gt;ASIA&lt;/a&gt; AsiaInfo Holdings, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=BIDU"&gt;BIDU&lt;/a&gt; Baidu.com, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=BIDZ"&gt;BIDZ&lt;/a&gt; BIDZ.COM, INC.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CCOI"&gt;CCOI&lt;/a&gt; Cogent Communications Group, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CFSG"&gt;CFSG&lt;/a&gt; China Fire &amp;amp; Security Group, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CHRD"&gt;CHRD&lt;/a&gt; Chordiant Software, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CLWR"&gt;CLWR&lt;/a&gt; Clearwire Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CNET"&gt;CNET&lt;/a&gt; CNET Networks, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CRYP"&gt;CRYP&lt;/a&gt; CryptoLogic Limited&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=CYBS"&gt;CYBS&lt;/a&gt; CyberSource Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=DIVX"&gt;DIVX&lt;/a&gt; DivX, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=DRIV"&gt;DRIV&lt;/a&gt; Digital River, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=DSCM"&gt;DSCM&lt;/a&gt; drugstore.com, inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=EBAY"&gt;EBAY&lt;/a&gt; eBay Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=EGOV"&gt;EGOV&lt;/a&gt; NIC Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ELNK"&gt;ELNK&lt;/a&gt; EarthLink, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=EQIX"&gt;EQIX&lt;/a&gt; Equinix, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=EXPE"&gt;EXPE&lt;/a&gt; Expedia, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=FLWS"&gt;FLWS&lt;/a&gt; 1-800 FLOWERS.COM, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=FTD"&gt;FTD&lt;/a&gt; FTD Group, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=GIGM"&gt;GIGM&lt;/a&gt; GigaMedia Limited&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=GMKT"&gt;GMKT&lt;/a&gt; Gmarket Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=GOOG"&gt;GOOG&lt;/a&gt; Google Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=GSIC"&gt;GSIC&lt;/a&gt; GSI Commerce, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=GSOL"&gt;GSOL&lt;/a&gt; Global Sources Ltd.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IACI"&gt;IACI&lt;/a&gt; IAC/InterActiveCorp&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IBAS"&gt;IBAS&lt;/a&gt; iBasis, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ICGE"&gt;ICGE&lt;/a&gt; Internet Capital Group, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IGLD"&gt;IGLD&lt;/a&gt; Internet Gold Golden Lines Ltd.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IIG"&gt;IIG&lt;/a&gt; IMERGENT INC&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=INAP"&gt;INAP&lt;/a&gt; Internap Network Services Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=INSP"&gt;INSP&lt;/a&gt; InfoSpace, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IPAS"&gt;IPAS&lt;/a&gt; iPass Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=IWOV"&gt;IWOV&lt;/a&gt; Interwoven, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=JCOM"&gt;JCOM&lt;/a&gt; j2 Global Communications Inc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=JRJC"&gt;JRJC&lt;/a&gt; China Finance Online Co. Limited&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=JUPM"&gt;JUPM&lt;/a&gt; Jupitermedia Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=KEYN"&gt;KEYN&lt;/a&gt; Keynote Systems, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=KNOT"&gt;KNOT&lt;/a&gt; Knot, Inc. (The)&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=LLNW"&gt;LLNW&lt;/a&gt; Limelight Networks, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=LOOP"&gt;LOOP&lt;/a&gt; LoopNet, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=LPSN"&gt;LPSN&lt;/a&gt; LivePerson, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=LQDT"&gt;LQDT&lt;/a&gt; Liquidity Services, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=MCHX"&gt;MCHX&lt;/a&gt; Marchex, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=NAVI"&gt;NAVI&lt;/a&gt; NaviSite, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=NFLX"&gt;NFLX&lt;/a&gt; Netflix, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=NILE"&gt;NILE&lt;/a&gt; Blue Nile, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=NTES"&gt;NTES&lt;/a&gt; Netease.com, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=NTRI"&gt;NTRI&lt;/a&gt; NutriSystem Inc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=OMTR"&gt;OMTR&lt;/a&gt; Omniture, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=OPWV"&gt;OPWV&lt;/a&gt; Openwave Systems Inc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=ORCC"&gt;ORCC&lt;/a&gt; Online Resources Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=OSTK"&gt;OSTK&lt;/a&gt; Overstock.com, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=OTEX"&gt;OTEX&lt;/a&gt; Open Text Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=PCLN"&gt;PCLN&lt;/a&gt; priceline.com Incorporated&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=PETS"&gt;PETS&lt;/a&gt; PetMed Express, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=PRFT"&gt;PRFT&lt;/a&gt; Perficient, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=PRTS"&gt;PRTS&lt;/a&gt; U.S. Auto Parts Network, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=RATE"&gt;RATE&lt;/a&gt; Bankrate Inc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=RNWK"&gt;RNWK&lt;/a&gt; RealNetworks, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=RVSN"&gt;RVSN&lt;/a&gt; RADVision Ltd.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SCOR"&gt;SCOR&lt;/a&gt; comScore, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SDXC"&gt;SDXC&lt;/a&gt; Switch &amp;amp; Data Facilities Company, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SFLY"&gt;SFLY&lt;/a&gt; Shutterfly, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SIFY"&gt;SIFY&lt;/a&gt; Sify Technologies Limited&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SINA"&gt;SINA&lt;/a&gt; Sina Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SKIL"&gt;SKIL&lt;/a&gt; SkillSoft plc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SNWL"&gt;SNWL&lt;/a&gt; SonicWALL, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SOHU"&gt;SOHU&lt;/a&gt; Sohu.com Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SONE"&gt;SONE&lt;/a&gt; S1 Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SPRT"&gt;SPRT&lt;/a&gt; SupportSoft Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SRVY"&gt;SRVY&lt;/a&gt; Greenfield Online, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=STMP"&gt;STMP&lt;/a&gt; Stamps.com Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=SVVS"&gt;SVVS&lt;/a&gt; SAVVIS, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=TMRK"&gt;TMRK&lt;/a&gt; Terremark Worldwide, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=TRAK"&gt;TRAK&lt;/a&gt; DealerTrack Holdings, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=TSCM"&gt;TSCM&lt;/a&gt; TheStreet.com, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=TZOO"&gt;TZOO&lt;/a&gt; Travelzoo Inc&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=UNTD"&gt;UNTD&lt;/a&gt; United Online, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VCLK"&gt;VCLK&lt;/a&gt; ValueClick, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VIGN"&gt;VIGN&lt;/a&gt; Vignette Corporation&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VOCS"&gt;VOCS&lt;/a&gt; Vocus, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VPRT"&gt;VPRT&lt;/a&gt; VistaPrint Limited&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VRSN"&gt;VRSN&lt;/a&gt; VeriSign, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=VSCN"&gt;VSCN&lt;/a&gt; Visual Sciences, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=WBMD"&gt;WBMD&lt;/a&gt; WebMD Health Corp&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=WBSN"&gt;WBSN&lt;/a&gt; Websense, Inc.&lt;br /&gt;&lt;a href="http://finance.yahoo.com/q?s=YHOO"&gt;YHOO&lt;/a&gt; Yahoo! Inc.&lt;/p&gt;
+
+&lt;p&gt;You can download the spreadsheet &lt;a href="http://www.nasdaq.com/asp/index_component.asp?symbol=QNET"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=s6gCiY"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=s6gCiY" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=38sQKEB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=38sQKEB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=dFB67lB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=dFB67lB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=OnbasVb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=OnbasVb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=W753knb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=W753knb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=AbV3Tzb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=AbV3Tzb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192043136" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192043136/nasdaq_internet_index_list_available.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/nasdaq_internet_index_list_available.php</guid>
+         <category>News</category>
+         <pubDate>Wed, 28 Nov 2007 13:05:02 -0800</pubDate>
+<author>Richard MacManus</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/nasdaq_internet_index_list_available.php</feedburner:origLink></item>
+      
+      <item>
+         <title>Afrigator: The Best of African Social Media, in Real Time</title>
+		<description>&lt;p&gt;&lt;font style="float: right"&gt;&lt;script type="text/javascript"&gt;
+digg_url = 'http://digg.com/tech_news/Afrigator_The_Best_of_African_Social_Media_in_Real_Time';
+digg_bgcolor = '#ffffff';
+digg_skin = 'compact';
+&lt;/script&gt;
+
+&lt;script src="http://digg.com/tools/diggthis.js"
+type="text/javascript"&gt;&lt;/script&gt;&lt;/font&gt;&lt;a href="http://beta.afrigator.com"&gt;&lt;img src="http://www.readwriteweb.com/images/afrigatorlogo.jpg" align="left" hspace="5px" vspace="5px"&gt;&lt;/a&gt;
+African social media aggregator &lt;a href="http://beta.afrigator.com"&gt;Afrigator&lt;/a&gt; held a launch party in Johannesburg last night and unveiled the beta of the team's beautiful new website.  Several thousand African blogs, podcasts and videos are already indexed and viewable.
+&lt;/p&gt;&lt;p&gt;
+The site offers services for both readers and content producers.  Visitors to the site can sift through content by keyword, country, time, hot items or hot sources.  
+
+&lt;/p&gt;&lt;h2&gt;The Hotness Formula&lt;/h2&gt;&lt;p&gt;
+Hotness is determined by an algorithm that combines traffic, Afrigator user ranking, Page Rank and incoming links.  I'm excited to see some traffic help flesh out the rankings, I've already enjoyed watching several of the top videos. 
+&lt;/p&gt;&lt;p&gt; The ranking is most easily understood by starting with a comparison to &lt;a href="http://techmeme.com"&gt;Techmeme&lt;/a&gt;, I think - but that's clearly a comparison of limited worth as Afrigator is a very original site that goes beyond what Techmeme does in content and the algorithm in this case isn't a black box.  In some ways it's like what &lt;a href="http://technorati.com"&gt;Technorati&lt;/a&gt; is trying to do with its move to multimedia, but better executed in this case.
+
+&lt;center&gt;&lt;img src="http://www.readwriteweb.com/images/afrigatorscreen2.jpg" hspace="5px" vspace="5px"&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2&gt;Analytics&lt;/h2&gt;&lt;p&gt;
+For blog writers the site offers a whole suite of analytics gathered by a javascript badge you drop on your site.  The analytics display is very eye catching and includes inbound links, a list of Afrigator blog blogrolls you're included on and your ranking in the system.  I can't help but wonder why Technorati didn't offer this sort of service in its early days.  Afrigator also offers OpenID login, a very nice touch for ease of use.
+&lt;/p&gt;&lt;h2&gt;Context&lt;/h2&gt;&lt;p&gt;
+
+Site design is a real highlight, though there are a few usability kinks to work out in the Beta and an on-site media player would be a big improvement.  South Africa's Charl Norman has &lt;a href="http://www.bandwidthblog.com/2007/11/28/afrigator-beta-launched/"&gt;a more detailed review of Afrigator&lt;/a&gt;, which as of this morning my time was at the top of Africa's Digg-like social news site &lt;a href="http://muti.co.za/#"&gt;Muti&lt;/a&gt;.  Norman was an enormous help in writing this post.
+&lt;/p&gt;&lt;p&gt;
+Here at ReadWriteWeb we're huge fans of developers working outside the US.  &lt;a href="http://beta.afrigator.com"&gt;Afrigator&lt;/a&gt; is a particularly well executed example of just the kind of service that any region or niche could use to aggregate and filter the growing number of social media sources around the world. This is a project worth spreading the word about.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=U4pHbA"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=U4pHbA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=1WdiZNB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=1WdiZNB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=GScysGB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=GScysGB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=5JxUP3b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=5JxUP3b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=Wa41cKb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=Wa41cKb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=j6UUJEb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=j6UUJEb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/192008723" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/192008723/afrigator.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/afrigator.php</guid>
+         <category />
+         <pubDate>Wed, 28 Nov 2007 11:59:56 -0800</pubDate>
+<author>Marshall Kirkpatrick</author>
+      <feedburner:origLink>http://www.readwriteweb.com/archives/afrigator.php</feedburner:origLink></item>
+
+      
+      <item>
+         <title>A Big List of Sites That Teach You How To Do Stuff</title>
+		<description>&lt;p&gt;&lt;font style="float: right"&gt;&lt;script type="text/javascript"&gt;
+digg_url = 'http://digg.com/tech_news/A_Big_List_of_Sites_That_Teach_You_How_To_Do_Stuff';
+digg_bgcolor = '#ffffff';
+digg_skin = 'compact';
+&lt;/script&gt;
+&lt;script src="http://digg.com/tools/diggthis.js" type="text/javascript"&gt;&lt;/script&gt;&lt;/font&gt;&lt;img border="0" src="http://www.readwriteweb.com/images/hammernail.jpg" align="left" hspace="5" vspace="5" width="150" height="225" /&gt;With all due respect to Kevin Smith, the web is no longer only for complaining about movies.  In fact, there are a large number of very helpful sites that teach you how to do things.  These are do-it-yourself sites, but we're not talking about building a deck or baking a cake -- the web is full of more general interest sites that give quality instruction on all sorts of fun and useful projects.  Including, sometimes, how to build a deck or bake a cake.&lt;/p&gt;
+
+&lt;p&gt;In this horribly-titled, but hopefully useful round-up we will specifically focus on such general purpose sites that include some sort of rich media instruction (generally video).  We also might throw in a tech-focused site or two, since this is after all, a tech-focused blog.&lt;/p&gt;
+
+&lt;p&gt;If you know of any instructional sites that are missing from this list, please mention them in the comments below.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.instructables.com/"&gt;Instructables&lt;/a&gt; - "The World's Largest Show and Tell," as the site calls itself, is a community where people can create and share guides that cover a variety of topics from art and crafts to food, technology, and the home.  The multi-page guides are well illustrated and users can rate and discuss them.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.sutree.com/"&gt;SuTree&lt;/a&gt; - The recently redesigned SuTree aggregates video tutorials from over 250 sources.  Their library includes over 11,000 videos covering just about every topic you can imagine. They republish videos from a bunch of other sites on this list.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tricklife.com/"&gt;TrickLife&lt;/a&gt; - A user generated video tutorial site covering a large number of topics.  Their "Computing" section is one of the most active and features a number of great tutorials about how to use various computer programs.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.videojug.com/"&gt;VideoJug&lt;/a&gt; - VideoJug is one of the largest general purpose professionally produced video tutorial sites.  They host over 15,000 video tutorials in just about every subject under the sun, including some tongue-in-cheek tutorials like this one: &lt;a href="http://www.videojug.com/film/how-to-use-csi-techniques-to-find-out-who-used-your-coffee-mug"&gt;How To Use CSI Techniques To Find Out Who Used Your Coffee Mug&lt;/a&gt;.  The videos include text as well to make them easier to follow.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.expertvillage.com/"&gt;Expert Village&lt;/a&gt; - Expert Village calls itself the world's largest video tutorial site, and with nearly 49,000 videos, they might be right.  Expert Village produces videos using a network of "experts" in various fields.  Anyone can sign up to be an expert and the site contacts those it feels would do well hosting a video tutorial series.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ehow.com/"&gt;eHow&lt;/a&gt; - eHow is a very large tutorial site covering a wide range of topics.  Many of the tutorials were created by their editorial team, though some are user submitted.  The presentation of the tutorials isn't very compelling (generally on a single page, broken into steps, without much in the way of rich media to aid instruction), but the site does have a small and growing video tutorial library.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.householdhacker.com/"&gt;Household Hacker&lt;/a&gt; - A really cool video tutorial blog that instructs on how to achieve a number of "hacks" using common household items (usually these have to do with technology). As an example, the video embedded below demonstrates how to charge and iPod using an onion and some Gatorade (not sure why you'd ever want to do that, but, still pretty neat):&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;p&gt;
+
+&lt;p&gt;&lt;embed src="http://www.metacafe.com/fplayer/927250/how_to_charge_an_ipod_using_electrolytes_and_an_onion.swf" width="400" height="345" wmode="transparent"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.makezine.com/blog/archive/make_podcast/"&gt;Make: Podcast&lt;/a&gt; - Make Magazine is, in general, one of the coolest DIY magazines out there, instructing each month on a variety of awesome projects.  Their online video podcast is a great collection of tutorials on how to do cool things like make a potato cannon or screen print your own t-shirt&lt;lis.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.5min.com/"&gt;5min&lt;/a&gt; - The "videopedia," as the site calls itself, 5min is another repository of user created video tutorials.  Their hook?  All the videos must be under 5 minutes in length.  This site is great for someone who wants to learn how to do something on a tight schedule.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.viewdo.com/"&gt;ViewDo&lt;/a&gt; - Another video tutorial site that relies on user contributions, ViewDo also mixes in some tutorials created in house.  ViewDo covers a ton of topic areas, and one of the nice things about the site is that videos can be downloaded to a portable media player (like an iPod or PSP) and watched on the go.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sclipo.com/"&gt;Sclipo&lt;/a&gt; - Sclipo not only encourages people to share their knowledge, but also provides a utility for them to do so via webcam.  As on most video sharing sites, users can rate and comment on clips.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://helpfulvideo.com/"&gt;Helpfulvideo&lt;/a&gt; - This is a rather strange site that mixes up video tutorials with video classified ads.  I'm not really sure where the crossover is, but if you're looking to buy a used car then learn how to change its oil filter, then perhaps this site is for you.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://teachertube.com/"&gt;TeacherTube&lt;/a&gt; - TeacherTube is a straight up YouTube clone aimed at providing an outlet for educational videos that I gather can be used by teachers in class.  Some of the videos were pretty good, but the site seems really unfocused compared to the rest in this round-up.  Then again, what kid wouldn't love &lt;a href="http://www.teachertube.com/view_video.php?viewkey=f28f7877155ccffad019"&gt;Dr. Loopy Discusses the Water Cycle&lt;/a&gt;? (Um, don't answer that.)&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.koonji.com/"&gt;Koonji&lt;/a&gt; - Offering people-powered guides, in my &lt;a href="http://www.readwriteweb.com/archives/koonji_people-powered_guides.php"&gt;August review&lt;/a&gt; of Koonji I compared the site to Instructables and Squidoo.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.squidoo.com/"&gt;Squidoo&lt;/a&gt; - Speaking of Squidoo... While not totally focused on tutorials, Squidoo's lenses are a font of information about all sorts of stuff and often include how-to guides (or links to them!).&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.about.com/"&gt;About.com&lt;/a&gt; - Who could forget About.com?  Not us!  Buried in the editorial of About.com are hundreds of tutorials, including a growing amount of video content -- you just have to dig for it sometimes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Image credit: &lt;a href="http://www.flickr.com/photos/19907278@N00/3575614/"&gt;docman&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.feedburner.com/~a/readwriteweb?a=gc6660"&gt;&lt;img src="http://feeds.feedburner.com/~a/readwriteweb?i=gc6660" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=yoVfJBB"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=yoVfJBB" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=LNo061B"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=LNo061B" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=s9sVMIb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=s9sVMIb" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=8EHLo3b"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=8EHLo3b" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~f/readwriteweb?a=a6GeSpb"&gt;&lt;img src="http://feeds.feedburner.com/~f/readwriteweb?i=a6GeSpb" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/readwriteweb/~4/191982100" height="1" width="1"/&gt;</description>
+         <link>http://feeds.feedburner.com/~r/readwriteweb/~3/191982100/tutorial_sites.php</link>
+         <guid isPermaLink="false">http://www.readwriteweb.com/archives/tutorial_sites.php</guid>
+         <category>Analysis</category>
+         <pubDate>Wed, 28 Nov 2007 11:07:41 -0800</pubDate>
+<author>Josh Catone</author>
+
+      <feedburner:origLink>http://www.readwriteweb.com/archives/tutorial_sites.php</feedburner:origLink></item>
+      
+   </channel>
+</rss>

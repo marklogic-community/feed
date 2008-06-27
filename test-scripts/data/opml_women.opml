@@ -1,0 +1,152 @@
+<opml version="1.1">
+    <head>
+        <title>FeedDemon Subscriptions</title>
+        <dateModified>Thu, 26 Jan 2006 19:58:47 GMT</dateModified>
+    </head>
+    <body>
+        <outline text="[My Feeds]">
+            <outline text="misbehaving">
+                
+                <outline text="Alice Taylor" title="Alice Taylor" type="rss" xmlUrl="http://feeds.feedburner.com/Wonderland" htmlUrl="http://crystaltips.typepad.com/wonderland/"/>
+                <outline text="Alison Watts" title="Alison Watts" type="rss" xmlUrl="http://wattsherart.blogspot.com/atom.xml" htmlUrl="http://wattsherart.blogspot.com"/>
+
+                <outline text="Amanda Williams" title="Amanda Williams" type="rss" xmlUrl="http://www.metamanda.com/blog/atom.xml" htmlUrl="http://www.metamanda.com/blog/"/>
+                <outline text="Amber Mac" title="Amber Mac" type="rss" xmlUrl="http://ambermac.blogspot.com/atom.xml" htmlUrl="http://ambermac.blogspot.com/"/>
+                <outline text="Amy Jo Kim" title="Amy Jo Kim" type="rss" xmlUrl="http://socialarchitect.typepad.com/musings/atom.xml" htmlUrl="http://socialarchitect.typepad.com/musings/"/>
+                <outline text="Angie McKaig" title="Angie McKaig" type="rss" xmlUrl="http://www.angiemckaig.com/index.xml" htmlUrl="http://www.angiemckaig.com/"/>
+                <outline text="Anita Bora" title="Anita Bora" type="rss" xmlUrl="http://www.anitabora.com/blog/feed/" htmlUrl="http://www.anitabora.com/blog/"/>
+                
+                <outline text="Anita Campbell" title="Anita Campbell" type="rss" xmlUrl="http://feeds.smallbiztrends.com/parsers/feedParser?feedId=220" htmlUrl="http://www.smallbusinesses.blogspot.com"/>
+                <outline text="Anna Vallgarda" title="Anna Vallgarda" type="rss" xmlUrl="http://akav.dk/blog/feed/" htmlUrl="http://akav.dk/blog"/>
+                <outline text="Anne Galloway" title="Anne Galloway" type="rss" xmlUrl="http://purselipsquarejaw.org/blogger_rss.xml" htmlUrl="http://www.purselipsquarejaw.org/"/>
+                <outline text="Ariel Meadow Stallings" title="Ariel Meadow Stallings" type="rss" xmlUrl="http://electrolicious.com/index.rdf" htmlUrl="http://www.electrolicious.com/"/>
+
+                <outline text="Beth Mazur" title="Beth Mazur" type="rss" xmlUrl="http://www.idblog.org/feed/atom/" htmlUrl="http://idblog.org/"/>
+                <outline text="Beth Platt" title="Beth Platt" type="rss" xmlUrl="http://www.plattitudes.com/plattitudes/atom.xml" htmlUrl="http://www.plattitudes.com/"/>
+                <outline text="Betsy Aoki" title="Betsy Aoki" type="rss" xmlUrl="http://blogs.msdn.com/betsya/rss.aspx" htmlUrl="http://blogs.msdn.com/betsya"/>
+                <outline text="Betsy Book" title="Betsy Book" type="rss" xmlUrl="http://terranova.blogs.com/terra_nova/atom.xml" htmlUrl="http://terranova.blogs.com/terra_nova/"/>
+                
+                <outline text="Betsy Devine" title="Betsy Devine" type="rss" xmlUrl="http://BetsyDevine.weblogger.com/xml/rss.xml" htmlUrl="http://betsydevine.weblogger.com/"/>
+                <outline text="Betsy Waliszewski" title="Betsy Waliszewski" type="rss" xmlUrl="http://www.oreillynet.com/pub/feed/31?au=" htmlUrl="http://www.oreillynet.com/pub/au/865"/>
+                <outline text="Beverly Tang" title="Beverly Tang" type="rss" xmlUrl="http://beverlytang.com/index.rdf" htmlUrl="http://www.beverlytang.com/"/>
+                <outline text="Blogsisters" title="Blogsisters" type="rss" xmlUrl="http://blogsisters.blogspot.com/rss/blogsisters.xml" htmlUrl="http://www.blogsisters.com/"/>
+                <outline text="but she's a girl..." title="but she's a girl..." type="rss" xmlUrl="http://www.rousette.org.uk/mt-static/blog/index.rdf" htmlUrl="http://www.rousette.org.uk/mt-static/blog/"/>
+                <outline text="Camey Combs" title="Camey Combs" type="rss" xmlUrl="http://www.amorsley.net/bugsplat/index.rdf" htmlUrl="http://www.amorsley.net/bugsplat/"/>
+                <outline text="Carol Ou" title="Carol Ou" type="rss" xmlUrl="http://www.rawbrick.net/feed/rss/" htmlUrl="http://www.rawbrick.net/"/>
+                <outline text="Caroline van Oosten de Boer" title="Caroline van Oosten de Boer" type="rss" xmlUrl="http://eachman.com/index.xml" htmlUrl="http://www.prolific.org/"/>
+                <outline text="Carolyn Burke" title="Carolyn Burke" type="rss" xmlUrl="http://linkingintegrity.blogspot.com/atom.xml" htmlUrl="http://linkingintegrity.blogspot.com/"/>
+                
+                <outline text="Cheryl Morris" title="Cheryl Morris" type="rss" xmlUrl="http://cherylmorris.com/blog/?feed=rss2" htmlUrl="http://cherylmorris.com/blog/"/>
+                <outline text="Christina Wodtke" title="Christina Wodtke" type="rss" xmlUrl="http://www.eleganthack.com/blog/index.rdf" htmlUrl="http://www.eleganthack.com/blog/"/>
+                <outline text="Clancy Ratliff" title="Clancy Ratliff" type="rss" xmlUrl="http://culturecat.net/rss.xml" htmlUrl="http://culturecat.net."/>
+                <outline text="Colleen" title="Colleen" type="rss" xmlUrl="http://colleen.typepad.com/first/atom.xml" htmlUrl="http://colleen.typepad.com/first/"/>
+                <outline text="Denise Howell" title="Denise Howell" type="rss" xmlUrl="http://feeds.feedburner.com/bagandbaggage" htmlUrl="http://bgbg.blogspot.com/"/>
+                <outline text="Dina Mehta" title="Dina Mehta" type="rss" xmlUrl="http://radio.weblogs.com/0121664/rss.xml" htmlUrl="http://radio.weblogs.com/0121664/"/>
+                <outline text="Dinah Sanders" title="Dinah Sanders" type="rss" xmlUrl="http://www.metagrrrl.com/metagrrrl/index.rdf" htmlUrl="http://www.metagrrrl.com/"/>
+                <outline text="Donna Wentworth" title="Donna Wentworth" type="rss" xmlUrl="http://www.corante.com/copyfight/index.xml" htmlUrl="http://www.corante.com/copyfight/"/>
+                <outline text="Dori Smith" title="Dori Smith" type="rss" xmlUrl="http://www.backupbrain.com/index.xml" htmlUrl="http://www.backupbrain.com/"/>
+                
+                <outline text="Elizabeth Albrycht" title="Elizabeth Albrycht" type="rss" xmlUrl="http://ringblog.typepad.com/corporatepr/atom.xml" htmlUrl="http://ringblog.typepad.com/corporatepr/"/>
+                <outline text="Elizabeth Churchill" title="Elizabeth Churchill" type="rss" xmlUrl="http://social.it.rit.edu/index.rdf" htmlUrl="http://social.it.rit.edu/people/advisory_board/elizabeth_churchill.php"/>
+                <outline text="Elizabeth Goodman" title="Elizabeth Goodman" type="rss" xmlUrl="http://www.confectious.net/thinking/atom.xml" htmlUrl="http://www.confectious.net/thinking/"/>
+                <outline text="Elizabeth Perry" title="Elizabeth Perry" type="rss" xmlUrl="http://www.elizabethperry.com/woolgathering/index.rdf" htmlUrl="http://www.elizabethperry.com/woolgathering/"/>
+
+                <outline text="Elouise Oyzon" title="Elouise Oyzon" type="rss" xmlUrl="http://weez.oyzon.com/index.php?/weezblogtemplates/rss_1.0/" htmlUrl="http://weez.oyzon.com/"/>
+                <outline text="Emily Chang" title="Emily Chang" type="rss" xmlUrl="http://www.artcodes.com/go/e/rss_2.0/" htmlUrl="http://www.artcodes.com/go/e/index/"/>
+                <outline text="Emma Story" title="Emma Story" type="rss" xmlUrl="http://caoine.org/feed/" htmlUrl="http://caoine.org/"/>
+
+                
+
+                <outline text="Evelyn Rodriguez" title="Evelyn Rodriguez" type="rss" xmlUrl="http://evelynrodriguez.typepad.com/crossroads_dispatches/atom.xml" htmlUrl="http://evelynrodriguez.typepad.com/"/>
+                <outline text="e-Welch" title="e-Welch" type="rss" xmlUrl="http://www.englib.info/index.xml" htmlUrl="http://englib.info/"/>
+                <outline text="George Oates" title="George Oates" type="rss" xmlUrl="http://george08.blogspot.com/atom.xml" htmlUrl="http://george08.blogspot.com/"/>
+
+                <outline text="Hanna Wallach" title="Hanna Wallach" type="rss" xmlUrl="http://www.srcf.ucam.org/~hmw26/join-the-dots/feed/" htmlUrl="http://www.srcf.ucam.org/~hmw26/join-the-dots/"/>
+                <outline text="Heather Champ" title="Heather Champ" type="rss" xmlUrl="http://www.hchamp.com/index.rdf" htmlUrl="http://www.hchamp.com/"/>
+
+                
+                <outline text="Helen Baxter" title="Helen Baxter" type="rss" xmlUrl="http://msbehaviour.blogspot.com/atom.xml" htmlUrl="http://msbehaviour.blogspot.com/"/>
+                <outline text="Helen Hearn" title="Helen Hearn" type="rss" xmlUrl="http://www.helenjane.com/index.rdf" htmlUrl="http://www.helenjane.com/"/>
+
+                <outline text="Irina Shklovski" title="Irina Shklovski" type="rss" xmlUrl="http://miswritings.blogspot.com/atom.xml" htmlUrl="http://miswritings.blogspot.com/"/>
+                <outline text="Jane Pinckard" title="Jane Pinckard" type="rss" xmlUrl="http://www.umamitsunami.com/index.rdf" htmlUrl="http://www.umamitsunami.com/"/>
+                <outline text="Janet Tokerud" title="Janet Tokerud" type="rss" xmlUrl="http://tokerud.typepad.com/blog/atom.xml" htmlUrl="http://tokerud.typepad.com/blog/"/>
+
+                <outline text="Jen King" title="Jen King" type="rss" xmlUrl="http://www.knowitallgirl.com/index.rdf" htmlUrl="http://www.knowitallgirl.com/"/>
+                <outline text="Jeneane Sessum" title="Jeneane Sessum" type="rss" xmlUrl="http://allied.blogspot.com/rss/allied.xml" htmlUrl="http://allied.blogspot.com/"/>
+                
+                <outline text="Jenni Merrifield" title="Jenni Merrifield" type="rss" xmlUrl="http://blogs.technet.com/strawberryjamm/rss.aspx" htmlUrl="http://blogs.technet.com/strawberryjamm/default.aspx"/>
+
+
+                <outline text="Jenny Berger" title="Jenny Berger" type="rss" xmlUrl="http://www.creativetechwriter.com/?feed=rss2" htmlUrl="http://www.creativetechwriter.com/"/>
+                <outline text="Jenny Levine" title="Jenny Levine" type="rss" xmlUrl="http://www.theshiftedlibrarian.com/atom.xml" htmlUrl="http://www.theshiftedlibrarian.com/"/>
+                <outline text="Jessica Millstone" title="Jessica Millstone" type="rss" xmlUrl="http://www.jemetc.com/edtech/index.rdf" htmlUrl="http://www.jemetc.com/edtech/"/>
+
+                <outline text="Johanna Rothman" title="Johanna Rothman" type="rss" xmlUrl="http://www.jrothman.com/weblog/RSS/htpblogger_rss.xml" htmlUrl="http://www.jrothman.com/weblog/htpblogger.html"/>
+                <outline text="Josie Frasier" title="Josie Frasier" type="rss" xmlUrl="http://fraser.typepad.com/edtechuk/atom.xml" htmlUrl="http://fraser.typepad.com/edtechuk/"/>
+                
+                <outline text="joy larkin" title="joy larkin" type="rss" xmlUrl="http://cleverhack.com/feed/" htmlUrl="http://www.cleverhack.com/"/>
+
+                <outline text="Judith Meskill" title="Judith Meskill" type="rss" xmlUrl="http://www.meskill.net/wordpress/?feed=rss2" htmlUrl="http://www.meskill.net/weblogs/"/>
+                <outline text="Julia Lerman" title="Julia Lerman" type="rss" xmlUrl="http://www.thedatafarm.com/blog/SyndicationService.asmx/GetRssCategory?categoryName=Africa" htmlUrl="http://www.thedatafarm.com/blog/"/>
+                <outline text="Kasia Trapszo" title="Kasia Trapszo" type="rss" xmlUrl="http://www.unix-girl.com/blog/index.rdf" htmlUrl="http://www.unix-girl.com/blog/"/>
+                <outline text="Kathy Sierra" title="Kathy Sierra" type="rss" xmlUrl="http://headrush.typepad.com/creating_passionate_users/atom.xml" htmlUrl="http://headrush.typepad.com/creating_passionate_users/"/>
+                <outline text="KC Lemson" title="KC Lemson" type="rss" xmlUrl="http://blogs.technet.com/kclemson/rss.aspx" htmlUrl="http://blogs.technet.com/kclemson/default.aspx"/>
+                <outline text="Laura John" title="Laura John" type="rss" xmlUrl="http://blogs.msdn.com/lauraj/rss.aspx" htmlUrl="http://blogs.msdn.com/lauraj"/>
+
+                
+                <outline text="Leigh Graves Wolf" title="Leigh Graves Wolf" type="rss" xmlUrl="http://wolfworld.typepad.com/leigh/atom.xml" htmlUrl="http://wolfworld.typepad.com/leigh/atom.xml"/>
+                <outline text="Lili Cheng" title="Lili Cheng" type="rss" xmlUrl="http://research.microsoft.com/rss/news.xml" htmlUrl="http://research.microsoft.com/~lilich/"/>
+                <outline text="Lilia Efimova" title="Lilia Efimova" type="rss" xmlUrl="http://blog.mathemagenic.com/rss.xml" htmlUrl="http://blog.mathemagenic.com/"/>
+                <outline text="Linuxchix" title="Linuxchix" type="rss" xmlUrl="http://live.linuxchix.org/rss.xml" htmlUrl="http://live.linuxchix.org/"/>
+                <outline text="Lisa Rein" title="Lisa Rein" type="rss" xmlUrl="http://www.onlisareinsradar.com//index.rdf" htmlUrl="http://onlisareinsradar.com/"/>
+                <outline text="Lisa Williams" title="Lisa Williams" type="rss" xmlUrl="http://www.cadence90.com/wp/?feed=rss2" htmlUrl="http://www.cadence90.com/wp/index.php"/>
+                <outline text="Lisbeth Klastrup" title="Lisbeth Klastrup" type="rss" xmlUrl="http://www.klastrup.dk/atom.xml" htmlUrl="http://www.klastrup.dk/"/>
+                <outline text="Louise Ferguson" title="Louise Ferguson" type="rss" xmlUrl="http://louiseferguson.com/rss/index.rdf" htmlUrl="http://www.louiseferguson.com/cityofbits.htm"/>
+                <outline text="Makiko Itoh" title="Makiko Itoh" type="rss" xmlUrl="http://feeds.feedburner.com/makikoitoh" htmlUrl="http://www.makikoitoh.com"/>
+                
+                <outline text="Margaine" title="Margaine" type="rss" xmlUrl="http://the-goddess.org/whatshesaid/Archive/atom.xml" htmlUrl="http://the-goddess.org/whatshesaid/"/>
+                <outline text="Marilyn Langfeld" title="Marilyn Langfeld" type="rss" xmlUrl="http://www.langfeldesigns.com/blog/atom.xml" htmlUrl="http://www.langfeldesigns.com/blog/langfeldblog.html"/>
+                <outline text="Mary Hodder" title="Mary Hodder" type="rss" xmlUrl="http://napsterization.org/stories/index.rdf" htmlUrl="http://napsterization.org/stories/"/>
+                <outline text="Meg @ Mandarin" title="Meg @ Mandarin" type="rss" xmlUrl="http://www.mandarindesign.com/atom.xml" htmlUrl="http://www.mandarindesign.com/blogger.html"/>
+                <outline text="Mena Trott" title="Mena Trott" type="rss" xmlUrl="http://mena.typepad.com/dollarshort/atom.xml" htmlUrl="http://mena.typepad.com/dollarshort/"/>
+                <outline text="Mie Kennedy" title="Mie Kennedy" type="rss" xmlUrl="http://kokochi.com/index.rdf" htmlUrl="http://kokochi.com/"/>
+                <outline text="Miriam Verburg" title="Miriam Verburg" type="rss" xmlUrl="http://www.flinknet.com/blog/feed" htmlUrl="http://www.flinknet.com/html/main.html"/>
+
+                
+                <outline text="Molly Holzschlag" title="Molly Holzschlag" type="rss" xmlUrl="http://www.molly.com/feed/" htmlUrl="http://www.molly.com/"/>
+                <outline text="Molly Steenson" title="Molly Steenson" type="rss" xmlUrl="http://www.girlwonder.com/atom.xml" htmlUrl="http://www.girlwonder.com"/>
+                <outline text="Mouche" title="Mouche" type="rss" xmlUrl="http://mouche.joueb.com/index.rdf" htmlUrl="http://mouche.joueb.com/"/>
+                <outline text="Pamela Jones" title="Pamela Jones" type="rss" xmlUrl="http://www.groklaw.net/backend/GrokLaw.rdf" htmlUrl="http://www.groklaw.net/"/>
+                <outline text="Popgadget" title="Popgadget" type="rss" xmlUrl="http://www.popgadget.net/atom.xml" htmlUrl="http://www.popgadget.net/"/>
+                <outline text="Rebecca Diaz" title="Rebecca Diaz" type="rss" xmlUrl="http://blogs.msdn.com/rdias/rss.aspx" htmlUrl="http://blogs.msdn.com/rdias"/>
+                <outline text="Regine Debatty" title="Regine Debatty" type="rss" xmlUrl="http://www.we-make-money-not-art.com/atom.xml" htmlUrl="http://www.we-make-money-not-art.com/"/>
+                <outline text="Renee Hopkins Callahan" title="Renee Hopkins Callahan" type="rss" xmlUrl="http://www.corante.com/ideaflow/index.xml" htmlUrl="http://www.corante.com/ideaflow/"/>
+                
+                <outline text="Ruth Edlund" title="Ruth Edlund" type="rss" xmlUrl="http://ruthedlund.blogspot.com/atom.xml" htmlUrl="http://ruthedlund.blogspot.com"/>
+                <outline text="Samantha Blackmon" title="Samantha Blackmon" type="rss" xmlUrl="http://www.cla.purdue.edu/people/engl/blackmon/blog/rss.html" htmlUrl="http://www.sla.purdue.edu/blackmon/blog/"/>
+                <outline text="Sara Williams" title="Sara Williams" type="rss" xmlUrl="http://blogs.msdn.com/saraw/rss.aspx" htmlUrl="http://blogs.msdn.com/saraw"/>
+                <outline text="Sarah Allen" title="Sarah Allen" type="rss" xmlUrl="http://www.ultrasaurus.com/index.rdf" htmlUrl="http://www.ultrasaurus.com/"/>
+
+
+
+                <outline text="Sonja Pieper" title="Sonja Pieper" type="rss" xmlUrl="http://daily.delusions.de/feed/" htmlUrl="http://daily.delusions.de/"/>
+                <outline text="Steph Mineart" title="Steph Mineart" type="rss" xmlUrl="http://feeds.feedburner.com/electrasteph" htmlUrl="http://www.commonplacebook.com/"/>
+                
+                <outline text="Stephanie Troeth" title="Stephanie Troeth" type="rss" xmlUrl="http://unadorned.org/dandruff/index.xml" htmlUrl="http://unadorned.org/dandruff/"/>
+                <outline text="Susan Crawford" title="Susan Crawford" type="rss" xmlUrl="http://scrawford.blogware.com/blog/index.xml" htmlUrl="http://scrawford.blogware.com/blog"/>
+                <outline text="Susan Kitchens" title="Susan Kitchens" type="rss" xmlUrl="http://www.2020hindsight.org/feed/" htmlUrl="http://www.2020hindsight.org"/>
+                <outline text="Suzanna Huebsch" title="Suzanna Huebsch" type="rss" xmlUrl="http://weblogs.elearning.ubc.ca/suzanna/index.rdf" htmlUrl="http://careo.elearning.ubc.ca/weblogs/suzanna/"/>
+                <outline text="Tanya Rabourn" title="Tanya Rabourn" type="rss" xmlUrl="http://www.pixelcharmer.com/fieldnotes/index.xml" htmlUrl="http://pixelcharmer.com/fieldnotes/"/>
+                <outline text="Thea Burger" title="Thea Burger" type="rss" xmlUrl="http://dotnet.org.za/thea/rss.aspx" htmlUrl="http://dotnet.org.za/thea/"/>
+                <outline text="Toby Tellier" title="Toby Tellier" type="rss" xmlUrl="http://www.songdawg.com/atom.xml" htmlUrl="http://www.songdawg.com/"/>
+                <outline text="Torill Mortensen" title="Torill Mortensen" type="rss" xmlUrl="http://torillsin.blogspot.com/atom.xml" htmlUrl="http://torillsin.blogspot.com/"/>
+                <outline text="Tracy L.M. Kennedy" title="Tracy L.M. Kennedy" type="rss" xmlUrl="http://www.netwomen.ca/Blog/atom.xml" htmlUrl="http://www.netwomen.ca/Blog/"/>
+                
+                <outline text="Wendy Seltzer" title="Wendy Seltzer" type="rss" xmlUrl="http://wendy.seltzer.org/blog/index.rdf" htmlUrl="http://wendy.seltzer.org/blog/"/>
+                <outline text="Xeni Jardin" title="Xeni Jardin" type="rss" xmlUrl="http://www.boingboing.net/atom.xml" htmlUrl="http://www.boingboing.net/"/>
+                <outline text="Yvonne Divita" title="Yvonne Divita" type="rss" xmlUrl="http://www.lipsticking.com/atom.xml" htmlUrl="http://windsormedia.blogs.com/"/>
+            </outline>
+        </outline>
+    </body>
+</opml>

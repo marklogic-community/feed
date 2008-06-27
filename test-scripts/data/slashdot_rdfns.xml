@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://my.netscape.com/rdf/simple/0.9/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    
+    <channel>
+        <title>Slashdot</title>
+        <link>http://slashdot.org/</link>
+        <description>News for nerds, stuff that matters</description>
+    </channel>
+    
+    <image>
+        <title>Slashdot</title>
+        <url>http://images.slashdot.org/topics/topicslashdot.gif</url>
+        
+        <link>http://slashdot.org/</link>
+    </image>
+    
+    <item>
+        <title>CSS Pocket Reference</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199347526/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=KcOJIs"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=KcOJIs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199347526" height="1" width="1"/&gt;</description><feedburner:origLink>http://books.slashdot.org/article.pl?sid=07/12/12/1441214&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>Desktop Synchrotron to Capture Molecular Action</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199323909/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=jxOAIg"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=jxOAIg" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199323909" height="1" width="1"/&gt;</description><feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/12/12/1633230&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>Can Time Slow Down?</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199309959/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=oTk6Pj"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=oTk6Pj" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199309959" height="1" width="1"/&gt;</description><feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/12/12/169208&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        
+        <title>Ch-Ch-Chatting With the South Pole's IT Manager</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199288483/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=FCzOOn"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=FCzOOn" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199288483" height="1" width="1"/&gt;</description><feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/12/12/1553250&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>US Government Caught Manipulating Wikipedia</title>
+        
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199266180/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=CMkEZu"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=CMkEZu" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199266180" height="1" width="1"/&gt;</description><feedburner:origLink>http://politics.slashdot.org/article.pl?sid=07/12/12/1551201&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>The 5 Users You'd Meet in Hell</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199251161/article.pl</link>
+        
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=yV9hrS"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=yV9hrS" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199251161" height="1" width="1"/&gt;</description><feedburner:origLink>http://it.slashdot.org/article.pl?sid=07/12/12/1520226&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>UPS Using Software To Eliminate Left Turns</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199229168/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=J3EdEN"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=J3EdEN" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199229168" height="1" width="1"/&gt;</description><feedburner:origLink>http://slashdot.org/article.pl?sid=07/12/12/1355219&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>'w00t' Named 2007 Word of the Year</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199266181/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=THKDft"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=THKDft" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199266181" height="1" width="1"/&gt;</description><feedburner:origLink>http://games.slashdot.org/article.pl?sid=07/12/12/1334234&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>Record Labels Change Minds About Sharing MP3s</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199175414/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=UALT5a"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=UALT5a" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199175414" height="1" width="1"/&gt;</description><feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/12/12/0124246&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        
+        <title>Voyager 2 Shows Solar System Is "Dented"</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199114797/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=a8eoEn"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=a8eoEn" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199114797" height="1" width="1"/&gt;</description><feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/12/12/0139258&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>FTC Says Payment Processor Took Millions</title>
+        
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199064320/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=VGdter"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=VGdter" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199064320" height="1" width="1"/&gt;</description><feedburner:origLink>http://it.slashdot.org/article.pl?sid=07/12/12/011212&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>Microsoft Giving Away Vista Ultimate, With a Catch</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/199005803/article.pl</link>
+        
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=tMbLyA"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=tMbLyA" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/199005803" height="1" width="1"/&gt;</description><feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/12/11/238244&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>Flying Humans</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/198965167/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=FGy0Ju"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=FGy0Ju" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/198965167" height="1" width="1"/&gt;</description><feedburner:origLink>http://slashdot.org/article.pl?sid=07/12/11/1833239&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>ISP Inserting Content Into Users' Webpages</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/198924314/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=Jwj6yQ"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=Jwj6yQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/198924314" height="1" width="1"/&gt;</description><feedburner:origLink>http://yro.slashdot.org/article.pl?sid=07/12/11/2321221&amp;from=rss</feedburner:origLink></item>
+    
+    <item>
+        <title>More Antarctic Dinosaurs</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/198877376/article.pl</link>
+        <description>&lt;p&gt;&lt;a href="http://rss.slashdot.org/~a/Slashdot/slashdot/to?a=HwEDH9"&gt;&lt;img src="http://rss.slashdot.org/~a/Slashdot/slashdot/to?i=HwEDH9" border="0"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://rss.slashdot.org/~r/Slashdot/slashdot/to/~4/198877376" height="1" width="1"/&gt;</description><feedburner:origLink>http://science.slashdot.org/article.pl?sid=07/12/11/225241&amp;from=rss</feedburner:origLink></item>
+    
+    <textinput>
+        
+        <title>Search Slashdot</title>
+        <description>Search Slashdot stories</description>
+        <name>query</name>
+        <link>http://slashdot.org/search.pl</link>
+    </textinput>
+    
+</rdf:RDF>

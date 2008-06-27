@@ -1,0 +1,37 @@
+<opml version="2.0">
+    <head>
+        <title>Top Podcasts</title>
+        <ownerName>Share Your OPML</ownerName>
+        <ownerId>http://share.opml.org/contact/</ownerId>
+        <dateModified>Sun, 21 Jan 2007 11:22:08 GMT</dateModified>
+    </head>
+    <body>
+        <outline text="The Web 2.0 Show" title="The Web 2.0 Show" type="rss" xmlUrl="http://feeds.feedburner.com/web20Show" htmlUrl="http://www.web20show.com/"/>
+        
+
+        <outline text="this WEEK in TECH" title="this WEEK in TECH" type="rss" xmlUrl="http://leoville.tv/podcasts/twit.xml" htmlUrl="http://thisWEEKinTECH.com"/>
+        <outline text="TalkCrunch" title="TalkCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/Talkcrunch" htmlUrl="http://www.talkcrunch.com"/>
+        <outline text="CURRY.COM" title="CURRY.COM" type="rss" xmlUrl="http://curry.podshow.com/wp-rss2.php" htmlUrl="http://curry.podshow.com"/>
+        <outline text="Adam Curry: Daily Source Code" title="Adam Curry: Daily Source Code" type="rss" xmlUrl="http://radio.weblogs.com/0001014/categories/dailySourceCode/rss.xml" htmlUrl="http://radio.weblogs.com/0001014/categories/dailySourceCode/"/>
+        <outline text="Diggnation w/Kevin Rose &amp; Alex Albrecht" title="Diggnation w/Kevin Rose &amp; Alex Albrecht" type="rss" xmlUrl="http://feeds.feedburner.com/diggnation" htmlUrl="http://revision3.com/diggnation"/>
+        <outline text="Podtech.net" title="Podtech.net" type="rss" xmlUrl="http://www.podtech.net/home/feed/" htmlUrl="http://www.PodTech.net/?800927059"/>
+        <outline text="Morning Coffee Notes" title="Morning Coffee Notes" type="rss" xmlUrl="http://www.morningcoffeenotes.com/rss.xml" htmlUrl="http://www.morningcoffeenotes.com/"/>
+        
+        <outline text="science friday podcast" title="science friday podcast" type="rss" xmlUrl="http://www.sciencefriday.com/audio/scifriaudio.xml" htmlUrl="http://www.sciencefriday.com"/>
+        <outline text="Open Source" title="Open Source" type="rss" xmlUrl="http://www.radioopensource.org/wp-rss2.php?cat%3D18" htmlUrl="http://www.radioopensource.org"/>
+        <outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://podcasts.engadget.com/rss.xml" htmlUrl="http://podcasts.engadget.com/"/>
+        <outline text="In Our Time" title="In Our Time" type="rss" xmlUrl="http://downloads.bbc.co.uk/rmhttp/downloadtrial/radio4/inourtime/rss.xml" htmlUrl="http://www.bbc.co.uk/radio4/history/inourtime/inourtime.shtml"/>
+        <outline text="The Chris Pirillo Show" title="The Chris Pirillo Show" type="rss" xmlUrl="http://www.thechrispirilloshow.com/subscriptions/mp3.xml" htmlUrl="http://www.thechrispirilloshow.com/"/>
+        <outline text="Gillmor Daily" title="Gillmor Daily" type="rss" xmlUrl="http://www.podshow.com/feeds/gillmordaily.xml" htmlUrl="http://gillmordaily.podshow.com"/>
+        <outline text="The Dawn and Drew Show!" title="The Dawn and Drew Show!" type="rss" xmlUrl="http://dawnanddrew.podshow.com/wp-rss2.php" htmlUrl="http://dawnanddrew.podshow.com"/>
+        <outline text="Geek News Central Podcast" title="Geek News Central Podcast" type="rss" xmlUrl="http://www.geeknewscentral.com/podcast.xml" htmlUrl="http://www.geeknewscentral.com/podcasts/"/>
+        <outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43FPodcast" htmlUrl="http://odeo.com/channel/34348/view"/>
+        
+        <outline text="The Onion Radio News" title="The Onion Radio News" type="rss" xmlUrl="http://www.theonion.com/content/feeds/radionews" htmlUrl="http://www.theonion.com/content/radionews"/>
+
+        <outline text="Mashup of the Week Podcast" title="Mashup of the Week Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/typepad/InoM" htmlUrl="http://viprhealthcare.typepad.com/mashup_of_the_week_podcas/"/>
+        <outline text="the Eric Rice Show" title="the Eric Rice Show" type="rss" xmlUrl="http://feeds.feedburner.com/ericriceshow" htmlUrl="http://show.ericrice.com/blog"/>
+        <outline text="On The Media from NPR/WNYC" title="On The Media from NPR/WNYC" type="rss" xmlUrl="http://www.onthemedia.org/index.xml" htmlUrl="http://www.onthemedia.org/"/>
+        <outline text="Buzz Out Loud from CNET" title="Buzz Out Loud from CNET" type="rss" xmlUrl="http://www.cnet.com/i/pod/cnet_buzz.xml" htmlUrl="http://www.cnet.com/"/>
+    </body>
+</opml>
